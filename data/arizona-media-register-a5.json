@@ -1,0 +1,300 @@
+[
+  {
+    "media_id": "AZ-MED-0001",
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "title": "Chandler BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-chandler-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery may be viewed at the rights holder's site. No USA BMX image is copied into Arizona Connect."
+  },
+  {
+    "media_id": "AZ-MED-0002",
+    "track_ids": [
+      "AZ-TRK-0002"
+    ],
+    "title": "Black Mountain BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-black-mountain%20bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery is linked, not mirrored or reproduced."
+  },
+  {
+    "media_id": "AZ-MED-0003",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "title": "Sports Park BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-sports-park%20bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery is linked, not mirrored or reproduced."
+  },
+  {
+    "media_id": "AZ-MED-0004",
+    "track_ids": [
+      "AZ-TRK-0004"
+    ],
+    "title": "Tucson BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-tucson-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery is linked, not mirrored or reproduced."
+  },
+  {
+    "media_id": "AZ-MED-0005",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ],
+    "title": "Goodyear BMX Raceway \u2014 official USA BMX visual/news page",
+    "media_class": "official track gallery/news",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-goodyear-bmx-raceway",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Official page contains gallery/news imagery. The Atlas links to it instead of copying the images."
+  },
+  {
+    "media_id": "AZ-MED-0006",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "title": "Yuma BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-yuma-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery route is linked; images remain at the rights holder's site."
+  },
+  {
+    "media_id": "AZ-MED-0007",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "title": "Lake Havasu City BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery is linked, not mirrored or reproduced."
+  },
+  {
+    "media_id": "AZ-MED-0008",
+    "track_ids": [
+      "AZ-TRK-0008"
+    ],
+    "title": "Mingus Mountain BMX (Wheelhouse) \u2014 official USA BMX gallery route",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-mingus-mountain-bmx-%28wheelhouse%29/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Dynamic gallery route is linked. No imagery is copied."
+  },
+  {
+    "media_id": "AZ-MED-0009",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "title": "Colorado River BMX \u2014 official USA BMX gallery route",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-colorado-river-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Dynamic gallery route is linked. No imagery is copied."
+  },
+  {
+    "media_id": "AZ-MED-0010",
+    "track_ids": [
+      "AZ-TRK-0010"
+    ],
+    "title": "Interstate BMX \u2014 official USA BMX gallery",
+    "media_class": "official track gallery",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-interstate-bmx/gallery",
+    "publisher": "USA BMX",
+    "date_context": "current route / accessed 2026-08-20",
+    "boundary": "Gallery route is linked. It does not visually prove High Desert 66 organizational succession."
+  },
+  {
+    "media_id": "AZ-MED-0011",
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "title": "Lititz BMX Artifact 26.0098 \u2014 2021 Chandler BMX Arizona State Race first-place plaque",
+    "media_class": "Lititz artifact photography",
+    "rights_state": "L1_INTERNAL_CONTROL",
+    "public_treatment": "METADATA_AND_RECORD_LINK_ONLY",
+    "url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0098",
+    "publisher": "Lititz BMX",
+    "date_context": "artifact image manifest v1.x",
+    "asset_metadata": {
+      "filename": "26.0098-primary.jpg",
+      "width": 1272,
+      "height": 1021,
+      "sha256": "125261cc4c955ad2ad63ce4dac21ca3c2cedbfeefafda81255f1c92229137cec"
+    },
+    "boundary": "Lititz governs the catalog record and image metadata, but the dataset rights notice does not grant blanket image-republication permission. Link to the artifact record; do not embed the image in this release."
+  },
+  {
+    "media_id": "AZ-MED-0012",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "title": "Lititz BMX Artifact 26.0100 \u2014 2020 Gold Cup Southwest Regional Championship plaque, Sports Park BMX",
+    "media_class": "Lititz artifact photography",
+    "rights_state": "L1_INTERNAL_CONTROL",
+    "public_treatment": "METADATA_AND_RECORD_LINK_ONLY",
+    "url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0100",
+    "publisher": "Lititz BMX",
+    "date_context": "artifact image manifest v1.x",
+    "asset_metadata": {
+      "filename": "26.0100-primary.jpg",
+      "width": 612,
+      "height": 769,
+      "sha256": "0aca6c4c5c30af7f167c1a39384bf3b54fca070d20c917d80823f38cc6164274"
+    },
+    "boundary": "Catalog and checksum are controlled; reproduction remains separately rights-controlled."
+  },
+  {
+    "media_id": "AZ-MED-0013",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ],
+    "title": "Lititz BMX Artifact 26.0088 \u2014 2021 Goodyear Raceway BMX first-place tin",
+    "media_class": "Lititz artifact photography",
+    "rights_state": "L1_INTERNAL_CONTROL",
+    "public_treatment": "METADATA_AND_RECORD_LINK_ONLY",
+    "url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0088",
+    "publisher": "Lititz BMX",
+    "date_context": "artifact image manifest v1.x",
+    "asset_metadata": {
+      "filename": "26.0088-primary.jpg",
+      "width": 1026,
+      "height": 725,
+      "sha256": "20c39c0adcae43dde2542f81495f4cedd499db9db476168f214f042ed257c9f2"
+    },
+    "boundary": "Catalog and checksum are controlled; reproduction remains separately rights-controlled."
+  },
+  {
+    "media_id": "AZ-MED-0014",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ],
+    "title": "Lititz BMX Artifact 26.0089 \u2014 2022 Goodyear Raceway BMX first-place Double Points tin",
+    "media_class": "Lititz artifact photography",
+    "rights_state": "L1_INTERNAL_CONTROL",
+    "public_treatment": "METADATA_AND_RECORD_LINK_ONLY",
+    "url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0089",
+    "publisher": "Lititz BMX",
+    "date_context": "artifact image manifest v1.x",
+    "asset_metadata": {
+      "filename": "26.0089-primary.jpg",
+      "width": 1320,
+      "height": 1128,
+      "sha256": "99d9f3d7b17e5ca1957f052f21cd1624f7a51aebdcfd937668756da7499a9276"
+    },
+    "boundary": "Catalog and checksum are controlled; reproduction remains separately rights-controlled."
+  },
+  {
+    "media_id": "AZ-MED-0015",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "title": "Lititz BMX Artifact 26.0009 \u2014 2020 Arizona State Race first-place tin / High Desert 66 catalog link",
+    "media_class": "Lititz artifact photography",
+    "rights_state": "L1_INTERNAL_CONTROL",
+    "public_treatment": "METADATA_AND_RECORD_LINK_ONLY",
+    "url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0009",
+    "publisher": "Lititz BMX",
+    "date_context": "artifact image manifest v1.x / Atlas worklog",
+    "asset_metadata": {
+      "filename": "26.0009-primary.jpg",
+      "width": 1320,
+      "height": 1354,
+      "sha256": "18584397e7ae165be48931744e39f63855c9044b4bb7e5bb3e5075ce93c8b3dc"
+    },
+    "boundary": "Lititz's catalog identifies the object; external event/location interpretation remains separately source-governed. Image is not embedded in this release."
+  },
+  {
+    "media_id": "AZ-MED-0016",
+    "track_ids": [
+      "AZ-TRK-0102",
+      "AZ-TRK-0103"
+    ],
+    "title": "BMX Plus! June 1987 \u2014 Chandler Jaycees / Scottsdale Jaycees Winter Nationals period source",
+    "media_class": "period publication visual source",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "publisher": "BMX Plus! / Previous Page access route",
+    "date_context": "June 1987",
+    "boundary": "Use the period source for evidence and visual inspection. Do not mirror scans or treat publication access as image-reuse permission."
+  },
+  {
+    "media_id": "AZ-MED-0017",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "title": "USA BMX \u2014 2021 Route 66 Classic at High Desert 66 BMX",
+    "media_class": "official event article/media route",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "publisher": "USA BMX",
+    "date_context": "2021-03-30",
+    "boundary": "Article/media route may be inspected at USA BMX. No article imagery is copied into the Atlas."
+  },
+  {
+    "media_id": "AZ-MED-0018",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "title": "RiverScene Magazine \u2014 Exploring Havasu: Sara Park BMX Raceway",
+    "media_class": "local-history article/media route",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
+    "publisher": "RiverScene Magazine",
+    "date_context": "retrospective local-history route",
+    "boundary": "Useful visual/local-history route; photography remains with the publisher/rights holder and is not reproduced here."
+  },
+  {
+    "media_id": "AZ-MED-0019",
+    "track_ids": [
+      "AZ-TRK-0007",
+      "AZ-TRK-0111"
+    ],
+    "title": "Patrick Tinnell Balance Bike Track \u2014 official Lake Havasu City BMX page",
+    "media_class": "official local-history/media page",
+    "rights_state": "LINK_ONLY",
+    "public_treatment": "LINK_ONLY",
+    "url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412",
+    "publisher": "USA BMX / Lake Havasu City BMX",
+    "date_context": "current official retrospective page",
+    "boundary": "Use as an official local-history/media route. Do not copy page images into the Atlas."
+  }
+]

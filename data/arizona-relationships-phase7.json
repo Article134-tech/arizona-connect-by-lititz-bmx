@@ -1,0 +1,169 @@
+[
+  {
+    "relationship_id": "AZ-REL-0001",
+    "from": "AZ-PER-0002",
+    "to": "AZ-TRK-0001",
+    "type": "LOCAL_AT",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0010"
+    ],
+    "boundary": "Chandler local beginning in 1998; not claimed as her only home track."
+  },
+  {
+    "relationship_id": "AZ-REL-0002",
+    "from": "AZ-PER-0003",
+    "to": "AZ-TRK-0101",
+    "type": "OPERATED / TOOK_OVER",
+    "confidence": "HIGH RETROSPECTIVE",
+    "claim_ids": [
+      "AZ-PUB-0007",
+      "AZ-PUB-0023"
+    ],
+    "boundary": "Exact Road Runner-to-Black Mountain chronology remains separately controlled."
+  },
+  {
+    "relationship_id": "AZ-REL-0003",
+    "from": "AZ-PER-0003",
+    "to": "AZ-TRK-0002",
+    "type": "OPERATED",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0023",
+      "AZ-PUB-0025",
+      "AZ-PUB-0026"
+    ],
+    "boundary": "Track/operator framing follows USA BMX's 2024 retrospective."
+  },
+  {
+    "relationship_id": "AZ-REL-0004",
+    "from": "AZ-PER-0004",
+    "to": "AZ-TRK-0101",
+    "type": "TOOK_OVER_WITH_DEBBIE_KELLEY",
+    "confidence": "HIGH RETROSPECTIVE",
+    "claim_ids": [
+      "AZ-PUB-0007"
+    ],
+    "boundary": "Standalone Pete Kelley chronology remains less complete."
+  },
+  {
+    "relationship_id": "AZ-REL-0005",
+    "from": "AZ-PER-0007",
+    "to": "AZ-TRK-0002",
+    "type": "STEWARDSHIP_TRANSFER_TO",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0026"
+    ],
+    "boundary": "Legal entity/property details are not asserted."
+  },
+  {
+    "relationship_id": "AZ-REL-0006",
+    "from": "AZ-PER-0008",
+    "to": "AZ-TRK-0002",
+    "type": "STEWARDSHIP_TRANSFER_TO",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0026"
+    ],
+    "boundary": "Legal entity/property details are not asserted."
+  },
+  {
+    "relationship_id": "AZ-REL-0007",
+    "from": "AZ-PER-0009",
+    "to": "AZ-TRK-0104",
+    "type": "TRACK_OPERATOR_AT_EVENT",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0044"
+    ],
+    "boundary": "Event-specific operator evidence; no Hall of Fame or team-affiliation inference."
+  },
+  {
+    "relationship_id": "AZ-REL-0008",
+    "from": "AZ-PER-0006",
+    "to": "AZ-ORG-0002",
+    "type": "REPRESENTED",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0012",
+      "AZ-PUB-0029"
+    ],
+    "boundary": "Collegiate event representation only."
+  },
+  {
+    "relationship_id": "AZ-REL-0009",
+    "from": "AZ-ORG-0001",
+    "to": "AZ-TRK-0001",
+    "type": "OPENED_FOR_SANCTIONED_EVENTS",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0001"
+    ],
+    "boundary": "No exact day or founder attribution added."
+  },
+  {
+    "relationship_id": "AZ-REL-0010",
+    "from": "AZ-ORG-0004",
+    "to": "AZ-TRK-0112",
+    "type": "LEASED_SITE_TO_OPERATOR",
+    "confidence": "HIGH",
+    "claim_ids": [
+      "AZ-PUB-0058"
+    ],
+    "boundary": "Municipal lease record; does not prove uninterrupted later operation."
+  },
+  {
+    "relationship_id": "AZ-REL-0011",
+    "from": "AZ-ART-0002",
+    "to": "AZ-TRK-0001",
+    "type": "OBJECT_LINKED_TO_TRACK/EVENT",
+    "confidence": "HIGH OBJECT CONTROL",
+    "claim_ids": [
+      "AZ-PUB-0014",
+      "AZ-PUB-0046"
+    ],
+    "boundary": "Object identity and event context remain distinct evidence layers."
+  },
+  {
+    "relationship_id": "AZ-REL-0012",
+    "from": "AZ-ART-0003",
+    "to": "AZ-TRK-0003",
+    "type": "OBJECT_LINKED_TO_TRACK/EVENT",
+    "confidence": "HIGH OBJECT + A1 EVENT",
+    "claim_ids": [
+      "AZ-PUB-0013",
+      "AZ-PUB-0014"
+    ],
+    "boundary": "Artifact does not replace official event source."
+  },
+  {
+    "relationship_id": "AZ-REL-0013",
+    "from": "AZ-ART-0001",
+    "to": "AZ-TRK-0104",
+    "type": "OBJECT/HISTORICAL_TRACK_CROSSWALK",
+    "confidence": "MEDIUM-HIGH",
+    "claim_ids": [
+      "AZ-PUB-0014"
+    ],
+    "boundary": "Catalog crosswalk does not independently resolve every event detail."
+  },
+  {
+    "relationship_id": "AZ-REL-0014",
+    "from": "AZ-ART-0004",
+    "to": "AZ-TRK-0005",
+    "type": "OBJECT/TRACK_CROSSWALK",
+    "confidence": "L1 CONTROL",
+    "claim_ids": [],
+    "boundary": "Artifact-media control only; no expanded race-result claim admitted yet."
+  },
+  {
+    "relationship_id": "AZ-REL-0015",
+    "from": "AZ-ART-0005",
+    "to": "AZ-TRK-0005",
+    "type": "OBJECT/TRACK_CROSSWALK",
+    "confidence": "L1 CONTROL",
+    "claim_ids": [],
+    "boundary": "Artifact-media control only; no expanded race-result claim admitted yet."
+  }
+]

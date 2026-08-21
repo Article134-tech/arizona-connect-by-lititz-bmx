@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#080a10">
+  <meta name="description" content="Arizona Connect: by Lititz BMX — Arizona BMX research, history, geography and evidence.">
+  <title>Arizona Connect: by Lititz BMX</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#apps">Skip to applications</a>
+
+  <div id="boot" class="boot" role="status" aria-live="polite">
+    <div class="boot__inner">
+      <div class="boot__name">ARIZONA CONNECT</div>
+      <div class="boot__maker">
+        <span>by</span>
+        <img src="assets/lititz-bmx-logo-white-white.png" alt="Lititz BMX">
+      </div>
+      <div class="boot__status" id="boot-status">Starting Arizona Connect…</div>
+      <div class="boot__track" aria-hidden="true"><div class="boot__bar"></div></div>
+    </div>
+  </div>
+
+  <main class="device" id="connection" tabindex="-1">
+    <header class="masthead">
+      <h1>ARIZONA CONNECT</h1>
+      <div class="maker">
+        <span>by</span>
+        <a href="https://article134-tech.github.io/connection-by-lititz-bmx/" aria-label="Return to Connection: by Lititz BMX">
+          <img src="assets/lititz-bmx-logo-white-white.png" alt="Lititz BMX">
+        </a>
+      </div>
+      <div class="system-row" aria-label="Arizona Connect status">
+        <span class="status-dot" aria-hidden="true"></span>
+        <span>3 APPS INSTALLED</span><span aria-hidden="true">•</span><span>READY</span>
+      </div>
+      <button class="install-button" id="install-button" type="button" hidden>Install Arizona Connect</button>
+    </header>
+
+    <section class="apps" id="apps" aria-label="Arizona Connect applications">
+      <a class="app-card" data-app="Arizona Research Register" href="research/" aria-describedby="research-description">
+        <span class="app-icon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 12h30v40H17z"/><path d="M24 22h16M24 30h16M24 38h10"/><path d="M12 18v38h30"/></svg></span>
+        <span class="app-title">Arizona Research Register</span><span class="app-rule" aria-hidden="true"></span>
+        <span class="app-description" id="research-description">60 defensible public claims<br>with evidence drilldown</span>
+        <span class="launch-cue" aria-hidden="true">↗</span>
+      </a>
+
+      <a class="app-card" data-app="Arizona BMX Atlas" href="atlas/" aria-describedby="atlas-description">
+        <span class="app-icon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="32" cy="32" r="22"/><path d="M10 32h44M32 10c8 8 12 15 12 22S40 46 32 54M32 10c-8 8-12 15-12 22s4 14 12 22"/></svg></span>
+        <span class="app-title">Arizona BMX Atlas</span><span class="app-rule" aria-hidden="true"></span>
+        <span class="app-description" id="atlas-description">Tracks, timeline and evidence<br>interactive history Atlas</span>
+        <span class="launch-cue" aria-hidden="true">↗</span>
+      </a>
+
+      <a class="app-card" data-app="Arizona BMX Hall of Fame" href="https://www.azbmxhof.org/" target="_blank" rel="noopener noreferrer" aria-describedby="hof-description">
+        <span class="app-icon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 12h28v13c0 11-6 19-14 23-8-4-14-12-14-23z"/><path d="M24 54h16M32 48v6"/><path d="M18 18h-7c0 9 4 15 12 17M46 18h7c0 9-4 15-12 17"/></svg></span>
+        <span class="app-title">Arizona BMX Hall of Fame</span><span class="app-rule" aria-hidden="true"></span>
+        <span class="app-description" id="hof-description">Visit the Arizona BMX<br>Hall of Fame site</span>
+        <span class="launch-cue" aria-hidden="true">↗</span>
+      </a>
+    </section>
+
+    <a class="timeline-entry" href="atlas/timeline/" aria-label="Open the interactive Timeline of Arizona BMX History">
+      <span class="timeline-entry__icon" aria-hidden="true">
+        <svg viewBox="0 0 64 64" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M13 18h38M13 32h38M13 46h38"/>
+          <circle cx="23" cy="18" r="4"/><circle cx="39" cy="32" r="4"/><circle cx="29" cy="46" r="4"/>
+        </svg>
+      </span>
+      <span class="timeline-entry__copy">
+        <span class="timeline-entry__eyebrow">TIMELINE</span>
+        <span class="timeline-entry__title">Timeline of Arizona BMX History</span>
+        <span class="timeline-entry__description">Enter the interactive chronology</span>
+      </span>
+      <span class="timeline-entry__cue" aria-hidden="true">↗</span>
+    </a>
+
+    <aside class="resume" id="resume" hidden>
+      <span>Resume:</span>
+      <a id="resume-link" href="#"></a>
+      <button id="clear-resume" type="button" aria-label="Clear remembered application">×</button>
+    </aside>
+
+    <nav class="dock" aria-label="Connected destinations">
+      <div class="dock-label">CONNECTED DESTINATIONS</div>
+      <div class="dock-surface">
+        <a class="dock-item" href="https://www.lititzbmx.com/" target="_blank" rel="noopener noreferrer">Archive</a>
+        <a class="dock-item" href="https://www.youtube.com/@LititzBMX17543" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a class="dock-item" href="https://open.spotify.com/show/50iXYKiNPlsvM47ZPZL1Fi" target="_blank" rel="noopener noreferrer">Spotify</a>
+        <a class="dock-item" href="https://www.facebook.com/profile.php?id=61573071505099" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a class="dock-item" href="https://github.com/Article134-tech" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a class="dock-item dock-item--donate" href="https://www.paypal.me/kyto1138" target="_blank" rel="noopener noreferrer">Donate</a>
+      </div>
+    </nav>
+
+    <footer><span>Arizona Connect 0.25</span><span>Arizona Connect: by Lititz BMX</span></footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

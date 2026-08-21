@@ -1,0 +1,105 @@
+{
+  "version": "0.16",
+  "claims": 60,
+  "claim_gate": "PASS",
+  "app_order": [
+    "Arizona Research Register",
+    "Arizona BMX Atlas",
+    "Arizona BMX Hall of Fame (external)"
+  ],
+  "hall_of_fame_url": "https://www.azbmxhof.org/",
+  "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
+  "atlas": {
+    "checkpoint": "A4 location-state registration",
+    "records": 25,
+    "current_snapshot": 11,
+    "historical_verified": 4,
+    "recovery_leads": 10,
+    "full_profiles_built": [
+      "AZ-TRK-0001",
+      "AZ-TRK-0002",
+      "AZ-TRK-0003",
+      "AZ-TRK-0004",
+      "AZ-TRK-0005",
+      "AZ-TRK-0006",
+      "AZ-TRK-0007",
+      "AZ-TRK-0008",
+      "AZ-TRK-0009",
+      "AZ-TRK-0010",
+      "AZ-TRK-0011",
+      "AZ-TRK-0101",
+      "AZ-TRK-0102",
+      "AZ-TRK-0103",
+      "AZ-TRK-0104"
+    ],
+    "map_status": "A4 location registration NEXT; no fabricated coordinates",
+    "verified_profiles_built": 15,
+    "current_profiles": 11,
+    "historical_profiles": 4,
+    "recovery_only_records": 10,
+    "a4": {
+      "records_evaluated": 25,
+      "exact_current_track_points": 10,
+      "current_site_approximate_points": 1,
+      "historical_track_points": 1,
+      "records_intentionally_unpinned": 13,
+      "status": "PASS — location state assigned to 25/25; historical census remains open"
+    },
+    "historical_recovery_pass_1": {
+      "former_leads_with_stronger_evidence": 9,
+      "directory_only_corroboration_open": 1,
+      "profiles_total": 25
+    },
+    "a5": {
+      "media_routes": 19,
+      "link_only": 14,
+      "l1_internal_control": 5,
+      "display_cleared": 0,
+      "third_party_images_embedded": 0,
+      "status": "PASS — media relationships registered; no access-to-permission inference"
+    },
+    "timeline": {
+      "published_milestones": 33,
+      "open_questions": 5,
+      "span": "1977-2026",
+      "interactive": true,
+      "status": "PASS — evidence-linked chronology; open questions separated",
+      "data_version": "1.1"
+    },
+    "phase5_events": {
+      "event_records": 11,
+      "normalization": "one event/series occurrence per record",
+      "status": "ACTIVE / INITIAL REGISTER BUILT"
+    },
+    "phase7_relationships": {
+      "entities": 25,
+      "edges": 15,
+      "status": "PASS — public edges are claim-bound"
+    },
+    "a6_candidate": {
+      "status": "PRODUCT / CONTENT / BRAND HARDENING PASS — LIVE DEPLOYMENT SMOKE TEST PENDING",
+      "historical_census_complete": false,
+      "deployment_review_pending": true
+    }
+  },
+  "research_register": {
+    "baseline_a": 50,
+    "expansion_51_60": 10,
+    "public_claims": 60,
+    "expansion_gate": "PASS"
+  },
+  "release_hardening": {
+    "official_logo_localized": true,
+    "official_logo_sha256": "d685e1e971c9c37af2b914fe1f291f6c94986282a0ab47b0f18ba3f5c3188775",
+    "expected_logo_sha256": "d685e1e971c9c37af2b914fe1f291f6c94986282a0ab47b0f18ba3f5c3188775",
+    "logo_checksum_match": true,
+    "skip_links": true,
+    "focus_visible": true,
+    "reduced_motion": true,
+    "external_blank_rel_hardened": true,
+    "github_pages_workflow": true,
+    "candidate_label": "Demonstration / Concept Site — No affiliation implied.",
+    "pwa_status": "RESTORED FROM CURRENT PRODUCTION CONNECTION PATTERN; exact production icon assets imported",
+    "shell_recovery": "v0.7 visual source + v0.15.3 additive visual lock + production Connection behavior, state-namespaced"
+  }
+}

@@ -1,0 +1,300 @@
+[
+  {
+    "entity_id": "AZ-PER-0001",
+    "name": "Debbi Kalsow",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0009",
+      "AZ-PUB-0017",
+      "AZ-PUB-0018",
+      "AZ-PUB-0019"
+    ],
+    "track_ids": []
+  },
+  {
+    "entity_id": "AZ-PER-0002",
+    "name": "Kim Hayashi",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0010",
+      "AZ-PUB-0020",
+      "AZ-PUB-0021",
+      "AZ-PUB-0022"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ]
+  },
+  {
+    "entity_id": "AZ-PER-0003",
+    "name": "Debbie Kelley",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0007",
+      "AZ-PUB-0023",
+      "AZ-PUB-0025",
+      "AZ-PUB-0026"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ]
+  },
+  {
+    "entity_id": "AZ-PER-0004",
+    "name": "Pete Kelley",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH SUBJECT",
+    "claim_ids": [
+      "AZ-PUB-0007",
+      "AZ-PUB-0024"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ]
+  },
+  {
+    "entity_id": "AZ-PER-0005",
+    "name": "Corben Sharrah",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0011",
+      "AZ-PUB-0027",
+      "AZ-PUB-0028"
+    ],
+    "track_ids": []
+  },
+  {
+    "entity_id": "AZ-PER-0006",
+    "name": "Dominique Daniels",
+    "entity_type": "Person",
+    "status": "VERIFIED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0012",
+      "AZ-PUB-0029"
+    ],
+    "track_ids": []
+  },
+  {
+    "entity_id": "AZ-PER-0007",
+    "name": "Bubba Harris",
+    "entity_type": "Person",
+    "status": "STEWARDSHIP ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0026"
+    ],
+    "track_ids": [
+      "AZ-TRK-0002"
+    ]
+  },
+  {
+    "entity_id": "AZ-PER-0008",
+    "name": "Karl Clark",
+    "entity_type": "Person",
+    "status": "STEWARDSHIP NODE",
+    "claim_ids": [
+      "AZ-PUB-0026"
+    ],
+    "track_ids": [
+      "AZ-TRK-0002"
+    ]
+  },
+  {
+    "entity_id": "AZ-PER-0009",
+    "name": "Harry Leary",
+    "entity_type": "Person",
+    "status": "EVENT/OPERATOR CROSSWALK",
+    "claim_ids": [
+      "AZ-PUB-0043",
+      "AZ-PUB-0044",
+      "AZ-PUB-0045"
+    ],
+    "track_ids": [
+      "AZ-TRK-0104"
+    ]
+  },
+  {
+    "entity_id": "AZ-ORG-0001",
+    "name": "American Bicycle Association / USA BMX",
+    "entity_type": "Organization",
+    "status": "INSTITUTIONAL ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0001",
+      "AZ-PUB-0002",
+      "AZ-PUB-0003",
+      "AZ-PUB-0004",
+      "AZ-PUB-0005",
+      "AZ-PUB-0006"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ]
+  },
+  {
+    "entity_id": "AZ-ORG-0002",
+    "name": "Grand Canyon University",
+    "entity_type": "Organization",
+    "status": "COLLEGIATE CROSSWALK",
+    "claim_ids": [
+      "AZ-PUB-0012",
+      "AZ-PUB-0029"
+    ],
+    "track_ids": []
+  },
+  {
+    "entity_id": "AZ-ORG-0003",
+    "name": "Arizona Bicycle Werx/Fall Risk Racing",
+    "entity_type": "Organization",
+    "status": "OFFICIAL RESULT LABEL",
+    "claim_ids": [
+      "AZ-PUB-0016"
+    ],
+    "track_ids": []
+  },
+  {
+    "entity_id": "AZ-ORG-0004",
+    "name": "City of Tucson",
+    "entity_type": "Organization",
+    "status": "MUNICIPAL AUTHORITY CROSSWALK",
+    "claim_ids": [
+      "AZ-PUB-0058"
+    ],
+    "track_ids": [
+      "AZ-TRK-0112"
+    ]
+  },
+  {
+    "entity_id": "AZ-ART-0001",
+    "name": "26.0009 \u2014 2020 Arizona State Race 1st Place Tin / High Desert 66",
+    "entity_type": "Artifact",
+    "status": "LITITZ ARTIFACT VERIFIED",
+    "claim_ids": [
+      "AZ-PUB-0014"
+    ],
+    "track_ids": [
+      "AZ-TRK-0104"
+    ]
+  },
+  {
+    "entity_id": "AZ-ART-0002",
+    "name": "26.0098 \u2014 2021 Chandler BMX Arizona State Race 1st Place Plaque",
+    "entity_type": "Artifact",
+    "status": "LITITZ ARTIFACT VERIFIED",
+    "claim_ids": [
+      "AZ-PUB-0014",
+      "AZ-PUB-0046",
+      "AZ-PUB-0047"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ]
+  },
+  {
+    "entity_id": "AZ-ART-0003",
+    "name": "26.0100 \u2014 2020 Gold Cup Southwest Regional Championship 1st Place Plaque",
+    "entity_type": "Artifact",
+    "status": "LITITZ ARTIFACT VERIFIED",
+    "claim_ids": [
+      "AZ-PUB-0013",
+      "AZ-PUB-0014"
+    ],
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "entity_id": "AZ-ART-0004",
+    "name": "26.0088 \u2014 2021 Goodyear Raceway BMX 1st Place Tin",
+    "entity_type": "Artifact",
+    "status": "LITITZ MEDIA/ARTIFACT CONTROL",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "entity_id": "AZ-ART-0005",
+    "name": "26.0089 \u2014 2022 Goodyear Raceway BMX 1st Place Double Points Tin",
+    "entity_type": "Artifact",
+    "status": "LITITZ MEDIA/ARTIFACT CONTROL",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0001",
+    "name": "Chandler BMX",
+    "entity_type": "Track",
+    "status": "ACTIVE_VERIFIED_2026",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0002",
+    "name": "Black Mountain BMX",
+    "entity_type": "Track",
+    "status": "ACTIVE_VERIFIED_2026",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0002"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0003",
+    "name": "Sports Park BMX",
+    "entity_type": "Track",
+    "status": "ACTIVE_VERIFIED_2026",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0005",
+    "name": "Goodyear BMX Raceway",
+    "entity_type": "Track",
+    "status": "ACTIVE_VERIFIED_2026",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0101",
+    "name": "Road Runner BMX",
+    "entity_type": "Track",
+    "status": "HISTORICAL_VERIFIED_NAME_TIMELINE_INCOMPLETE",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0101"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0104",
+    "name": "High Desert 66 BMX",
+    "entity_type": "Track",
+    "status": "HISTORICAL_VERIFIED_SUCCESSION_OPEN",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0104"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0112",
+    "name": "Desert Sunset BMX",
+    "entity_type": "Track",
+    "status": "A2_A1_DATED_OPERATION_OCCURRENCE_VERIFIED",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0112"
+    ]
+  }
+]

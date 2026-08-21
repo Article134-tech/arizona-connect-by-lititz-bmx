@@ -1,0 +1,164 @@
+{
+  "checks": [
+    {
+      "name": "HTML files",
+      "pass": true,
+      "detail": "98"
+    },
+    {
+      "name": "Broken local references",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "Duplicate IDs",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "Missing alt",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "Unsafe new-tab links",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "JSON parse",
+      "pass": true,
+      "detail": "14 files; 0 failures"
+    },
+    {
+      "name": "JavaScript syntax",
+      "pass": true,
+      "detail": "9 files; 0 failures"
+    },
+    {
+      "name": "Track count",
+      "pass": true,
+      "detail": "25"
+    },
+    {
+      "name": "Claim count",
+      "pass": true,
+      "detail": "60"
+    },
+    {
+      "name": "Timeline published",
+      "pass": true,
+      "detail": "33"
+    },
+    {
+      "name": "Timeline open",
+      "pass": true,
+      "detail": "5"
+    },
+    {
+      "name": "Events",
+      "pass": true,
+      "detail": "11"
+    },
+    {
+      "name": "Entities",
+      "pass": true,
+      "detail": "25"
+    },
+    {
+      "name": "Relationships",
+      "pass": true,
+      "detail": "15"
+    },
+    {
+      "name": "Media",
+      "pass": true,
+      "detail": "19"
+    },
+    {
+      "name": "Mapped points",
+      "pass": true,
+      "detail": "12"
+    },
+    {
+      "name": "Unpinned",
+      "pass": true,
+      "detail": "13"
+    },
+    {
+      "name": "Cross-register references",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "Track profiles",
+      "pass": true,
+      "detail": "25/25"
+    },
+    {
+      "name": "Map pins exact registered set",
+      "pass": true,
+      "detail": "12 pins"
+    },
+    {
+      "name": "Governed data byte parity",
+      "pass": true,
+      "detail": "16/16"
+    },
+    {
+      "name": "Only intended pre-existing files changed",
+      "pass": true,
+      "detail": "['DEPLOY.md', 'README.md', 'atlas/index.html', 'index.html', 'service-worker.js']"
+    },
+    {
+      "name": "Only intended files added",
+      "pass": true,
+      "detail": "['INTEGRATED-PRODUCT-AUDIT-v0.25.md', 'INTEGRATED-REGROUP-CONTROL-v0.25.md']"
+    },
+    {
+      "name": "No files removed",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Root footer current",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Atlas footer current",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Service-worker cache bumped",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "README current",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Deploy guide current",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "failed": 0,
+  "changed": [
+    "DEPLOY.md",
+    "README.md",
+    "atlas/index.html",
+    "index.html",
+    "service-worker.js"
+  ],
+  "added": [
+    "INTEGRATED-PRODUCT-AUDIT-v0.25.md",
+    "INTEGRATED-REGROUP-CONTROL-v0.25.md"
+  ],
+  "removed": [],
+  "bad_refs": [],
+  "missing_links": []
+}

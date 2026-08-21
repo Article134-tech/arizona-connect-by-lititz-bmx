@@ -1,0 +1,205 @@
+[
+  {
+    "claim_id": "AZ-PUB-0051",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified September 1, 1998 listed Desert Sky BMX in Glendale, Arizona in its National Bicycle League section, with track code 1103 and Tom and Sherri Lee as contacts.",
+    "evidence_character": "FACT \u2014 CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves that the 1998 directory listed Desert Sky BMX in Glendale as an NBL track. It does not establish an exact street location, opening/closing dates, or later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible attributed directory claim + inspectable period source + explicit boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0052",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The same 1998 BMX track guide listed London Bridge BMX in Lake Havasu, Arizona in its American Bicycle Association section, with Frank Sabatano as the named contact.",
+    "evidence_character": "FACT \u2014 CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves the period directory listing and city association. It does not prove that London Bridge BMX was the same track or organization as later Sara Park BMX Raceway or current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible attributed directory claim + inspectable period source + explicit boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0053",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Parker BMX in Parker, Arizona in its ABA section; a separate regional BMX directory also listed Parker BMX in Parker.",
+    "evidence_character": "RECONSTRUCTION \u2014 TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The two directories independently support the Parker BMX name and Parker, Arizona association. Exact location, operating span and organizational history remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0054",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Coppertown BMX in San Manuel, Arizona in its ABA section; a separate regional BMX directory also listed Coppertown BMX in San Manuel.",
+    "evidence_character": "RECONSTRUCTION \u2014 TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The directories support the Coppertown BMX name and San Manuel association. Exact track location, dates and later lineage remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0055",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Thunder Raceway in Show Low, Arizona as an ABA BMX track and named Chris Tippie as the contact.",
+    "evidence_character": "FACT \u2014 CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR BMX DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves a 1998 BMX-directory listing named Thunder Raceway in Show Low. It must not be silently conflated with the present-day Deuce of Clubs Thunder Raceway motor-racing facility without location/identity evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible period-directory claim with explicit same-name conflict boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0056",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed RAM BMX in Tucson, Arizona in its ABA section; a separate regional BMX directory also listed RAM BMX in Tucson.",
+    "evidence_character": "RECONSTRUCTION \u2014 TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The directories support the RAM BMX name and Tucson association. Exact site, operating dates and relationship to later Tucson tracks remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0057",
+    "category": "Historical Tracks / Official Event",
+    "public_claim": "USA BMX's June 20, 2013 Olympic Day announcement listed Sara Park BMX Raceway in Lake Havasu City, Arizona for an Olympic Day race on June 27, 2013.",
+    "evidence_character": "FACT \u2014 DATED FIRST-PARTY TRACK/EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0035"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019"
+    ],
+    "evidence_boundary": "This proves the Sara Park BMX Raceway name, Lake Havasu City association and dated 2013 USA BMX event listing. It does not by itself establish the exact rename/continuity path to current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "First-party dated event listing + explicit lineage boundary",
+    "audit_date": "2026-08-20",
+    "supporting_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0058",
+    "category": "Historical Tracks / Municipal Record",
+    "public_claim": "On June 16, 2003, the City of Tucson approved a lease with Desert Sunset BMX, Inc. for operation of a dirt bicycle track at the Harrison Landfill; USA BMX later listed Desert Sunset BMX in Tucson for Olympic Day on June 23, 2013.",
+    "evidence_character": "RECONSTRUCTION \u2014 OFFICIAL MUNICIPAL RECORD + FIRST-PARTY BMX LISTING",
+    "authority": "A2 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0036",
+      "AZ-SRC-0035"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-clerks-office/minutes/documents/mn06-16-03.pdf",
+      "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019"
+    ],
+    "evidence_boundary": "These sources establish a 2003 Tucson lease for Desert Sunset BMX, Inc. at Harrison Landfill and a separate 2013 USA BMX track/event listing. They do not prove uninterrupted operation throughout the intervening decade or exact later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two official source families + bounded synthesis",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0059",
+    "category": "Historical Tracks / Events",
+    "public_claim": "A 2003 Redline Cup schedule listed Manzanita BMX Raceway in Tucson as a May 31 qualifier host, and an official sanctioning-body event record preserves race results from Manzanita BMX Raceway in Tucson on April 2, 2008.",
+    "evidence_character": "RECONSTRUCTION \u2014 DATED EVENT SCHEDULE + OFFICIAL RESULT",
+    "authority": "B1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0037",
+      "AZ-SRC-0038"
+    ],
+    "source_urls": [
+      "https://canadiancyclist.com/dailynews.php?id=5801&title=2003+Redline+Cup+Schedule+%28BMX%29",
+      "https://www.bmxcanada.org/events/132426/results"
+    ],
+    "evidence_boundary": "The sources establish dated Manzanita BMX Raceway occurrences in Tucson in 2003 and 2008. They do not establish the track's full operating span, exact street location or relationship to current Tucson facilities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Dated independent event sources + explicit chronology boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0060",
+    "category": "Historical Tracks / Specialist Directory",
+    "public_claim": "BMXtra's Arizona track directory lists Outer Limits BMX in Safford, Arizona and names Jeff and Tiffany Faunce as contacts.",
+    "evidence_character": "FACT \u2014 ATTRIBUTED SPECIALIST DIRECTORY LISTING",
+    "authority": "C1",
+    "confidence": "MEDIUM-HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0039"
+    ],
+    "source_urls": [
+      "https://www.bmxtra.com/tracks/AZtracks.htm"
+    ],
+    "evidence_boundary": "This proves what the specialist directory lists. Until a period or first-party source is recovered, exact operating dates, sanction status, location and broader track history remain corroboration-open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Inspectable specialist-directory claim with explicit corroboration limit",
+    "audit_date": "2026-08-20"
+  }
+]
