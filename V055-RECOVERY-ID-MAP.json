@@ -1,0 +1,23 @@
+{
+  "register": "Arizona Connect v0.55 Recovered Publication ID Map",
+  "created": "2026-08-22",
+  "policy": "Legacy v0.52-v0.54 HOLD slots remain reserved. New v0.55 records are assigned after the reserved ranges and are not used to overwrite missing historical IDs.",
+  "claims": {
+    "AZ-PUB-0182": "LEGACY_HOLD",
+    "AZ-PUB-0183": "LEGACY_HOLD",
+    "AZ-PUB-0184": "LEGACY_HOLD",
+    "AZ-PUB-0185": "RECOVERY_CURRENT_ADMISSION_SCOTTSDALE",
+    "AZ-PUB-0186": "RECOVERY_CURRENT_ADMISSION_TUCSON_DISTINCTNESS",
+    "AZ-PUB-0187": "RECOVERY_CURRENT_ADMISSION_COPPERTOWN_COMMUNITY_HISTORY"
+  },
+  "sources": {
+    "AZ-SRC-0122-AZ-SRC-0132": "LEGACY_HOLD_RANGE",
+    "AZ-SRC-0133": "Pascua Yaqui Tribe Small Area Transportation Study Final Report",
+    "AZ-SRC-0134": "Tucson cycling/economic inventory",
+    "AZ-SRC-0135": "Copper Basin News Barbara Lynn Hagan obituary"
+  },
+  "timeline": {
+    "AZ-TL-0091-AZ-TL-0093": "LEGACY_HOLD_RANGE",
+    "AZ-TL-0094": "Tucson distinct facilities milestone"
+  }
+}

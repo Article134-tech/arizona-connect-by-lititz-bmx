@@ -1,0 +1,118 @@
+[
+  {
+    "claim_id": "AZ-PUB-0081",
+    "category": "Historical Tracks / Federal Record",
+    "public_claim": "On March 10, 1998, the Federal Register identified Frank Sabatano as President of the London Bridge BMX Association and recorded his recommendation that bicycle helmets account for more serious accidents that could result from child bicycle racing or jumping.",
+    "evidence_character": "FACT — FEDERAL REGULATORY RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0058"
+    ],
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-1998-03-10/pdf/FR-1998-03-10.pdf"
+    ],
+    "evidence_boundary": "This independently corroborates the London Bridge BMX Association identity and Sabatano's leadership in a BMX-racing context. It does not establish the track's exact Lake Havasu City site, opening or closing dates, or continuity to Sara Park BMX Raceway or current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Official Federal Register record + bounded identity/leadership claim",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0106"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0082",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "The March 2002 Cycling Utah ABA track directory listed Sara Park BMX in Lake Havasu City, Arizona.",
+    "evidence_character": "FACT — DATED REGIONAL BMX DIRECTORY",
+    "authority": "C1",
+    "confidence": "HIGH FOR DATED DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Together with the separate 1998 London Bridge BMX evidence, this narrows the historical name sequence in Lake Havasu City but does not prove that London Bridge BMX and Sara Park BMX were the same organization or physical track.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Dated regional ABA directory + explicit lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0083",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "Parker BMX is independently listed in Parker, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the Parker BMX name and Parker city association across the two dated snapshots. They do not prove uninterrupted operation, exact site, ownership, or the full operating span.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + bounded continuity wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0107"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0084",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "Coppertown BMX is independently listed in San Manuel, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the Coppertown BMX name and San Manuel association across the two dated snapshots. They do not prove uninterrupted operation, exact track location, ownership, or later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + bounded continuity wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0108"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0085",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "RAM BMX is independently listed in Tucson, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the RAM BMX name and Tucson association across the two dated snapshots. They do not prove uninterrupted operation, exact site, or a relationship to Sports Park BMX, Tucson BMX, Desert Sunset BMX, or Manzanita BMX Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + explicit Tucson-lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0110"
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "claim_id": "AZ-PUB-0173",
+    "category": "Organizations / Historical Governance",
+    "public_claim": "IRS-derived nonprofit directory data identifies Tri State BMX Association Inc. in Lake Havasu City as a civic league / amateur sports club and gives an exempt-status date of November 1998.",
+    "evidence_character": "FACT — IRS-DERIVED NONPROFIT DIRECTORY RECORD",
+    "authority": "C2",
+    "confidence": "MEDIUM-HIGH FOR DIRECTORY RECORD",
+    "source_ids": [
+      "AZ-SRC-0114"
+    ],
+    "source_urls": [
+      "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86405.asp"
+    ],
+    "evidence_boundary": "This establishes the directory's organizational record and date field. It does not establish the exact corporate filing date, the beginning of BMX-track operation, or uninterrupted activity from 1998 onward.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-01",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0174",
+    "category": "Historical Tracks / Municipal Use",
+    "public_claim": "Lake Havasu City's FY 2010-11 budget states that the City entered six sublease agreements for use of SARA Park, including one with Tri State BMX.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL BUDGET / SARA PARK SUBLEASE",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0115"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/DocumentCenter/View/1499/Budget-Book-Fy-2011-PDF"
+    ],
+    "evidence_boundary": "This establishes a City-reported SARA Park sublease relationship with Tri State BMX in the 2009-2010 accomplishments period. It does not, by itself, identify the exact BMX-course parcel, lease term, or every right conveyed by the sublease.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-02",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0175",
+    "category": "Organizations / Historical Governance",
+    "public_claim": "A letter preserved in Lake Havasu City's October 23, 2012 council packet states that Lake Havasu Kart & Speedway Association was being operated as a DBA under Tri-State BMX Association Inc., identifies Tri-State's tax ID as 86-0821404, and describes Tri-State as a 501(c)(4) nonprofit organization.",
+    "evidence_character": "FACT — FIRST-PARTY ORGANIZATIONAL LETTER PRESERVED IN MUNICIPAL PACKET",
+    "authority": "A2 packet / first-party organizational letter",
+    "confidence": "HIGH FOR WHAT THE LETTER STATES",
+    "source_ids": [
+      "AZ-SRC-0116"
+    ],
+    "source_urls": [
+      "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5"
+    ],
+    "evidence_boundary": "The letter proves the represented 2012 DBA/nonprofit relationship. It does not by itself prove IRS status beyond the organization's statement or establish that the kart/speedway association was the BMX-track operator.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-03",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0176",
+    "category": "Organizations / Historical Governance",
+    "public_claim": "The same 2012 Tri-State BMX Association letter states that the Lake Havasu Kart & Speedway track would be managed by Tri-State's five-member board of directors and operated under Tri-State's existing bylaws.",
+    "evidence_character": "FACT — FIRST-PARTY ORGANIZATIONAL LETTER PRESERVED IN MUNICIPAL PACKET",
+    "authority": "A2 packet / first-party organizational letter",
+    "confidence": "HIGH FOR WHAT THE LETTER STATES",
+    "source_ids": [
+      "AZ-SRC-0116"
+    ],
+    "source_urls": [
+      "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5"
+    ],
+    "evidence_boundary": "This is management evidence for the motorsports track described in the letter. It is not automatically evidence that the SARA Park BMX track was managed by the same board at that date.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-04",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0177",
+    "category": "Organizations / Historical Governance",
+    "public_claim": "The 2012 Tri-State letter states that Lake Havasu Kart & Speedway Association held a lease/use agreement with Lake Havasu City allowing motorized racing activity within its facility boundaries.",
+    "evidence_character": "FACT — FIRST-PARTY ORGANIZATIONAL LETTER PRESERVED IN MUNICIPAL PACKET",
+    "authority": "A2 packet / first-party organizational letter",
+    "confidence": "HIGH FOR WHAT THE LETTER STATES",
+    "source_ids": [
+      "AZ-SRC-0116"
+    ],
+    "source_urls": [
+      "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5"
+    ],
+    "evidence_boundary": "The lease/use statement concerns the kart/speedway motorsports facility discussed in the letter. It must not be converted into proof of a BMX-course lease transfer, BMX organizational succession, or shared facility boundaries.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-05",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0178",
+    "category": "Historical Tracks / Rebuild History",
+    "public_claim": "A January 31, 2018 RiverScene report states that SARA Park BMX reopened on a newly rebuilt track after nearly two months of work and several years of fundraising by the TRI State BMX Association and SARA Park BMX crew.",
+    "evidence_character": "FACT — CONTEMPORANEOUS LOCAL REPORT",
+    "authority": "C1 local contemporary report",
+    "confidence": "HIGH FOR REPORTED REBUILD ATTRIBUTION",
+    "source_ids": [
+      "AZ-SRC-0117"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/local-bmx-racers-get-new-track/"
+    ],
+    "evidence_boundary": "This supports Tri-State's reported role in fundraising for the rebuild and the existence of the rebuilt SARA Park BMX track. It does not establish Tri-State ownership, exclusive operation, exact construction contracts, or legal succession to later Lake Havasu City BMX Association.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-06",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0179",
+    "category": "Organizations / Corporate Identity",
+    "public_claim": "Arizona Corporation Commission-derived directory data records Lake Havasu City BMX Association as an Arizona nonprofit corporation filed on September 12, 2018 under document number 1881281.",
+    "evidence_character": "FACT — ACC-DERIVED CORPORATE DIRECTORY RECORD",
+    "authority": "C2 corporate-directory copy of ACC data",
+    "confidence": "HIGH FOR REPORTED FILING RECORD",
+    "source_ids": [
+      "AZ-SRC-0118",
+      "AZ-SRC-0119"
+    ],
+    "source_urls": [
+      "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+      "https://www.uscorpdirectory.com/2018-09-12"
+    ],
+    "evidence_boundary": "This establishes a distinct nonprofit corporate identity and filing date. It does not establish that incorporation itself caused the September 20 municipal track renaming or that rights, assets, leases, or liabilities transferred from Tri-State BMX Association.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-07",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0180",
+    "category": "Organizations / Site Address",
+    "public_claim": "The same Arizona Corporation Commission-derived record lists Lake Havasu City BMX Association's principal address as 7260 Sara Parkway #B in Lake Havasu City.",
+    "evidence_character": "FACT — ACC-DERIVED CORPORATE DIRECTORY RECORD",
+    "authority": "C2 corporate-directory copy of ACC data",
+    "confidence": "HIGH FOR REPORTED ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0118",
+      "AZ-SRC-0119"
+    ],
+    "source_urls": [
+      "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+      "https://www.uscorpdirectory.com/2018-09-12"
+    ],
+    "evidence_boundary": "The address aligns the nonprofit with the governed SARA Park / Lake Havasu City BMX physical site. Address equality is not proof of organizational succession, ownership, lease assignment, or exact course geometry.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-08",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  },
+  {
+    "claim_id": "AZ-PUB-0181",
+    "category": "Organizations / Nonprofit Classification",
+    "public_claim": "IRS-derived nonprofit directories identify Lake Havasu City BMX Association as a 2018-era charitable/educational 501(c)(3) organization associated with BMX recreation in Lake Havasu City.",
+    "evidence_character": "FACT — IRS-DERIVED NONPROFIT DIRECTORY CORROBORATION",
+    "authority": "C2 + C2 corroborating nonprofit directories",
+    "confidence": "MEDIUM-HIGH FOR DIRECTORY CLASSIFICATION",
+    "source_ids": [
+      "AZ-SRC-0120",
+      "AZ-SRC-0121"
+    ],
+    "source_urls": [
+      "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86406.asp",
+      "https://www.causeiq.com/directory/organizations-supporting-multiple-recreation-sports-and-social-clubs-list/lake-havasu-city-kingman-az-metro/"
+    ],
+    "evidence_boundary": "Use this for nonprofit classification and broad 2018-era existence only. TaxExemptWorld's July 2018 date must not be substituted for the September 12, 2018 Arizona corporate filing date.",
+    "status": "PUBLIC_ADMISSION_READY_RECOVERED",
+    "growth_release": "v0.50 recovered reconstitution",
+    "admission_basis": "Source-grounded post-v0.48 unpublished record reconstituted under recovery control; historical middle-ID ordering is not claimed as verbatim recovered.",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-PUB-09",
+    "recovery_control": "V054_RECONSTITUTION_CONTROL.md"
+  }
+]

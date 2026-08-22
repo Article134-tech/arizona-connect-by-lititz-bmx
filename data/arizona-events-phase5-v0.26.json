@@ -1,0 +1,332 @@
+[
+  {
+    "event_id": "AZ-EVT-0001",
+    "title": "ABA Winter Nationals — Chandler Jaycees BMX era",
+    "start": "1979",
+    "end": "1983",
+    "date_precision": "RANGE / PERIOD REPORT",
+    "event_type": "National event series",
+    "city": "Chandler",
+    "track_ids": [
+      "AZ-TRK-0102"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0048"
+    ],
+    "status": "PERIOD_VERIFIED",
+    "summary": "BMX Plus! reported that, in the early ABA years, roughly 1979–1983, the Winter Nationals was held at Chandler Jaycees BMX in Chandler.",
+    "boundary": "The period source supports the event-series venue and approximate range. It does not close the Chandler Jaycees ↔ current Chandler BMX identity/site question."
+  },
+  {
+    "event_id": "AZ-EVT-0002",
+    "title": "ABA Winter Nationals — Scottsdale Jaycees Rodeo BMX Park",
+    "start": "1986",
+    "end": "1986",
+    "date_precision": "YEAR",
+    "event_type": "National event",
+    "city": "Scottsdale",
+    "track_ids": [
+      "AZ-TRK-0103"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0049"
+    ],
+    "status": "PERIOD_VERIFIED",
+    "summary": "BMX Plus! said the 1986 Winter Nationals found a new home at ABA Scottsdale Jaycees Rodeo BMX Park.",
+    "boundary": "Venue/year are period-supported. Exact street location and later lineage remain open."
+  },
+  {
+    "event_id": "AZ-EVT-0003",
+    "title": "Redline Cup qualifier — Manzanita BMX Raceway",
+    "start": "2003-05-31",
+    "end": "2003-05-31",
+    "date_precision": "EXACT DAY",
+    "event_type": "Qualifier",
+    "city": "Tucson",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0059"
+    ],
+    "status": "DATED_EVENT_VERIFIED",
+    "summary": "A 2003 Redline Cup schedule listed Manzanita BMX Raceway in Tucson as a May 31 qualifier host.",
+    "boundary": "This proves the dated qualifier listing, not the full operating span or exact historical track footprint."
+  },
+  {
+    "event_id": "AZ-EVT-0004",
+    "title": "Manzanita BMX Raceway sanctioned race",
+    "start": "2008-04-02",
+    "end": "2008-04-02",
+    "date_precision": "EXACT DAY",
+    "event_type": "Sanctioned race",
+    "city": "Tucson",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0059"
+    ],
+    "status": "OFFICIAL_RESULT_VERIFIED",
+    "summary": "An official sanctioning-body event record preserves race results from Manzanita BMX Raceway in Tucson on April 2, 2008.",
+    "boundary": "The result establishes a dated occurrence. It does not establish the track's full operating chronology."
+  },
+  {
+    "event_id": "AZ-EVT-0005",
+    "title": "Olympic Day — Desert Sunset BMX",
+    "start": "2013-06-23",
+    "end": "2013-06-23",
+    "date_precision": "EXACT DAY",
+    "event_type": "Olympic Day",
+    "city": "Tucson",
+    "track_ids": [
+      "AZ-TRK-0112"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0058"
+    ],
+    "status": "A1_DATED_EVENT",
+    "summary": "USA BMX listed Desert Sunset BMX in Tucson for Olympic Day on June 23, 2013.",
+    "boundary": "The official event listing does not prove uninterrupted operation from the 2003 municipal lease through 2013."
+  },
+  {
+    "event_id": "AZ-EVT-0006",
+    "title": "Olympic Day — Sara Park BMX Raceway",
+    "start": "2013-06-27",
+    "end": "2013-06-27",
+    "date_precision": "EXACT DAY",
+    "event_type": "Olympic Day",
+    "city": "Lake Havasu City",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0057"
+    ],
+    "status": "A1_DATED_EVENT",
+    "summary": "USA BMX listed Sara Park BMX Raceway in Lake Havasu City for an Olympic Day race on June 27, 2013.",
+    "boundary": "This does not establish the exact rename/continuity path to current Lake Havasu City BMX."
+  },
+  {
+    "event_id": "AZ-EVT-0007",
+    "title": "Winter Nationals — Black Mountain BMX",
+    "start": "2019",
+    "end": "2019",
+    "date_precision": "YEAR / OFFICIAL REPORT",
+    "event_type": "National event",
+    "city": "Phoenix",
+    "track_ids": [
+      "AZ-TRK-0002"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0015"
+    ],
+    "status": "A1_EVENT_REPORT",
+    "summary": "USA BMX's 2019 Winter Nationals report documents a broad Arizona rider footprint at Black Mountain BMX.",
+    "boundary": "The report supports the 2019 event ecosystem and named Arizona participation; it is not a timeless roster."
+  },
+  {
+    "event_id": "AZ-EVT-0008",
+    "title": "Gold Cup Finals Southwest — Sports Park BMX",
+    "start": "2020-10-16",
+    "end": "2020-10-18",
+    "date_precision": "EXACT RANGE",
+    "event_type": "Gold Cup regional final",
+    "city": "Tucson",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0013",
+      "AZ-PUB-0014"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX confirmed the 2020 Gold Cup Finals South West at Sports Park BMX in Tucson for October 16–18, 2020.",
+    "boundary": "The event record and surviving Lititz plaque are separate evidence objects; the artifact does not replace the official event source."
+  },
+  {
+    "event_id": "AZ-EVT-0009",
+    "title": "Route 66 Classic Nationals — High Desert 66 BMX",
+    "start": "2021-05-07",
+    "end": "2021-05-09",
+    "date_precision": "EXACT RANGE",
+    "event_type": "National event",
+    "city": "Kingman",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0043",
+      "AZ-PUB-0044",
+      "AZ-PUB-0045"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX announced the May 7–9, 2021 Route 66 Classic Nationals at High Desert 66 BMX and identified Harry Leary as Track Operator.",
+    "boundary": "The event does not by itself prove exact organizational succession to current Interstate BMX."
+  },
+  {
+    "event_id": "AZ-EVT-0010",
+    "title": "Arizona State Final Weekend — Sports Park / Chandler",
+    "start": "2021-09-10",
+    "end": "2021-09-12",
+    "date_precision": "EXACT RANGE",
+    "event_type": "State series final weekend",
+    "city": "Tucson / Chandler",
+    "track_ids": [
+      "AZ-TRK-0003",
+      "AZ-TRK-0001"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0046",
+      "AZ-PUB-0047",
+      "AZ-PUB-0014"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "The 2021 Arizona State Final Weekend ran from a Sports Park State Race on September 10 to Chandler's pre-race September 11 and State Final September 12.",
+    "boundary": "This is one governed weekend record linking two tracks. It is not split into one event record per rider or award."
+  },
+  {
+    "event_id": "AZ-EVT-0011",
+    "title": "Show Low BMX local race",
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "date_precision": "EXACT DAY",
+    "event_type": "Local race",
+    "city": "Show Low",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0040"
+    ],
+    "status": "A1_RESULT_VERIFIED",
+    "summary": "USA BMX published local race results for Show Low BMX on July 19, 2026.",
+    "boundary": "This proves dated 2026 activity. It does not establish uninterrupted operation or Thunder Raceway lineage."
+  },
+  {
+    "event_id": "AZ-EVT-0012",
+    "title": "Gold Cup Championship Southwest — Goodyear BMX Raceway",
+    "start": "2023-10-13",
+    "end": "2023-10-15",
+    "date_precision": "EXACT RANGE",
+    "event_type": "Gold Cup regional championship",
+    "city": "Goodyear",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0065"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX results document the Gold Cup Championship Southwest at Goodyear BMX Raceway from October 13–15, 2023.",
+    "boundary": "The official result establishes event, dates and venue; it does not establish the track opening date or full major-event chronology."
+  },
+  {
+    "event_id": "AZ-EVT-0013",
+    "title": "Gold Cup Final Southwest — Interstate BMX",
+    "start": "2024-09-27",
+    "end": "2024-09-29",
+    "date_precision": "EXACT RANGE",
+    "event_type": "Gold Cup regional final",
+    "city": "Kingman",
+    "track_ids": [
+      "AZ-TRK-0010"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0070"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX listed the Gold Cup Final Southwest at Interstate BMX in Kingman for September 27–29, 2024.",
+    "boundary": "The event does not establish exact organizational succession from High Desert 66 BMX."
+  },
+  {
+    "event_id": "AZ-EVT-0014",
+    "title": "Colorado River BMX qualifier weekend",
+    "start": "2025-03-08",
+    "end": "2025-03-09",
+    "date_precision": "EXACT RANGE",
+    "event_type": "State + Gold Cup qualifier weekend",
+    "city": "Bullhead City",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0068"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "Official records document a State Championship Qualifier on March 8 and Gold Cup Qualifier on March 9, 2025 at Colorado River BMX.",
+    "boundary": "The two records establish consecutive qualifier dates; they do not define the full operating span."
+  },
+  {
+    "event_id": "AZ-EVT-0015",
+    "title": "Yuma BMX qualifier weekend",
+    "start": "2026-01-31",
+    "end": "2026-02-01",
+    "date_precision": "EXACT RANGE",
+    "event_type": "Gold Cup + State qualifier weekend",
+    "city": "Yuma",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0066"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX listed a Gold Cup Qualifier on January 31 and State Championship Qualifier on February 1, 2026 at Yuma BMX.",
+    "boundary": "This is a governed two-race weekend record, not a claim of national-event status."
+  },
+  {
+    "event_id": "AZ-EVT-0016",
+    "title": "Colorado River BMX State Championship Qualifier",
+    "start": "2026-03-07",
+    "end": "2026-03-07",
+    "date_precision": "EXACT DAY",
+    "event_type": "State Championship Qualifier",
+    "city": "Bullhead City",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0069"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX documents a State Championship Qualifier at Colorado River BMX on March 7, 2026.",
+    "boundary": "Dated event evidence only; uninterrupted operation is not inferred."
+  },
+  {
+    "event_id": "AZ-EVT-0017",
+    "title": "Mingus Mountain BMX State Championship Qualifier",
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "date_precision": "EXACT DAY",
+    "event_type": "State Championship Qualifier",
+    "city": "Prescott",
+    "track_ids": [
+      "AZ-TRK-0008"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0067"
+    ],
+    "status": "A1_EVENT_VERIFIED",
+    "summary": "USA BMX documents a State Championship Qualifier at Mingus Mountain BMX (Wheelhouse) on June 27, 2026.",
+    "boundary": "Dated event evidence only; opening date and prior-name history remain outside this claim."
+  },
+  {
+    "event_id": "AZ-EVT-0018",
+    "title": "Show Low BMX State Championship Qualifier",
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "date_precision": "EXACT DAY",
+    "event_type": "State Championship Qualifier",
+    "city": "Show Low",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0063"
+    ],
+    "status": "A1_RESULT_VERIFIED",
+    "summary": "An official sanctioning-body result record documents a State Championship Qualifier at Show Low BMX on July 18, 2026.",
+    "boundary": "This establishes current-track event activity and does not close Thunder Raceway lineage."
+  }
+]

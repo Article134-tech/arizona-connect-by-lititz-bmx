@@ -1,0 +1,46 @@
+[
+  {
+    "claim_id": "AZ-PUB-0163",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "The City of Tucson construction-plan catalog identifies Class V aerial-photograph holdings for 1969–1978 (V-69-000), 1979 (V-79-000), and 1980 (V-80-000); each catalog row is marked not scanned, and the 1969–1978 class states that no individual plan numbers were issued during that span.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL AERIAL-RECORD INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR AERIAL-CLASS IDENTITY, DATE RANGE AND WEB-SCAN STATUS",
+    "source_ids": [
+      "AZ-SRC-0107"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans?direction=desc&page=6&plan=&sort=ConstructionPlans.sort"
+    ],
+    "evidence_boundary": "This establishes a City archival route for near-period aerial photography and explains why a 1977 image cannot be recovered by searching an individual V-class plan number. The catalog does not expose the aerial pixels, identify which frame covers the BMX course, locate the dirt footprint, or justify moving the governed Reid Park point.",
+    "status": "PASS",
+    "growth_release": "v0.40 archival-site recovery 3",
+    "admission_basis": "Direct City of Tucson Maps and Records catalog rows identify the 1969–1978, 1979 and 1980 Class V aerial holdings and mark them as not scanned.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0164",
+    "category": "Historical Tracks / Municipal Park Context",
+    "public_claim": "Arizona State Parks’ Statewide Comprehensive Outdoor Recreation Plan appendices record a Tucson “Reid Park & Zoo Improvements” project in 1980 and a “Reid Regional Park Renovation” project in 1981.",
+    "evidence_character": "FACT — OFFICIAL STATE RECREATION-PROJECT REGISTER",
+    "authority": "A1",
+    "confidence": "HIGH FOR PROJECT NAMES, MUNICIPALITY AND YEARS",
+    "source_ids": [
+      "AZ-SRC-0108"
+    ],
+    "source_urls": [
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf"
+    ],
+    "evidence_boundary": "These records establish documented park improvement and renovation activity shortly after the attributed 1977 Randolph Park BMX evidence. They do not identify the BMX course, state that the projects altered or removed it, establish a closure date, or support any coordinate change.",
+    "status": "PASS",
+    "growth_release": "v0.40 archival-site recovery 3",
+    "admission_basis": "The Arizona State Parks SCORP project appendix directly lists the two Tucson Reid Park projects and their project years.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  }
+]

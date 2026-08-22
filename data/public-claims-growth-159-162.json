@@ -1,0 +1,90 @@
+[
+  {
+    "claim_id": "AZ-PUB-0159",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Randolph Park Field Book 0174, described as ‘TOPOGRAPHY AND LAYOUT’ in Township 14 South, Range 14 East, Section 16, as a scanned City survey record dated May 1, 1926.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR FIELD-BOOK IDENTITY, DESCRIPTION, SECTION AND DATE",
+    "source_ids": [
+      "AZ-SRC-0103"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/17526"
+    ],
+    "evidence_boundary": "The recovered date corrects the earlier undated retrieval lead: Field Book 0174 is a 1926 base-topography/layout record, not a 1970s or contemporaneous BMX document. It may help register long-term park geometry, but it does not label BMX, locate the 1977 dirt course, or justify moving the governed Reid Park point.",
+    "status": "PASS",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book detail page supplies the book number, description, survey section, scan status and date.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0160",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Randolph Park Field Book 0677, pages 35–79, described as ‘TOPOG, X-SECTIONS, BM CIRCUITS’ in Township 14 South, Range 14 East, Section 16, as a scanned City survey record dated January 1, 1951.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR FIELD-BOOK IDENTITY, DESCRIPTION, SECTION AND DATE",
+    "source_ids": [
+      "AZ-SRC-0104"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/2314"
+    ],
+    "evidence_boundary": "The recovered date corrects the earlier undated retrieval lead: Field Book 0677 is a 1951 topography/cross-section/bench-circuit record, not a 1970s or contemporaneous BMX document. It is useful as older survey geometry only and does not identify the 1977 BMX footprint or support a coordinate promotion.",
+    "status": "PASS",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book detail page supplies the book/page range, description, survey section, scan status and date.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0161",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Field Book 1118, pages 1–19, as a scanned ‘RANDOLPH PARK REC. CENTER SITE’ survey in Township 14 South, Range 14 East, Section 16 dated June 1, 1966, with preliminary, boundary and bench-circuit survey flags.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1966 RECREATION-CENTER SITE SURVEY IDENTITY / DATE / SURVEY ROLE",
+    "source_ids": [
+      "AZ-SRC-0105"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/508"
+    ],
+    "evidence_boundary": "Field Book 1118 is a materially closer pre-BMX spatial-control record than the 1926 and 1951 books and its official scans preserve Recreation Center-site survey geometry. The record still does not label a BMX course, prove that a 1977 course occupied the Recreation Center survey area, or establish an exact historical track center.",
+    "status": "PASS",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book record and linked official scans establish a dated 1966 Recreation Center-site survey suitable for bounded pre-BMX spatial registration.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0162",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "A completed July 27, 2023 City of Tucson record request for 900 S Randolph Way states that files for the address are restricted and that all historical data for Reid Park, Randolph Park and Reid Park Zoo, across numerous addresses, has been uploaded as plans/documents in OnBase.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD-CUSTODY / ACCESS NOTICE",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT CITY CUSTODY / RESTRICTION STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0106"
+    ],
+    "source_urls": [
+      "https://pro.tucsonaz.gov/address_search/900/S/RANDOLPH/WY"
+    ],
+    "evidence_boundary": "This updates the archival-custody path by identifying the City’s current restricted OnBase repository for historical Reid/Randolph/Zoo plans and documents. It does not establish that a BMX-specific drawing exists in OnBase, grant access to restricted records, identify the 1977 course footprint, or justify a geographic promotion.",
+    "status": "PASS",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Official City of Tucson PRO record-request entry gives the completed request number/date, restriction status and current OnBase custody statement.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "claim_id": "AZ-PUB-0134",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The May 1985 BMX Action Arizona track directory separately lists Window Rock BMX Indoor and Window Rock BMX in Window Rock, with Jerry Pete and the same published telephone number on both entries.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MAY 1985 SEPARATE PRINTED IDENTITIES / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "This moves the earliest directly recovered Window Rock BMX Indoor directory occurrence from June back to May 1985 and strengthens a shared-contact signal. It does not establish whether the two printed identities were separate facilities, an indoor/outdoor variant, a rename, the same organization, or the same physical course.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.35",
+    "admission_basis": "Direct visual verification of the May 1985 directory page showing two separately printed Window Rock BMX identities",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121",
+      "AZ-TRK-0126"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0135",
+    "category": "Historical Tracks / Period Directory Continuity",
+    "public_claim": "The May 1985 BMX Action directory lists Hills ’n Spills BMX in Peoria with Gene Garcez; the June 1985 BMX Plus! directory repeats the same identity, contact and published telephone number.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MAY–JUNE 1985 DIRECTORY IDENTITY / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0075",
+      "AZ-SRC-0080"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf"
+    ],
+    "evidence_boundary": "This moves the earliest directly recovered Hills ’n Spills BMX directory occurrence from June back to May 1985 and proves consecutive recovered directory continuity for that printed identity. It does not prove a formal rename from Peoria Dunes BMX, an identical physical course, uninterrupted operation, ownership or organizational succession.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.35",
+    "admission_basis": "Direct May page verification plus June period-directory repetition",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123",
+      "AZ-TRK-0127"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0136",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The May and June 1985 Arizona track directories both list Heritage Park BMX in Prescott with Kathy Zosky and Debbie Cotton and the same published telephone number.",
+    "evidence_character": "FACT — TWO PERIOD BMX PUBLICATIONS / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MAY–JUNE 1985 HERITAGE PARK BMX IDENTITY / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0075",
+      "AZ-SRC-0080"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf"
+    ],
+    "evidence_boundary": "The two directory snapshots establish Heritage Park BMX as a repeated period identity under Prescott. They do not establish the exact historical course center, ownership/operator roles, opening or closing dates, sanction continuity, or a relationship to Mile-Hi BMX or current Mingus Mountain BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.35",
+    "admission_basis": "Two consecutive directly verified period directory snapshots support a separate historical census identity",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0137",
+    "category": "Historical Tracks / Municipal Site Context",
+    "public_claim": "Arizona State Parks’ Land and Water Conservation Fund project register lists City of Prescott “Heritage Park Phase III Development” in 1979 and another City of Prescott “Heritage Park” project in 1984.",
+    "evidence_character": "FACT — STATE RECREATION PROGRAM REGISTER",
+    "authority": "A2",
+    "confidence": "HIGH FOR PRE-1985 CITY OF PRESCOTT HERITAGE PARK EXISTENCE / DEVELOPMENT",
+    "source_ids": [
+      "AZ-SRC-0081"
+    ],
+    "source_urls": [
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf"
+    ],
+    "evidence_boundary": "This independently establishes a City of Prescott Heritage Park development context before the 1985 Heritage Park BMX directory listings. It does not by itself prove BMX use, identify the BMX course footprint, or establish that every present-day Heritage Park facility occupies the exact 1985 BMX ground.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.35",
+    "admission_basis": "Arizona State Parks recreation-project register independently establishes the named municipal park before the BMX listings",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "category": "Historical Tracks / Geographic Registration",
+    "public_claim": "The City of Prescott identifies current Heritage Park at 1497 Heritage Park Rd; combined with the repeated 1985 Heritage Park BMX name and pre-1985 City park-development record, the Atlas admits only a Heritage Park property-level SITE_POINT_APPROXIMATE for Heritage Park BMX.",
+    "evidence_character": "SYNTHESIS — PERIOD DIRECTORY + STATE/CITY PARK RECORD + GEOCODED PARK FEATURE",
+    "authority": "A1/A2/B1/C1",
+    "confidence": "MEDIUM-HIGH FOR HERITAGE PARK PROPERTY ASSOCIATION / LOW FOR HISTORICAL BMX COURSE CENTER",
+    "source_ids": [
+      "AZ-SRC-0075",
+      "AZ-SRC-0080",
+      "AZ-SRC-0081",
+      "AZ-SRC-0082",
+      "AZ-SRC-0083"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf",
+      "https://prescott-az.gov/rec-services/recreation-areas-prescott/parks/heritage-park/",
+      "https://www.anyplaceamerica.com/directory/az/yavapai-county-04025/parks/heritage-park-2040099/"
+    ],
+    "evidence_boundary": "The marker is deliberately a current Heritage Park property reference, not an exact 1985 BMX track-center. The evidence supports the named municipal park association, while the precise dirt-course footprint, operator chronology and relationship to Mile-Hi BMX or current Mingus Mountain BMX remain unresolved.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.35",
+    "admission_basis": "Repeated 1985 track-at-named-park identity + pre-1985 state recreation project record + current City park address + USGS-referenced park coordinate",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  }
+]

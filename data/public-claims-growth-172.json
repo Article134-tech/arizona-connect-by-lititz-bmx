@@ -1,0 +1,29 @@
+[
+  {
+    "claim_id": "AZ-PUB-0172",
+    "category": "Historical Tracks / Site History",
+    "public_claim": "A cross-source record supports same-site continuity between Chandler Jaycees BMX and today’s Chandler BMX: a BMX history timeline says Merl Mennenga started Chandler Jaycees in 1975 and that the track remained in the same location; a June 1987 BMX Plus! retrospective identifies Chandler Jaycees as the ABA’s first track; and current USA BMX places Chandler BMX at Frye and McQueen while describing it as the first BMX track the ABA opened for sanctioned racing.",
+    "evidence_character": "CROSS-SOURCE SYNTHESIS — SPECIALIST SITE CONTINUITY + PERIOD TRACK IDENTITY + CURRENT FIRST-PARTY SITE",
+    "authority": "B2 + B1 + A1",
+    "confidence": "MEDIUM-HIGH FOR SAME PHYSICAL SITE; EXACT HISTORICAL COURSE GEOMETRY OPEN",
+    "source_ids": [
+      "AZ-SRC-0113",
+      "AZ-ATL-SRC-0003",
+      "AZ-SRC-0001"
+    ],
+    "source_urls": [
+      "https://www.bmxnews.com/pdf/history_of_bmx_timeline_012019.pdf",
+      "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+      "https://www.usabmx.com/tracks/az-chandler-bmx/about"
+    ],
+    "evidence_boundary": "This supports Chandler Jaycees BMX and current Chandler BMX occupying the same physical track site at the Frye/McQueen ground. It does not establish the exact 1975 or 1979–1983 dirt-course center, identical course geometry through time, every operator or sanction transition, uninterrupted organizational identity under one legal entity, or an exact 1975 street-address formulation. The historical map point therefore represents the shared site at SITE_POINT_APPROXIMATE precision, while the current Chandler point remains EXACT_TRACK_POINT.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.48 chandler jaycees site continuity recovery 1",
+    "admission_basis": "A specialist BMX history explicitly states Chandler Jaycees remained in the same location; the period BMX Plus! record independently identifies Chandler Jaycees as the ABA’s first track, while current USA BMX identifies the Frye/McQueen Chandler facility as the first track the ABA opened for sanctioned racing. Together these sources clear a same-physical-site threshold without clearing exact historical course geometry or every organizational transition.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0102",
+      "AZ-TRK-0001"
+    ]
+  }
+]

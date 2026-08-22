@@ -1,0 +1,289 @@
+[
+  {
+    "claim_id": "AZ-PUB-0115",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Louie Stockmeyer as the contact for Reid Park BMX in Tucson.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 directory contact for Reid Park BMX. A directory contact is not automatically an owner, operator, founder or promoter, and the listing does not establish the exact historical track footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period BMX publication directory with named contact and role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0116",
+    "category": "Historical Tracks / Attributed Rider Memory",
+    "public_claim": "In a 2009 first-person forum post, a former Tucson resident who said he lived there from 1980 to 1983 recalled racing BMX at Reid Park and Manzanita.",
+    "evidence_character": "PERSONAL TRUTH — ATTRIBUTED RETROSPECTIVE RIDER MEMORY",
+    "authority": "C2",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT; MEDIUM FOR HISTORICAL ACTIVITY WITNESS",
+    "source_ids": [
+      "AZ-SRC-0076"
+    ],
+    "source_urls": [
+      "https://motorbicycling.com/threads/hello-from-tucson.12132/post-116511"
+    ],
+    "evidence_boundary": "This preserves an attributed firsthand-style retrospective statement that BMX racing occurred at Reid Park and Manzanita during the writer’s stated 1980–1983 Tucson period. It does not establish exact race dates, sanction, operator identity, uninterrupted activity or either track’s precise course footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Dated attributed personal recollection with explicit place/activity wording and visible uncertainty boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116",
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0117",
+    "category": "Historical Tracks / Geographic Control",
+    "public_claim": "The City of Tucson identifies current Gene C. Reid Park at 900 S. Randolph Way and publishes the park reference coordinate 32.2103908, -110.9187637.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL GEOGRAPHIC CONTROL",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT PARK PROPERTY REFERENCE",
+    "source_ids": [
+      "AZ-SRC-0077"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park"
+    ],
+    "evidence_boundary": "This establishes the current Gene C. Reid Park property reference, not the exact historical Reid Park BMX course center. Combined with period Reid Park BMX identity evidence and the attributed rider memory, it supports only a SITE_POINT_APPROXIMATE at the park property.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Official municipal park page used only as bounded property-level geographic control",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0118",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Ramon Astorga as the contact for Hillside BMX in Nogales.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 directory contact for Hillside BMX. It does not establish ownership, operator status, full operating span or the exact track site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory named contact with explicit role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0117"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0119",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Kathy Zosky as the contact for Chino Valley BMX.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 directory contact. It does not establish ownership, operator status, uninterrupted operation or an exact historical track site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory named contact with explicit role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0118"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0120",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The April 1984 Bikes & Dirt directory lists Chino Valley BMX with Tom Shultz and Kathy Zasky as contacts.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR APRIL 1984 PUBLISHED CONTACT LINE",
+    "source_ids": [
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This preserves the April 1984 published contact line and its spelling as printed/indexed. It does not prove that the Kathy Zasky spelling is the same person as the March listing’s Kathy Zosky, does not establish ownership/operator roles, and does not establish the exact track site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Second period directory snapshot with contact/spelling boundary preserved",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0118"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0121",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Scott Sandberg as the contact for Mile-Hi BMX in Prescott Valley.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 directory contact for the Prescott Valley listing. It does not resolve the earlier BMX Plus! “Prescott” wording, ownership, operator status or the exact track/camp footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory contact integrated with existing Prescott-versus-Prescott-Valley boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0122",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Kirk Jorgsma as the contact for Bullhead City Kiwanis BMX.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 contact line. It does not establish ownership, Kiwanis organizational structure, uninterrupted operation or the exact historical BMX site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory named contact with organizational-role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0120"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0123",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Russ Morgan and Chuck Morrison as contacts for Window Rock BMX.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACTS",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the March 1984 published contacts between the existing 1982 and 1985 directory snapshots. Changing directory contacts do not by themselves prove ownership transfer, organizational succession or uninterrupted operation, and no exact historical track site is established.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory contact chronology with succession inference prohibited",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0124",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Rick Padilla and Mike J. Nasser as contacts for White Mountain BMX Raceway in Lakeside.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACTS",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 contacts. It does not establish ownership, operator roles, the full operating span or the exact historical track footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory named contacts with explicit role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0122"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0125",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Gene Garcez as the contact for Peoria Dunes BMX.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED DIRECTORY CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the published March 1984 directory contact. It does not establish ownership, operator status, opening date or the exact historical Peoria Dunes track site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Period directory named contact with explicit role boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0126",
+    "category": "Historical Tracks / Attributed Rider Memory",
+    "public_claim": "In a 2015 memorial comment, Ken Barrier recalled meeting Ted Jorgensen in 1982 and racing the first night at Peoria Dunes before being invited to join Jorgensen’s team.",
+    "evidence_character": "PERSONAL TRUTH — ATTRIBUTED RETROSPECTIVE RIDER MEMORY",
+    "authority": "C2",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT; MEDIUM FOR OPENING-ERA WITNESS",
+    "source_ids": [
+      "AZ-SRC-0078"
+    ],
+    "source_urls": [
+      "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840"
+    ],
+    "evidence_boundary": "This preserves Barrier’s attributed personal recollection and supports an opening-era Peoria Dunes witness in 1982. It does not independently establish the exact opening date, sanction, track site, ownership, or that “first night” was the facility’s formal first-ever race.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Attributed rider recollection admitted as personal truth rather than converted into independent documentary fact",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0127",
+    "category": "Historical Tracks / Attributed Rider Memory",
+    "public_claim": "In a 2020 memorial comment, Brett B recalled that he and his brother raced BMX throughout the 1980s, mostly at Peoria Dunes, which he described as long gone.",
+    "evidence_character": "PERSONAL TRUTH — ATTRIBUTED RETROSPECTIVE RIDER MEMORY",
+    "authority": "C2",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT; MEDIUM FOR BROAD ACTIVITY WITNESS",
+    "source_ids": [
+      "AZ-SRC-0078"
+    ],
+    "source_urls": [
+      "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840"
+    ],
+    "evidence_boundary": "This preserves an attributed rider memory of substantial 1980s Peoria Dunes use. It does not establish an exact operating span, closure date, ownership, sanction history or physical track footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.33",
+    "admission_basis": "Attributed community/rider recollection kept separate from period documentary fact",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123"
+    ]
+  }
+]

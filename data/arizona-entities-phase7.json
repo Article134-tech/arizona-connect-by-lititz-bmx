@@ -170,7 +170,7 @@
   },
   {
     "entity_id": "AZ-ART-0001",
-    "name": "26.0009 \u2014 2020 Arizona State Race 1st Place Tin / High Desert 66",
+    "name": "26.0009 — 2020 Arizona State Race 1st Place Tin / High Desert 66",
     "entity_type": "Artifact",
     "status": "LITITZ ARTIFACT VERIFIED",
     "claim_ids": [
@@ -182,7 +182,7 @@
   },
   {
     "entity_id": "AZ-ART-0002",
-    "name": "26.0098 \u2014 2021 Chandler BMX Arizona State Race 1st Place Plaque",
+    "name": "26.0098 — 2021 Chandler BMX Arizona State Race 1st Place Plaque",
     "entity_type": "Artifact",
     "status": "LITITZ ARTIFACT VERIFIED",
     "claim_ids": [
@@ -196,7 +196,7 @@
   },
   {
     "entity_id": "AZ-ART-0003",
-    "name": "26.0100 \u2014 2020 Gold Cup Southwest Regional Championship 1st Place Plaque",
+    "name": "26.0100 — 2020 Gold Cup Southwest Regional Championship 1st Place Plaque",
     "entity_type": "Artifact",
     "status": "LITITZ ARTIFACT VERIFIED",
     "claim_ids": [
@@ -209,7 +209,7 @@
   },
   {
     "entity_id": "AZ-ART-0004",
-    "name": "26.0088 \u2014 2021 Goodyear Raceway BMX 1st Place Tin",
+    "name": "26.0088 — 2021 Goodyear Raceway BMX 1st Place Tin",
     "entity_type": "Artifact",
     "status": "LITITZ MEDIA/ARTIFACT CONTROL",
     "claim_ids": [],
@@ -219,7 +219,7 @@
   },
   {
     "entity_id": "AZ-ART-0005",
-    "name": "26.0089 \u2014 2022 Goodyear Raceway BMX 1st Place Double Points Tin",
+    "name": "26.0089 — 2022 Goodyear Raceway BMX 1st Place Double Points Tin",
     "entity_type": "Artifact",
     "status": "LITITZ MEDIA/ARTIFACT CONTROL",
     "claim_ids": [],
@@ -295,6 +295,61 @@
     "claim_ids": [],
     "track_ids": [
       "AZ-TRK-0112"
+    ]
+  },
+  {
+    "entity_id": "AZ-ORG-0005",
+    "name": "Tri-State BMX Association Inc.",
+    "entity_type": "Organization",
+    "status": "RECOVERED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0173",
+      "AZ-PUB-0174",
+      "AZ-PUB-0175",
+      "AZ-PUB-0176",
+      "AZ-PUB-0177",
+      "AZ-PUB-0178"
+    ],
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-ENT-01"
+  },
+  {
+    "entity_id": "AZ-ORG-0006",
+    "name": "Lake Havasu City BMX Association",
+    "entity_type": "Organization",
+    "status": "RECOVERED RESEARCH ANCHOR",
+    "claim_ids": [
+      "AZ-PUB-0179",
+      "AZ-PUB-0180",
+      "AZ-PUB-0181"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-ENT-02"
+  },
+  {
+    "entity_id": "AZ-TRK-0007",
+    "name": "Lake Havasu City BMX",
+    "entity_type": "Track",
+    "status": "ACTIVE_VERIFIED_2026",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "entity_id": "AZ-TRK-0111",
+    "name": "Sara Park BMX Raceway",
+    "entity_type": "Track",
+    "status": "DATED_HISTORY_PLUS_EXACT_HISTORICAL_PHYSICAL_SITE_REGISTERED_LINEAGE_OPEN",
+    "claim_ids": [],
+    "track_ids": [
+      "AZ-TRK-0111"
     ]
   }
 ]

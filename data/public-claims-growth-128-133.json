@@ -1,0 +1,141 @@
+[
+  {
+    "claim_id": "AZ-PUB-0128",
+    "category": "Historical Tracks / Site Naming Context",
+    "public_claim": "Pima County Public Library’s local-history file says the park now called Reid Park was originally Randolph Park and was renamed in 1978.",
+    "evidence_character": "FACT — LOCAL GOVERNMENT LIBRARY / PARK HISTORY",
+    "authority": "A2",
+    "confidence": "HIGH FOR PARK-NAME HISTORY",
+    "source_ids": [
+      "AZ-SRC-0079"
+    ],
+    "source_urls": [
+      "https://www.library.pima.gov/content/randolph-golf-course-park-origin-of-name/"
+    ],
+    "evidence_boundary": "This establishes the municipal park-name context needed to interpret older Randolph Park references. It does not by itself establish that a BMX track used both names, identify the exact historical BMX course footprint, prove a formal BMX-track rename, or extend the track’s operating dates.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Government-library local-history record establishing the park’s 1978 name change",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0129",
+    "category": "Historical Tracks / Period Directory Contact",
+    "public_claim": "The April 1984 Bikes & Dirt directory again lists Tri Valley in Casa Grande and prints Jeff Prindle as the published contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR APRIL 1984 DIRECTORY OCCURRENCE / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This adds a second 1984 directory snapshot. The September 1982 issue prints Jeff Pritchett while the April 1984 page prints Jeff Prindle; those names are preserved as published and are not automatically normalized into one person. The listing does not establish ownership, operator status, uninterrupted operation or an exact site.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Direct visual verification of a second period directory snapshot with surname-variation boundary preserved",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0115"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0130",
+    "category": "Historical Tracks / Period Directory Geography",
+    "public_claim": "The April 1984 Bikes & Dirt directory again lists Mile-Hi BMX under Prescott Valley and names Scott Sandberg as the published contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR APRIL 1984 PRESCOTT VALLEY DIRECTORY WORDING / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "A second 1984 directory independently repeats Prescott Valley as the city heading. This strengthens Prescott Valley as the governed directory geography while preserving the October 1983 BMX Plus! “Prescott” wording as a separate period reference. It does not establish the exact track or summer-camp footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Second direct-verified period directory snapshot repeating Prescott Valley geography",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0131",
+    "category": "Historical Tracks / Period Directory Transition",
+    "public_claim": "The June 1985 BMX Plus! track directory lists Bullhead BMX in Bullhead City with John Schneider; its published telephone number matches the May 1985 Bullhead City Kiwanis BMX listing.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED JUNE IDENTITY + DIRECTORY-LEVEL CONTINUITY SIGNAL",
+    "source_ids": [
+      "AZ-SRC-0080",
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "The matching published telephone number is a continuity signal across two differently named directory identities, not proof of a formal rename, legal or organizational succession, uninterrupted operation, or the same physical BMX site. Bullhead BMX is therefore preserved as a separate census identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Two adjacent period directory snapshots support a bounded identity/contact transition without authorizing a merge",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0120",
+      "AZ-TRK-0125"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0132",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The June 1985 BMX Plus! Arizona track directory prints “Window Rock, Window Rock BMX,” followed by “Window Rock BMX Indoor” and Jerry Pete’s contact line.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED WINDOW ROCK BMX INDOOR NAME / DIRECT PAGE VERIFIED",
+    "source_ids": [
+      "AZ-SRC-0080"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf"
+    ],
+    "evidence_boundary": "The directory page establishes Window Rock BMX Indoor as a printed period identity in the Window Rock listing. It does not establish whether this was a second facility, an indoor variant of Window Rock BMX, a rename, a shared organization, or the same physical site. The identities remain separate pending stronger evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Direct visual verification of an additional period directory identity with relationship explicitly unresolved",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121",
+      "AZ-TRK-0126"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0133",
+    "category": "Historical Tracks / Period Directory Transition",
+    "public_claim": "The June 1985 BMX Plus! track directory lists Hills ’n Spills BMX in Peoria with Gene Garcez; the printed telephone number matches the 1984 Peoria Dunes BMX directory listing.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED JUNE IDENTITY + DIRECTORY-LEVEL CONTINUITY SIGNAL",
+    "source_ids": [
+      "AZ-SRC-0080",
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "The matching city, published contact and telephone number create a strong directory-level continuity signal between Peoria Dunes BMX and Hills ’n Spills BMX. They do not prove a formal rename, identical physical course, uninterrupted operation, ownership or organizational succession, so Hills ’n Spills BMX is preserved as a separate census identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.34",
+    "admission_basis": "Period directory comparison supports a bounded continuity signal while preserving separate identities",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123",
+      "AZ-TRK-0127"
+    ]
+  }
+]

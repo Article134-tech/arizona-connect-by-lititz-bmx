@@ -165,5 +165,33 @@
     "confidence": "L1 CONTROL",
     "claim_ids": [],
     "boundary": "Artifact-media control only; no expanded race-result claim admitted yet."
+  },
+  {
+    "relationship_id": "AZ-REL-0016",
+    "from": "AZ-ORG-0005",
+    "to": "AZ-TRK-0111",
+    "type": "SARA_PARK_SUBLEASE_AND_REBUILD_CONTEXT",
+    "confidence": "HIGH FOR ORGANIZATION/SITE CONTEXT",
+    "claim_ids": [
+      "AZ-PUB-0174",
+      "AZ-PUB-0178"
+    ],
+    "boundary": "City budget and 2018 local reporting connect Tri-State BMX to SARA Park use and BMX rebuild activity. Do not encode ownership, exact lease rights, or uninterrupted operator status.",
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-REL-01"
+  },
+  {
+    "relationship_id": "AZ-REL-0017",
+    "from": "AZ-ORG-0006",
+    "to": "AZ-TRK-0007",
+    "type": "NONPROFIT_REGISTERED_AT_TRACK_SITE",
+    "confidence": "HIGH FOR ADDRESS / CORPORATE IDENTITY",
+    "claim_ids": [
+      "AZ-PUB-0179",
+      "AZ-PUB-0180"
+    ],
+    "boundary": "The nonprofit's principal address matches the governed BMX site. Do not encode predecessor/successor legal transfer from Tri-State or ownership of the property.",
+    "recovery_state": "RECOVERY_REASSIGNED",
+    "recovery_key": "R50-REL-02"
   }
 ]

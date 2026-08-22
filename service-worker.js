@@ -1,4 +1,4 @@
-const CACHE='arizona-connect-v0.25-integrated-regroup';
+const CACHE = 'arizona-connect-v0.55-audited-publication-candidate';
 const SHELL=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest',
 './assets/lititz-bmx-logo-white-white.png','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{

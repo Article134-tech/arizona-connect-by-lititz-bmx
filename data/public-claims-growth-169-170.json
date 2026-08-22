@@ -1,0 +1,46 @@
+[
+  {
+    "claim_id": "AZ-PUB-0169",
+    "category": "Current Tracks",
+    "public_claim": "An IRS-derived nonprofit database lists Colorado River BMX Inc. in Bullhead City, Arizona, with EIN 86-0890218, Walter Thompson as the in-care-of name, and a May 1999 ruling date.",
+    "evidence_character": "FACT — IRS-DERIVED NONPROFIT DATABASE RECORD",
+    "authority": "C1-derived-registry",
+    "confidence": "HIGH FOR REPORTED IRS-DERIVED ORGANIZATION RECORD; LINEAGE OPEN",
+    "source_ids": [
+      "AZ-SRC-0111"
+    ],
+    "source_urls": [
+      "https://501c3lookup.org/colorado-river-bmx-inc_860890218"
+    ],
+    "evidence_boundary": "This establishes a reported IRS-derived nonprofit record for an organization named Colorado River BMX Inc. in Bullhead City with a May 1999 ruling date. It does not establish that the nonprofit is legally or organizationally continuous with the 1984–1985 Bullhead City Kiwanis BMX or Bullhead BMX identities, prove that the 1999 organization used the present Highland Road site, establish an opening date for the current track, or prove uninterrupted operation.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.46 bullhead organizational chronology recovery 1",
+    "admission_basis": "IRS-derived nonprofit registry entry provides a bounded 1999 organizational anchor without authorizing historical lineage or site continuity.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0170",
+    "category": "Historical Tracks / Local Retrospective",
+    "public_claim": "An October 30, 2018 Bullhead City local-news feature reports that the Colorado River BMX track off Highland Road reopened in August 2018 under Turnell Henry after having been closed for several years.",
+    "evidence_character": "ATTRIBUTED LOCAL RETROSPECTIVE — TRACK REOPENING / SITE CORRIDOR",
+    "authority": "C1-local-retrospective",
+    "confidence": "MEDIUM-HIGH FOR REPORTED AUGUST 2018 REOPENING AND HIGHLAND ROAD CORRIDOR",
+    "source_ids": [
+      "AZ-SRC-0112"
+    ],
+    "source_urls": [
+      "https://www.thebee.news/bmx-a-family-affair/"
+    ],
+    "evidence_boundary": "This supports the reported August 2018 reopening of the locally named Colorado River BMX track off Highland Road under Turnell Henry and a preceding multi-year closure. It does not establish the exact beginning of that closure, prove uninterrupted identity or legal continuity from the May 1999 nonprofit record, connect the track to the 1984–1985 Bullhead City Kiwanis BMX or Bullhead BMX identities, or establish that the 2018 course footprint was geometrically identical to the present track.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.46 bullhead organizational chronology recovery 1",
+    "admission_basis": "Dated local retrospective explicitly identifies the Colorado River BMX name, Highland Road corridor, August 2018 reopening and operator, with lineage and geometry limits preserved.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  }
+]

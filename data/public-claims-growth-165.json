@@ -1,0 +1,24 @@
+[
+  {
+    "claim_id": "AZ-PUB-0165",
+    "category": "Historical Tracks / Municipal Record",
+    "public_claim": "An August 1, 1980 Prescott Valley fact sheet preserved in the Arizona Memory Project lists both “Sandberg’s Family Restaurant” and “Scott’s Bike Shop” among businesses within Prescott Valley.",
+    "evidence_character": "FACT — MUNICIPAL BUSINESS FACT SHEET / ARCHIVAL COPY",
+    "authority": "A2",
+    "confidence": "HIGH FOR BUSINESS-NAME / PRESCOTT VALLEY LISTING",
+    "source_ids": [
+      "AZ-SRC-0109"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/assets/displaypdf/323447"
+    ],
+    "evidence_boundary": "This establishes that both business names were present in Prescott Valley by August 1980, providing locality context four years before the Mile-Hi directory lists Scott Sandberg. It does not establish ownership of Scott’s Bike Shop, identify Scott Sandberg as owner/operator of either business, connect either business to Mile-Hi BMX, reverse the published 602-772-8050 number, or locate the track or Summer Camp footprint.",
+    "status": "PASS",
+    "growth_release": "v0.41 mile-hi operator context recovery 1",
+    "admission_basis": "The archived Prescott Valley fact sheet directly lists both business names under businesses within Prescott Valley; no ownership, telephone or BMX connection is inferred from the naming overlap.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  }
+]

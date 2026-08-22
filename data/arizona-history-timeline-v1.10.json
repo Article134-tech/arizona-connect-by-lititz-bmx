@@ -1,0 +1,1662 @@
+[
+  {
+    "timeline_id": "AZ-TL-0001",
+    "sort": "1977-01-01",
+    "display_date": "1977",
+    "date_precision": "YEAR",
+    "title": "Chandler becomes an ABA institutional anchor",
+    "type": "Origins",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "USA BMX says Chandler BMX at McQueen and Frye was the first BMX track the ABA opened in 1977 for sanctioned BMX events.",
+    "claim_ids": [
+      "AZ-PUB-0001",
+      "AZ-PUB-0002"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0068",
+    "sort": "1978-01-01",
+    "display_date": "1978",
+    "date_precision": "YEAR / LOCAL-HISTORY RECORD",
+    "title": "Randolph Park is renamed Reid Park",
+    "type": "Tracks / Site Context",
+    "city": "Tucson",
+    "status": "A2 LOCAL GOVERNMENT LIBRARY",
+    "summary": "Pima County Public Library’s local-history file says the park now known as Reid Park was originally Randolph Park and received the Reid Park name in 1978. This is park-name context, not proof of a BMX-track rename or exact footprint.",
+    "claim_ids": [
+      "AZ-PUB-0128"
+    ],
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0002",
+    "sort": "1979-01-01",
+    "display_date": "1979–1983",
+    "date_precision": "RANGE",
+    "title": "Winter Nationals at Chandler Jaycees BMX",
+    "type": "Events",
+    "city": "Chandler",
+    "status": "PERIOD VERIFIED",
+    "summary": "A period BMX Plus! report places the early ABA Winter Nationals at Chandler Jaycees BMX through roughly 1979–1983.",
+    "claim_ids": [
+      "AZ-PUB-0048"
+    ],
+    "track_ids": [
+      "AZ-TRK-0102"
+    ],
+    "event_ids": [
+      "AZ-EVT-0001"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0029",
+    "sort": "1979-01-01",
+    "display_date": "1979–1985",
+    "date_precision": "RANGE / RETROSPECTIVE",
+    "title": "Debbi Kalsow's documented competition span",
+    "type": "People",
+    "city": "Arizona",
+    "status": "OFFICIAL RETROSPECTIVE",
+    "summary": "Kalsow's 2018 Hall of Fame profile says she competed from 1979 through 1985, a span that includes her Arizona district and national-title years.",
+    "claim_ids": [
+      "AZ-PUB-0017",
+      "AZ-PUB-0009",
+      "AZ-PUB-0018",
+      "AZ-PUB-0019"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-Q001",
+    "sort": "1979-01-01",
+    "display_date": "1979–present question",
+    "date_precision": "OPEN",
+    "title": "Chandler Jaycees BMX ↔ current Chandler BMX",
+    "type": "Open Question",
+    "city": "Chandler",
+    "status": "OPEN LINEAGE",
+    "summary": "The period venue name and current Chandler record are both verified, but exact identity/site continuity is not yet proved.",
+    "claim_ids": [
+      "AZ-PUB-0048",
+      "AZ-PUB-0001",
+      "AZ-PUB-0030"
+    ],
+    "track_ids": [
+      "AZ-TRK-0102",
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [
+      "AZ-EVT-0001"
+    ],
+    "artifact_ids": [],
+    "question": true
+  },
+  {
+    "timeline_id": "AZ-TL-0066",
+    "sort": "1980-01-01",
+    "display_date": "1980–1983 (recalled in 2009)",
+    "date_precision": "RETROSPECTIVE RANGE / ATTRIBUTED PERSONAL MEMORY",
+    "title": "A rider later recalls BMX racing at Reid Park and Manzanita",
+    "type": "Tracks / Personal Memory",
+    "city": "Tucson",
+    "status": "C2 ATTRIBUTED RETROSPECTIVE",
+    "summary": "A 2009 first-person post by a former Tucson resident who said he lived there from 1980 to 1983 recalls racing BMX at Reid Park and Manzanita. The recollection is preserved as attributed memory, not normalized into exact event dates.",
+    "claim_ids": [
+      "AZ-PUB-0116"
+    ],
+    "track_ids": [
+      "AZ-TRK-0116",
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0003",
+    "sort": "1981-01-01",
+    "display_date": "1981–1982",
+    "date_precision": "RANGE",
+    "title": "Debbi Kalsow records Arizona No.1 girls titles",
+    "type": "People",
+    "city": "Arizona",
+    "status": "VERIFIED",
+    "summary": "Debbi Kalsow's official Hall of Fame profile records her as ABA AZ-01 Girls No.1 in both 1981 and 1982.",
+    "claim_ids": [
+      "AZ-PUB-0009"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0004",
+    "sort": "1982-01-01",
+    "display_date": "1982",
+    "date_precision": "YEAR",
+    "title": "Kalsow becomes ABA National No.1 Girl",
+    "type": "People",
+    "city": "Arizona",
+    "status": "VERIFIED",
+    "summary": "Her official profile records 1982 as her ABA National No.1 Girl season and says it was the first year ABA awarded that national girls title.",
+    "claim_ids": [
+      "AZ-PUB-0018"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0067",
+    "sort": "1982-01-01",
+    "display_date": "1982 (retrospective recollection)",
+    "date_precision": "YEAR / ATTRIBUTED PERSONAL MEMORY",
+    "title": "A rider later recalls Peoria Dunes’ first-night racing",
+    "type": "Tracks / Personal Memory",
+    "city": "Peoria",
+    "status": "C2 ATTRIBUTED RETROSPECTIVE",
+    "summary": "In a 2015 memorial comment, Ken Barrier recalled racing Peoria Dunes’ first night in 1982 and being invited to join Ted Jorgensen’s team. The account is not converted into a precise opening date or independent ownership claim.",
+    "claim_ids": [
+      "AZ-PUB-0126"
+    ],
+    "track_ids": [
+      "AZ-TRK-0123"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0062",
+    "sort": "1982-09-01",
+    "display_date": "September 1982",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Tri Valley and Window Rock appear in an early period directory",
+    "type": "Tracks",
+    "city": "Multiple",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "The premiere issue of Bikes & Dirt lists Tri Valley in Casa Grande and Window Rock BMX, pushing both governed identities back to September 1982.",
+    "claim_ids": [
+      "AZ-PUB-0110",
+      "AZ-PUB-0111"
+    ],
+    "track_ids": [
+      "AZ-TRK-0115",
+      "AZ-TRK-0121"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0064",
+    "sort": "1983-10-01",
+    "display_date": "October 1983 issue",
+    "date_precision": "MONTH / PERIOD PUBLICATION",
+    "title": "BMX Plus! mentions the Mile-Hi BMX Summer Camp",
+    "type": "Tracks",
+    "city": "Prescott",
+    "status": "B1 PERIOD PUBLICATION",
+    "summary": "BMX Plus! mentions the Mile-Hi BMX Summer Camp in Prescott, adding a period activity witness before the March 1984 directory listing.",
+    "claim_ids": [
+      "AZ-PUB-0112"
+    ],
+    "track_ids": [
+      "AZ-TRK-0119"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0005",
+    "sort": "1984-01-01",
+    "display_date": "1984",
+    "date_precision": "YEAR",
+    "title": "Kalsow records NBL National No.1 Girl Pro",
+    "type": "People",
+    "city": "Arizona",
+    "status": "VERIFIED",
+    "summary": "Debbi Kalsow's Hall of Fame profile records her as 1984 NBL National No.1 Girl Pro.",
+    "claim_ids": [
+      "AZ-PUB-0019"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0058",
+    "sort": "1984-03-01",
+    "display_date": "March 1984",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Period directory reveals nine additional Arizona BMX identities",
+    "type": "Tracks / Census Expansion",
+    "city": "Multiple",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "Bikes & Dirt lists Tri Valley, Reid Park, Hillside, Chino Valley, Mile-Hi, Bullhead City Kiwanis, Window Rock, White Mountain BMX Raceway and Peoria Dunes in Arizona.",
+    "claim_ids": [
+      "AZ-PUB-0101",
+      "AZ-PUB-0102",
+      "AZ-PUB-0103",
+      "AZ-PUB-0104",
+      "AZ-PUB-0105",
+      "AZ-PUB-0106",
+      "AZ-PUB-0107",
+      "AZ-PUB-0108",
+      "AZ-PUB-0109"
+    ],
+    "track_ids": [
+      "AZ-TRK-0115",
+      "AZ-TRK-0116",
+      "AZ-TRK-0117",
+      "AZ-TRK-0118",
+      "AZ-TRK-0119",
+      "AZ-TRK-0120",
+      "AZ-TRK-0121",
+      "AZ-TRK-0122",
+      "AZ-TRK-0123"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0055",
+    "sort": "1984-04-01",
+    "display_date": "April 1984",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Period directory lists Manzanita Park BMX in Tucson",
+    "type": "Tracks",
+    "city": "Tucson",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "Bikes & Dirt lists Tucson, Manzanita Park BMX with Louie Stockmeyer as contact.",
+    "claim_ids": [
+      "AZ-PUB-0095"
+    ],
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0006",
+    "sort": "1985-01-01",
+    "display_date": "mid-1980s",
+    "date_precision": "CIRCA / RETROSPECTIVE",
+    "title": "Road Runner BMX becomes Black Mountain",
+    "type": "Tracks",
+    "city": "Phoenix",
+    "status": "BOUNDED RECONSTRUCTION",
+    "summary": "USA BMX's Debbie Kelley profile says Debbie and Pete Kelley took over Road Runner BMX in the mid-1980s and renamed it Black Mountain.",
+    "claim_ids": [
+      "AZ-PUB-0007",
+      "AZ-PUB-0023"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-Q002",
+    "sort": "1985-01-01",
+    "display_date": "mid-1980s question",
+    "date_precision": "OPEN",
+    "title": "Road Runner ↔ Black Mountain exact chronology/site continuity",
+    "type": "Open Question",
+    "city": "Phoenix",
+    "status": "OPEN BOUNDARY",
+    "summary": "The rename relationship is retrospectively supported, but exact rename year, legal continuity and site continuity remain separately controlled.",
+    "claim_ids": [
+      "AZ-PUB-0007"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": true
+  },
+  {
+    "timeline_id": "AZ-TL-0065",
+    "sort": "1985-05-01",
+    "display_date": "May 1985",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Window Rock and Bullhead City Kiwanis remain in the period directory record",
+    "type": "Tracks",
+    "city": "Multiple",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "BMX Action lists Window Rock BMX and Bullhead City Kiwanis BMX in May 1985. These are later directory snapshots, not claims of uninterrupted operation.",
+    "claim_ids": [
+      "AZ-PUB-0113",
+      "AZ-PUB-0114"
+    ],
+    "track_ids": [
+      "AZ-TRK-0121",
+      "AZ-TRK-0120"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0069",
+    "sort": "1985-06-01",
+    "display_date": "June 1985",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Bullhead BMX appears as a separate Bullhead City directory identity",
+    "type": "Tracks / Directory Identity",
+    "city": "Bullhead City",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "BMX Plus! lists Bullhead BMX with John Schneider. The published telephone number matches the May Bullhead City Kiwanis BMX listing, creating a continuity signal without authorizing a merge.",
+    "claim_ids": [
+      "AZ-PUB-0131"
+    ],
+    "track_ids": [
+      "AZ-TRK-0120",
+      "AZ-TRK-0125"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0070",
+    "sort": "1985-06-01",
+    "display_date": "June 1985",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Window Rock BMX Indoor enters the period directory record",
+    "type": "Tracks / Directory Identity",
+    "city": "Window Rock",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "The Arizona directory prints Window Rock BMX and Window Rock BMX Indoor in sequence with Jerry Pete’s contact line. The relationship and physical site remain open.",
+    "claim_ids": [
+      "AZ-PUB-0132"
+    ],
+    "track_ids": [
+      "AZ-TRK-0121",
+      "AZ-TRK-0126"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0071",
+    "sort": "1985-06-01",
+    "display_date": "June 1985",
+    "date_precision": "MONTH / PERIOD DIRECTORY",
+    "title": "Hills ’n Spills BMX appears in Peoria",
+    "type": "Tracks / Directory Identity",
+    "city": "Peoria",
+    "status": "B1 PERIOD DIRECTORY",
+    "summary": "BMX Plus! lists Hills ’n Spills BMX with Gene Garcez and the same published telephone number used for Peoria Dunes BMX in 1984. The identities remain separate pending formal lineage/site evidence.",
+    "claim_ids": [
+      "AZ-PUB-0133"
+    ],
+    "track_ids": [
+      "AZ-TRK-0123",
+      "AZ-TRK-0127"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0007",
+    "sort": "1986-01-01",
+    "display_date": "1986",
+    "date_precision": "YEAR",
+    "title": "Winter Nationals move to Scottsdale Jaycees Rodeo BMX Park",
+    "type": "Events",
+    "city": "Scottsdale",
+    "status": "PERIOD VERIFIED",
+    "summary": "BMX Plus! reported that the 1986 Winter Nationals found a new home at the Scottsdale Jaycees Rodeo BMX Park.",
+    "claim_ids": [
+      "AZ-PUB-0049"
+    ],
+    "track_ids": [
+      "AZ-TRK-0103"
+    ],
+    "event_ids": [
+      "AZ-EVT-0002"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0059",
+    "sort": "1989-10-07",
+    "display_date": "October 7, 1989",
+    "date_precision": "EXACT DAY / PERIOD NEWSPAPER",
+    "title": "New Holbrook BMX facility begins racing at Navajo County Fairgrounds",
+    "type": "Tracks / Events",
+    "city": "Holbrook",
+    "status": "B1 PERIOD NEWSPAPER",
+    "summary": "Tribune-News reporting preserved by the Arizona Memory Project documents first races at the newly completed BMX facility at the Navajo County Fairgrounds in Holbrook.",
+    "claim_ids": [
+      "AZ-PUB-0098"
+    ],
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "event_ids": [
+      "AZ-EVT-0025"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0060",
+    "sort": "1991-06-22",
+    "display_date": "June 22, 1991",
+    "date_precision": "EXACT DAY / PERIOD NEWSPAPER",
+    "title": "BMXpress races at the Navajo County Fairgrounds",
+    "type": "Tracks / Events",
+    "city": "Holbrook",
+    "status": "B1 PERIOD NEWSPAPER",
+    "summary": "The June 26 Tribune-News reports a June 22 race day at the BMXpress track at the county fairgrounds in Holbrook.",
+    "claim_ids": [
+      "AZ-PUB-0099"
+    ],
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0061",
+    "sort": "1992-04-04",
+    "display_date": "April 4, 1992",
+    "date_precision": "EXACT DAY / PERIOD NEWSPAPER",
+    "title": "Painted Desert BMX Track opens its 1992 racing season",
+    "type": "Tracks / Events",
+    "city": "Holbrook",
+    "status": "B1 PERIOD NEWSPAPER",
+    "summary": "Period reporting identifies Painted Desert BMX Track at the Navajo County Fairgrounds and records April 4 as the opening day of the 1992 racing season.",
+    "claim_ids": [
+      "AZ-PUB-0100"
+    ],
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0053",
+    "sort": "1993-01-01",
+    "display_date": "Early 1990s (2017 retrospective)",
+    "date_precision": "CIRCA / RETROSPECTIVE",
+    "title": "Local retrospective places SARA Park BMX Raceway in the early 1990s",
+    "type": "Tracks / Local History",
+    "city": "Lake Havasu City",
+    "status": "C1 LOCAL RETROSPECTIVE",
+    "summary": "A 2017 RiverScene feature states that SARA Park BMX Raceway was built in the early 1990s and rebuilt from the ground up around 2015, with asphalt turns retained.",
+    "claim_ids": [
+      "AZ-PUB-0086"
+    ],
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0030",
+    "sort": "1995-01-01",
+    "display_date": "1995",
+    "date_precision": "YEAR / OFFICIAL CROSS-REFERENCE",
+    "title": "Pete Kelley enters the National BMX Hall of Fame",
+    "type": "People",
+    "city": "Phoenix",
+    "status": "A1 CROSS-REFERENCE",
+    "summary": "USA BMX's 2024 Debbie Kelley profile identifies Pete Kelley as a National BMX Hall of Famer inducted in 1995.",
+    "claim_ids": [
+      "AZ-PUB-0024"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0008",
+    "sort": "1998-01-01",
+    "display_date": "1998",
+    "date_precision": "DIRECTORY SNAPSHOT",
+    "title": "A period directory preserves a wider Arizona track network",
+    "type": "Tracks",
+    "city": "Multiple",
+    "status": "PERIOD VERIFIED",
+    "summary": "A 1998 BMX track guide lists Desert Sky, London Bridge, Parker, Coppertown, Thunder Raceway and RAM BMX in Arizona.",
+    "claim_ids": [
+      "AZ-PUB-0051",
+      "AZ-PUB-0052",
+      "AZ-PUB-0053",
+      "AZ-PUB-0054",
+      "AZ-PUB-0055",
+      "AZ-PUB-0056"
+    ],
+    "track_ids": [
+      "AZ-TRK-0105",
+      "AZ-TRK-0106",
+      "AZ-TRK-0107",
+      "AZ-TRK-0108",
+      "AZ-TRK-0109",
+      "AZ-TRK-0110"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-Q003",
+    "sort": "1998-01-01",
+    "display_date": "1998+ predecessor question",
+    "date_precision": "OPEN",
+    "title": "London Bridge BMX ↔ SARA Park predecessor transition",
+    "type": "Open Question",
+    "city": "Lake Havasu City",
+    "status": "OPEN PREDECESSOR TRANSITION",
+    "summary": "The September 2018 SARA Park → Lake Havasu City BMX renaming is now officially documented at the governed shared physical site. The remaining open predecessor problem is London Bridge BMX’s exact site and transition into SARA Park BMX Raceway.",
+    "claim_ids": [
+      "AZ-PUB-0052",
+      "AZ-PUB-0057",
+      "AZ-PUB-0036",
+      "AZ-PUB-0081",
+      "AZ-PUB-0082",
+      "AZ-PUB-0091",
+      "AZ-PUB-0092",
+      "AZ-PUB-0096"
+    ],
+    "track_ids": [
+      "AZ-TRK-0106",
+      "AZ-TRK-0111",
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [
+      "AZ-EVT-0006",
+      "AZ-EVT-0027"
+    ],
+    "artifact_ids": [],
+    "question": true
+  },
+  {
+    "timeline_id": "AZ-TL-0051",
+    "sort": "1998-03-10",
+    "display_date": "March 10, 1998",
+    "date_precision": "EXACT DAY",
+    "title": "Federal Register identifies London Bridge BMX Association",
+    "type": "Institutions / Tracks",
+    "city": "Lake Havasu City",
+    "status": "A2 FEDERAL RECORD",
+    "summary": "The Federal Register identifies Frank Sabatano as President of the London Bridge BMX Association in comments addressing bicycle racing and jumping safety.",
+    "claim_ids": [
+      "AZ-PUB-0081"
+    ],
+    "track_ids": [
+      "AZ-TRK-0106"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0009",
+    "sort": "1998-06-01",
+    "display_date": "1998",
+    "date_precision": "YEAR",
+    "title": "Kim Hayashi becomes a Chandler BMX local",
+    "type": "People",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "Kim Hayashi's official Hall of Fame profile identifies her as a Chandler BMX local beginning in 1998.",
+    "claim_ids": [
+      "AZ-PUB-0010"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0010",
+    "sort": "2000-01-01",
+    "display_date": "2000–2001",
+    "date_precision": "RANGE",
+    "title": "Hayashi wins back-to-back National No.1 Girl Cruiser titles",
+    "type": "People",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "Hayashi's official profile records National No.1 Girl Cruiser titles in 2000 and 2001.",
+    "claim_ids": [
+      "AZ-PUB-0020"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0052",
+    "sort": "2002-03-01",
+    "display_date": "March 2002",
+    "date_precision": "MONTH / DIRECTORY SNAPSHOT",
+    "title": "A dated directory preserves Sara Park, Parker, Coppertown and RAM",
+    "type": "Tracks",
+    "city": "Multiple",
+    "status": "C1 DATED DIRECTORY",
+    "summary": "Cycling Utah's March 2002 ABA track directory lists Sara Park BMX, Parker BMX, Coppertown BMX and RAM BMX in Arizona, strengthening dated chronology without proving exact sites or lineage.",
+    "claim_ids": [
+      "AZ-PUB-0082",
+      "AZ-PUB-0083",
+      "AZ-PUB-0084",
+      "AZ-PUB-0085"
+    ],
+    "track_ids": [
+      "AZ-TRK-0111",
+      "AZ-TRK-0107",
+      "AZ-TRK-0108",
+      "AZ-TRK-0110"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-Q004",
+    "sort": "2003-01-01",
+    "display_date": "2003+ question",
+    "date_precision": "OPEN",
+    "title": "Historical Tucson tracks ↔ Sports Park / Tucson BMX",
+    "type": "Open Question",
+    "city": "Tucson",
+    "status": "OPEN LINEAGE",
+    "summary": "RAM BMX, Manzanita BMX Raceway and the current Tucson-area tracks are separately evidenced. Manzanita now has a park-level site approximation at Winston Reynolds–Manzanita Park; RAM’s exact historical footprint and lineage connections remain open.",
+    "claim_ids": [
+      "AZ-PUB-0056",
+      "AZ-PUB-0058",
+      "AZ-PUB-0059",
+      "AZ-PUB-0032",
+      "AZ-PUB-0033",
+      "AZ-PUB-0085",
+      "AZ-PUB-0093",
+      "AZ-PUB-0094",
+      "AZ-PUB-0095"
+    ],
+    "track_ids": [
+      "AZ-TRK-0110",
+      "AZ-TRK-0112",
+      "AZ-TRK-0113",
+      "AZ-TRK-0003",
+      "AZ-TRK-0004"
+    ],
+    "event_ids": [
+      "AZ-EVT-0003",
+      "AZ-EVT-0004",
+      "AZ-EVT-0005"
+    ],
+    "artifact_ids": [],
+    "question": true
+  },
+  {
+    "timeline_id": "AZ-TL-0011",
+    "sort": "2003-05-31",
+    "display_date": "May 31, 2003",
+    "date_precision": "EXACT DAY",
+    "title": "Manzanita hosts a Redline Cup qualifier",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "DATED EVENT",
+    "summary": "A 2003 schedule lists Manzanita BMX Raceway as a Redline Cup qualifier host.",
+    "claim_ids": [
+      "AZ-PUB-0059"
+    ],
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [
+      "AZ-EVT-0003"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0012",
+    "sort": "2003-06-16",
+    "display_date": "June 16, 2003",
+    "date_precision": "EXACT DAY",
+    "title": "Tucson approves Desert Sunset BMX lease at Harrison Landfill",
+    "type": "Institutions",
+    "city": "Tucson",
+    "status": "A2 MUNICIPAL RECORD",
+    "summary": "The City of Tucson approved a lease with Desert Sunset BMX, Inc. for operation of a dirt bicycle track at Harrison Landfill.",
+    "claim_ids": [
+      "AZ-PUB-0058"
+    ],
+    "track_ids": [
+      "AZ-TRK-0112"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0013",
+    "sort": "2003-07-01",
+    "display_date": "2003–2007",
+    "date_precision": "RANGE",
+    "title": "Hayashi records five consecutive NBL No.1 Elite Women titles",
+    "type": "People",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "Kim Hayashi's official profile credits her with five consecutive NBL No.1 Elite Women titles from 2003 through 2007.",
+    "claim_ids": [
+      "AZ-PUB-0021"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0056",
+    "sort": "2007-05-09",
+    "display_date": "May 9, 2007",
+    "date_precision": "EXACT DAY / MUNICIPAL PLAN",
+    "title": "Pima County documents a BMX track at Winston Reynolds–Manzanita Park",
+    "type": "Tracks / Institutions",
+    "city": "Tucson",
+    "status": "A2 COUNTY RECORD",
+    "summary": "Pima County’s Southwest Infrastructure Plan lists a BMX track among the park amenities and references planned improvements at the BMX track.",
+    "claim_ids": [
+      "AZ-PUB-0093"
+    ],
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0014",
+    "sort": "2008-04-02",
+    "display_date": "April 2, 2008",
+    "date_precision": "EXACT DAY",
+    "title": "Official results preserve a Manzanita race",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "OFFICIAL RESULT",
+    "summary": "A sanctioning-body event record preserves race results from Manzanita BMX Raceway in Tucson.",
+    "claim_ids": [
+      "AZ-PUB-0059",
+      "AZ-PUB-0097"
+    ],
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [
+      "AZ-EVT-0004"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0034",
+    "sort": "2010-01-01",
+    "display_date": "2010",
+    "date_precision": "YEAR / MUNICIPAL RETROSPECTIVE",
+    "title": "Show Low BMX track is constructed",
+    "type": "Tracks",
+    "city": "Show Low",
+    "status": "A2 MUNICIPAL RETROSPECTIVE",
+    "summary": "Show Low City Council minutes state that the city BMX track was originally constructed in 2010 and later hosted weekly races and sanctioned events.",
+    "claim_ids": [
+      "AZ-PUB-0061"
+    ],
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0031",
+    "sort": "2011-01-12",
+    "display_date": "January 12, 2011",
+    "date_precision": "EXACT DAY / PUBLISHED STATEMENT",
+    "title": "ABA/USA BMX is publicly described as headquartered in Chandler",
+    "type": "Institutions",
+    "city": "Chandler",
+    "status": "A1 DATED STATEMENT",
+    "summary": "A 2011 USA BMX article described the organization as formed in 1977 and headquartered in Chandler, Arizona.",
+    "claim_ids": [
+      "AZ-PUB-0002"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0057",
+    "sort": "2011-06-05",
+    "display_date": "June 5, 2011",
+    "date_precision": "EXACT DAY",
+    "title": "Manzanita BMX Raceway hosts Corben Sharrah special race at 5200 S Westover",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "C1 DATED EVENT / SITE",
+    "summary": "A contemporary local events notice names Manzanita BMX Raceway at 5200 S Westover Ave for a special BMX race honoring Corben Sharrah.",
+    "claim_ids": [
+      "AZ-PUB-0094"
+    ],
+    "track_ids": [
+      "AZ-TRK-0113"
+    ],
+    "event_ids": [
+      "AZ-EVT-0024"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0015",
+    "sort": "2013-02-01",
+    "display_date": "February 2013",
+    "date_precision": "MONTH",
+    "title": "USA BMX's media operation is still datelined Gilbert",
+    "type": "Institutions",
+    "city": "Gilbert",
+    "status": "VERIFIED",
+    "summary": "A USA BMX announcement datelined Gilbert named Jason 'Shooter' McGuire as the new editor and photographer for PULL magazine.",
+    "claim_ids": [
+      "AZ-PUB-0050"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0016",
+    "sort": "2013-06-23",
+    "display_date": "June 23–27, 2013",
+    "date_precision": "EXACT RANGE / TWO EVENTS",
+    "title": "Olympic Day reaches Desert Sunset and Sara Park",
+    "type": "Events",
+    "city": "Tucson / Lake Havasu City",
+    "status": "A1 DATED EVENTS",
+    "summary": "USA BMX listed Desert Sunset BMX for Olympic Day on June 23 and Sara Park BMX Raceway on June 27.",
+    "claim_ids": [
+      "AZ-PUB-0058",
+      "AZ-PUB-0057"
+    ],
+    "track_ids": [
+      "AZ-TRK-0112",
+      "AZ-TRK-0111"
+    ],
+    "event_ids": [
+      "AZ-EVT-0005",
+      "AZ-EVT-0006"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0017",
+    "sort": "2013-12-01",
+    "display_date": "2013",
+    "date_precision": "YEAR",
+    "title": "Dominique Daniels adds a collegiate national title for Grand Canyon University",
+    "type": "People",
+    "city": "Gilbert / Phoenix",
+    "status": "OFFICIAL RESULT",
+    "summary": "USA BMX championship results list Dominique Daniels first in the collegiate women's final, from Gilbert, representing Grand Canyon University.",
+    "claim_ids": [
+      "AZ-PUB-0012",
+      "AZ-PUB-0029"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0032",
+    "sort": "2014-08-01",
+    "display_date": "August 1, 2014",
+    "date_precision": "EXACT DAY / PUBLISHED STATEMENT",
+    "title": "USA BMX is publicly described as headquartered in Gilbert",
+    "type": "Institutions",
+    "city": "Gilbert",
+    "status": "A1 DATED STATEMENT",
+    "summary": "A 2014 USA BMX article described the American Bicycle Association / USA BMX as headquartered in Gilbert, Arizona.",
+    "claim_ids": [
+      "AZ-PUB-0003"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0018",
+    "sort": "2015-01-01",
+    "display_date": "2015",
+    "date_precision": "YEAR",
+    "title": "Patrick Tinnell Balance Bike Track is built at Lake Havasu City BMX",
+    "type": "Community",
+    "city": "Lake Havasu City",
+    "status": "OFFICIAL LOCAL HISTORY",
+    "summary": "The official track page says the balance-bike track was built in 2015 in memory of Army Specialist Patrick A. Tinnell.",
+    "claim_ids": [
+      "AZ-PUB-0041",
+      "AZ-PUB-0042"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007",
+      "AZ-TRK-0111"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0044",
+    "sort": "2015-03-23",
+    "display_date": "March 23, 2015",
+    "date_precision": "EXACT DAY",
+    "title": "Lake Havasu approves Strider track development at SARA Park",
+    "type": "Institutions",
+    "city": "Lake Havasu City",
+    "status": "A2 MUNICIPAL ACTION",
+    "summary": "Lake Havasu City Parks and Recreation Advisory Board minutes record unanimous approval to develop a separate Strider track next to the regular BMX track at SARA Park.",
+    "claim_ids": [
+      "AZ-PUB-0071",
+      "AZ-PUB-0072"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0045",
+    "sort": "2016-06-27",
+    "display_date": "June 27, 2016",
+    "date_precision": "EXACT DAY / MUNICIPAL REPORT",
+    "title": "City records Corey Bohan visit to Patrick Tinnell Memorial Sports Park",
+    "type": "People",
+    "city": "Lake Havasu City",
+    "status": "A2 MUNICIPAL REPORT",
+    "summary": "Lake Havasu City minutes report that pro BMX rider Corey Bohan visited Patrick Tinnell Memorial Sports Park and that the visit was planned for Ride BMX coverage.",
+    "claim_ids": [
+      "AZ-PUB-0073"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0019",
+    "sort": "2017-01-01",
+    "display_date": "2017",
+    "date_precision": "YEAR",
+    "title": "Tucson's Corben Sharrah becomes BMX World Champion",
+    "type": "People",
+    "city": "Tucson",
+    "status": "OFFICIAL ATHLETE PROFILE",
+    "summary": "USA Cycling identifies Corben Sharrah as a two-time Olympian and 2017 World Champion from Tucson.",
+    "claim_ids": [
+      "AZ-PUB-0011"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0035",
+    "sort": "2017-12-31",
+    "display_date": "after 2017",
+    "date_precision": "BOUNDARY / MUNICIPAL RETROSPECTIVE",
+    "title": "Official racing pauses at Show Low after standards change",
+    "type": "Tracks",
+    "city": "Show Low",
+    "status": "A2 MUNICIPAL RETROSPECTIVE",
+    "summary": "The City said revised sanctioning standards left the track noncompliant and no official races were held after 2017.",
+    "claim_ids": [
+      "AZ-PUB-0061"
+    ],
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0054",
+    "sort": "2018-04-01",
+    "display_date": "April 2018",
+    "date_precision": "MONTH / CONTEMPORARY LOCAL REPORT",
+    "title": "Harry and Patty Leary begin operating SARA Park BMX",
+    "type": "Operators / Tracks",
+    "city": "Lake Havasu City",
+    "status": "C1 CONTEMPORARY LOCAL REPORT",
+    "summary": "RiverScene reported in June 2018 that Harry and Patty Leary were the new SARA Park BMX operators and had operated the track since April.",
+    "claim_ids": [
+      "AZ-PUB-0087"
+    ],
+    "track_ids": [
+      "AZ-TRK-0111"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0063",
+    "sort": "2018-09-20",
+    "display_date": "September 20, 2018",
+    "date_precision": "EXACT DAY",
+    "title": "SARA Park BMX is officially renamed Lake Havasu City BMX",
+    "type": "Tracks / Municipal Transition",
+    "city": "Lake Havasu City",
+    "status": "A2 MUNICIPAL VERIFIED",
+    "summary": "Lake Havasu City minutes record a BMX-track renaming ceremony and state that the new name would be Lake Havasu City BMX.",
+    "claim_ids": [
+      "AZ-PUB-0096"
+    ],
+    "track_ids": [
+      "AZ-TRK-0111",
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [
+      "AZ-EVT-0027"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0020",
+    "sort": "2019-01-01",
+    "display_date": "2019",
+    "date_precision": "YEAR",
+    "title": "Black Mountain Winter Nationals show a statewide Arizona rider footprint",
+    "type": "Events",
+    "city": "Phoenix",
+    "status": "A1 EVENT REPORT",
+    "summary": "USA BMX's 2019 Winter Nationals report records Arizona riders from Phoenix, Tucson, Chandler, Kingman, Gilbert, Mesa, Avondale, Surprise, Tempe and more.",
+    "claim_ids": [
+      "AZ-PUB-0015"
+    ],
+    "track_ids": [
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [
+      "AZ-EVT-0007"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0021",
+    "sort": "2019-11-01",
+    "display_date": "November 2019",
+    "date_precision": "MONTH",
+    "title": "USA BMX announces headquarters and Hall of Fame relocation from Arizona",
+    "type": "Institutions",
+    "city": "Gilbert → Tulsa",
+    "status": "VERIFIED",
+    "summary": "USA BMX said it was then located in Gilbert and would relocate its headquarters and Hall of Fame museum to Tulsa.",
+    "claim_ids": [
+      "AZ-PUB-0004"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0022",
+    "sort": "2020-10-16",
+    "display_date": "October 16–18, 2020",
+    "date_precision": "EXACT RANGE",
+    "title": "Gold Cup Finals Southwest at Sports Park BMX",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX confirmed the 2020 Gold Cup Finals South West at Sports Park BMX.",
+    "claim_ids": [
+      "AZ-PUB-0013",
+      "AZ-PUB-0014"
+    ],
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "event_ids": [
+      "AZ-EVT-0008"
+    ],
+    "artifact_ids": [
+      "26.0100"
+    ],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0023",
+    "sort": "2020-12-01",
+    "display_date": "2020",
+    "date_precision": "YEAR",
+    "title": "Chandler and Black Mountain place in USA BMX Western Region Top 10",
+    "type": "Tracks",
+    "city": "Chandler / Phoenix",
+    "status": "VERIFIED",
+    "summary": "USA BMX ranked Chandler BMX third and Black Mountain BMX fourth in its 2020 Western Region Top-10 track list.",
+    "claim_ids": [
+      "AZ-PUB-0008"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001",
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0036",
+    "sort": "2021-01-05",
+    "display_date": "January 5, 2021",
+    "date_precision": "EXACT DAY",
+    "title": "Show Low approves reconstruction and operation agreement",
+    "type": "Institutions",
+    "city": "Show Low",
+    "status": "A2 MUNICIPAL ACTION",
+    "summary": "The Show Low City Council unanimously approved an agreement with Show Low BMX, LLC to reconstruct and operate the BMX track at Nikolaus Homestead Park.",
+    "claim_ids": [
+      "AZ-PUB-0062"
+    ],
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0024",
+    "sort": "2021-05-07",
+    "display_date": "May 7–9, 2021",
+    "date_precision": "EXACT RANGE",
+    "title": "Route 66 Classic Nationals at High Desert 66 BMX",
+    "type": "Events",
+    "city": "Kingman",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX moved a national weekend to High Desert 66 BMX in Kingman and identified Harry Leary as Track Operator.",
+    "claim_ids": [
+      "AZ-PUB-0043",
+      "AZ-PUB-0044",
+      "AZ-PUB-0045"
+    ],
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "event_ids": [
+      "AZ-EVT-0009"
+    ],
+    "artifact_ids": [
+      "26.0009"
+    ],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-Q005",
+    "sort": "2021-05-07",
+    "display_date": "2021+ question",
+    "date_precision": "OPEN",
+    "title": "High Desert 66 BMX ↔ Interstate BMX succession",
+    "type": "Open Question",
+    "city": "Kingman",
+    "status": "OPEN LINEAGE",
+    "summary": "The records share the Mohave County Fairgrounds address, but same-address evidence is not treated as proof of exact organizational succession.",
+    "claim_ids": [
+      "AZ-PUB-0043",
+      "AZ-PUB-0039"
+    ],
+    "track_ids": [
+      "AZ-TRK-0104",
+      "AZ-TRK-0010"
+    ],
+    "event_ids": [
+      "AZ-EVT-0009"
+    ],
+    "artifact_ids": [
+      "26.0009"
+    ],
+    "question": true
+  },
+  {
+    "timeline_id": "AZ-TL-0025",
+    "sort": "2021-09-10",
+    "display_date": "September 10–12, 2021",
+    "date_precision": "EXACT RANGE",
+    "title": "Arizona State Final Weekend links Sports Park and Chandler",
+    "type": "Events",
+    "city": "Tucson / Chandler",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "The weekend began with a Sports Park State Race, then moved to Chandler for the pre-race and State Final.",
+    "claim_ids": [
+      "AZ-PUB-0046",
+      "AZ-PUB-0047",
+      "AZ-PUB-0014"
+    ],
+    "track_ids": [
+      "AZ-TRK-0003",
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [
+      "AZ-EVT-0010"
+    ],
+    "artifact_ids": [
+      "26.0098"
+    ],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0026",
+    "sort": "2022-02-01",
+    "display_date": "February 2022",
+    "date_precision": "MONTH",
+    "title": "USA BMX headquarters moves to Tulsa",
+    "type": "Institutions",
+    "city": "Arizona → Tulsa",
+    "status": "VERIFIED",
+    "summary": "USA BMX reported that its new headquarters moved to Tulsa's Greenwood District in February 2022.",
+    "claim_ids": [
+      "AZ-PUB-0005",
+      "AZ-PUB-0006"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0037",
+    "sort": "2023-10-13",
+    "display_date": "October 13–15, 2023",
+    "date_precision": "EXACT RANGE",
+    "title": "Goodyear hosts Gold Cup Championship Southwest",
+    "type": "Events",
+    "city": "Goodyear",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX results document the Gold Cup Championship Southwest at Goodyear BMX Raceway.",
+    "claim_ids": [
+      "AZ-PUB-0065"
+    ],
+    "track_ids": [
+      "AZ-TRK-0005"
+    ],
+    "event_ids": [
+      "AZ-EVT-0012"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0027",
+    "sort": "2024-01-01",
+    "display_date": "2024",
+    "date_precision": "YEAR",
+    "title": "Debbie Kelley retires after decades at Black Mountain",
+    "type": "Community",
+    "city": "Phoenix",
+    "status": "OFFICIAL RETROSPECTIVE",
+    "summary": "USA BMX says Debbie Kelley retired at the beginning of 2024 after running the Phoenix track since 1985 and sold the track to Bubba Harris and Karl Clark.",
+    "claim_ids": [
+      "AZ-PUB-0023",
+      "AZ-PUB-0025",
+      "AZ-PUB-0026"
+    ],
+    "track_ids": [
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0033",
+    "sort": "2024-06-17",
+    "display_date": "2024 profile snapshot",
+    "date_precision": "DATED RETROSPECTIVE",
+    "title": "Kim Hayashi remains involved as a coach and team manager",
+    "type": "Community",
+    "city": "Chandler / Arizona",
+    "status": "A1 DATED RETROSPECTIVE",
+    "summary": "USA BMX's 2024 Hall of Fame profile says that after retiring from the pro circuit, Kim Hayashi remained involved in BMX as a coach and team manager.",
+    "claim_ids": [
+      "AZ-PUB-0022"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0038",
+    "sort": "2024-09-27",
+    "display_date": "September 27–29, 2024",
+    "date_precision": "EXACT RANGE",
+    "title": "Interstate BMX hosts Gold Cup Final Southwest",
+    "type": "Events",
+    "city": "Kingman",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX listed the 2024 Gold Cup Final Southwest at Interstate BMX in Kingman.",
+    "claim_ids": [
+      "AZ-PUB-0070"
+    ],
+    "track_ids": [
+      "AZ-TRK-0010"
+    ],
+    "event_ids": [
+      "AZ-EVT-0013"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0039",
+    "sort": "2025-03-08",
+    "display_date": "March 8–9, 2025",
+    "date_precision": "EXACT RANGE",
+    "title": "Colorado River hosts state and Gold Cup qualifiers",
+    "type": "Events",
+    "city": "Bullhead City",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "Official USA BMX records document a State Championship Qualifier followed by a Gold Cup Qualifier at Colorado River BMX.",
+    "claim_ids": [
+      "AZ-PUB-0068"
+    ],
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "event_ids": [
+      "AZ-EVT-0014"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0046",
+    "sort": "2025-03-15",
+    "display_date": "March 15, 2025",
+    "date_precision": "EXACT DAY",
+    "title": "Sports Park hosts Gold Cup Qualifier",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "USA BMX results document a Gold Cup Qualifier at Sports Park BMX.",
+    "claim_ids": [
+      "AZ-PUB-0079"
+    ],
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "event_ids": [
+      "AZ-EVT-0019"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0047",
+    "sort": "2025-03-23",
+    "display_date": "March 23, 2025",
+    "date_precision": "EXACT DAY",
+    "title": "Lake Havasu City BMX hosts State Race",
+    "type": "Events",
+    "city": "Lake Havasu City",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "USA BMX results document a State Race at Lake Havasu City BMX.",
+    "claim_ids": [
+      "AZ-PUB-0074"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [
+      "AZ-EVT-0020"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0048",
+    "sort": "2026-01-25",
+    "display_date": "January 25, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Sports Park hosts 2026 State Race",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "USA BMX results document a State Race at Sports Park BMX.",
+    "claim_ids": [
+      "AZ-PUB-0080"
+    ],
+    "track_ids": [
+      "AZ-TRK-0003"
+    ],
+    "event_ids": [
+      "AZ-EVT-0021"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0040",
+    "sort": "2026-01-31",
+    "display_date": "January 31–February 1, 2026",
+    "date_precision": "EXACT RANGE",
+    "title": "Yuma hosts Gold Cup and state qualifier weekend",
+    "type": "Events",
+    "city": "Yuma",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX listed a Gold Cup Qualifier followed by a State Championship Qualifier at Yuma BMX.",
+    "claim_ids": [
+      "AZ-PUB-0066"
+    ],
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "event_ids": [
+      "AZ-EVT-0015"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0049",
+    "sort": "2026-02-21",
+    "display_date": "February 21–22, 2026",
+    "date_precision": "EXACT RANGE",
+    "title": "Lake Havasu hosts State + Gold Cup qualifier weekend",
+    "type": "Events",
+    "city": "Lake Havasu City",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "Official USA BMX records document consecutive State Championship and Gold Cup qualifiers at Lake Havasu City BMX.",
+    "claim_ids": [
+      "AZ-PUB-0075"
+    ],
+    "track_ids": [
+      "AZ-TRK-0007"
+    ],
+    "event_ids": [
+      "AZ-EVT-0022"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0041",
+    "sort": "2026-03-07",
+    "display_date": "March 7, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Colorado River hosts 2026 State Championship Qualifier",
+    "type": "Events",
+    "city": "Bullhead City",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX documents a State Championship Qualifier at Colorado River BMX.",
+    "claim_ids": [
+      "AZ-PUB-0069"
+    ],
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "event_ids": [
+      "AZ-EVT-0016"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0050",
+    "sort": "2026-04-10",
+    "display_date": "April 10, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Tucson BMX hosts Race for Life",
+    "type": "Events",
+    "city": "Tucson",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "USA BMX results document a Race for Life at Tucson BMX.",
+    "claim_ids": [
+      "AZ-PUB-0077"
+    ],
+    "track_ids": [
+      "AZ-TRK-0004"
+    ],
+    "event_ids": [
+      "AZ-EVT-0023"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0042",
+    "sort": "2026-06-27",
+    "display_date": "June 27, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Mingus Mountain hosts State Championship Qualifier",
+    "type": "Events",
+    "city": "Prescott",
+    "status": "A1 EVENT VERIFIED",
+    "summary": "USA BMX documents a State Championship Qualifier at Mingus Mountain BMX (Wheelhouse).",
+    "claim_ids": [
+      "AZ-PUB-0067"
+    ],
+    "track_ids": [
+      "AZ-TRK-0008"
+    ],
+    "event_ids": [
+      "AZ-EVT-0017"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0043",
+    "sort": "2026-07-18",
+    "display_date": "July 18, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Show Low hosts State Championship Qualifier",
+    "type": "Events",
+    "city": "Show Low",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "An official sanctioning-body result record documents a State Championship Qualifier at Show Low BMX.",
+    "claim_ids": [
+      "AZ-PUB-0063"
+    ],
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "event_ids": [
+      "AZ-EVT-0018"
+    ],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0028",
+    "sort": "2026-07-19",
+    "display_date": "July 19, 2026",
+    "date_precision": "EXACT DAY",
+    "title": "Show Low BMX has a dated 2026 race result",
+    "type": "Events",
+    "city": "Show Low",
+    "status": "A1 RESULT VERIFIED",
+    "summary": "USA BMX published results for a local race at Show Low BMX on July 19, 2026.",
+    "claim_ids": [
+      "AZ-PUB-0040"
+    ],
+    "track_ids": [
+      "AZ-TRK-0011"
+    ],
+    "event_ids": [
+      "AZ-EVT-0011"
+    ],
+    "artifact_ids": [],
+    "question": false
+  }
+]

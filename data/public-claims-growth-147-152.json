@@ -1,0 +1,130 @@
+[
+  {
+    "claim_id": "AZ-PUB-0147",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson preserves construction plan L-63-006, a scanned 1963 “Master Plan and Drainage Randolph Park” record with two surviving plan sheets.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING ARCHIVE",
+    "authority": "A1",
+    "confidence": "HIGH FOR PLAN ID, DATE, DESCRIPTION AND SURVIVING SCANS",
+    "source_ids": [
+      "AZ-SRC-0091"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/7853"
+    ],
+    "evidence_boundary": "The 1963 master plan is a pre-band-stage, pre-BMX spatial-control record for Randolph Park. It does not label a BMX course and cannot locate the later 1977 Randolph Park BMX Track by itself. The Atlas uses it only to register earlier park geometry around the later recovery problem.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Official City engineering-plan metadata with surviving scanned plan sheets; admitted as spatial context only",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0148",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson engineering archive records construction plan C-66-003 as “Band Enclosure @ Randolph Park”; the catalog says the 1966 City Buildings plan is not scanned and no document is available through the archive.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING CATALOG RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR CATALOGED PLAN TITLE / PLAN CLASS / SCAN STATUS",
+    "source_ids": [
+      "AZ-SRC-0092"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/13565"
+    ],
+    "evidence_boundary": "This establishes the existence and title of a 1966 Randolph Park band-enclosure plan, not the contents of an unavailable drawing and not any BMX footprint. It is used only as a dated bandshell-area registration anchor.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Official City catalog record supplies a dated bandshell-area archival anchor while explicitly preserving the missing-drawing boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0149",
+    "category": "Historical Tracks / Municipal Park History",
+    "public_claim": "The City of Tucson says Gene C. Reid created a makeshift band stage in the park in 1964 and that the bandshell was redeveloped into a full performance center in 1974.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL PARK HISTORY",
+    "authority": "A1",
+    "confidence": "HIGH FOR CITY-PUBLISHED BAND-STAGE / PERFORMANCE-CENTER CHRONOLOGY",
+    "source_ids": [
+      "AZ-SRC-0093"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park"
+    ],
+    "evidence_boundary": "The City history establishes the evolution of the bandshell/performance-center reference used to orient separate BMX memories. It does not state that BMX occupied that footprint, identify a course center, or prove one unchanged Randolph/Reid BMX configuration.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Official municipal history clarifies the physical-reference chronology behind the bandshell-vicinity recovery lane",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0150",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson preserves scanned 1985 grading plan GR-85-163, titled “Reid Park Band Shell Area (CNWC Architect).”",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING ARCHIVE",
+    "authority": "A1",
+    "confidence": "HIGH FOR PLAN ID, DATE, DESCRIPTION AND SURVIVING SCAN",
+    "source_ids": [
+      "AZ-SRC-0094"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/5323"
+    ],
+    "evidence_boundary": "The 1985 grading plan is a post-1977 spatial-registration anchor for the bandshell area. Direct inspection does not turn it into a BMX-course plan; the exact dirt-course footprint remains unresolved and the governed Reid Park point is not moved.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Official scanned engineering plan strengthens bandshell-area registration without increasing BMX-coordinate precision",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0151",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "A January 2009 Chino Valley Extension / SR 169 corridor study identifies Town-owned Old Home Manor Park as an 880-acre recreation property whose listed amenities included a BMX track.",
+    "evidence_character": "FACT — PUBLIC PLANNING / ENVIRONMENTAL STUDY",
+    "authority": "A2",
+    "confidence": "HIGH FOR 2009 DOCUMENTED PARK OWNERSHIP, SIZE AND BMX-TRACK AMENITY",
+    "source_ids": [
+      "AZ-SRC-0095"
+    ],
+    "source_urls": [
+      "https://www.cympo.org/docs/pv-study-final-report-nov-2021.pdf"
+    ],
+    "evidence_boundary": "The study documents an unnamed BMX track at Old Home Manor Park in 2009. It does not provide a sanctioned track identity or prove succession, relocation, rename or organizational continuity from 1984 Chino Valley BMX or 2002–2003 Mile High BMX at the Memory Park address. No new census identity or geographic point is created from this generic facility reference.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Public planning document supplies a dated independent BMX-site witness while remaining below identity/lineage thresholds",
+    "audit_date": "2026-08-21",
+    "track_ids": []
+  },
+  {
+    "claim_id": "AZ-PUB-0152",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "A Prescott Valley historical newspaper-clipping compilation records that on March 31, 1999 the Town Council declined a cost-free BMX-track proposal for Mountain Valley Park and suggested Antelope Park or a future Agua Fria Park as alternatives.",
+    "evidence_character": "FACT — PERIOD NEWSPAPER TEXT PRESERVED BY MUNICIPAL HISTORICAL ARCHIVE",
+    "authority": "B1 / A2 PRESERVATION",
+    "confidence": "HIGH FOR REPORTED 1999 PROPOSAL DECISION AND ALTERNATIVE PARKS",
+    "source_ids": [
+      "AZ-SRC-0096"
+    ],
+    "source_urls": [
+      "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf"
+    ],
+    "evidence_boundary": "This is a 1999 planning/proposal record only. It does not locate 1983–1984 Mile-Hi BMX, establish that Mile-Hi was absent from Prescott Valley, identify the 1999 proposal with any prior or later track, or prove that any suggested alternative was built.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.37",
+    "admission_basis": "Period news text preserved in a Town-hosted historical compilation adds later municipal BMX-planning context without back-projecting it onto Mile-Hi",
+    "audit_date": "2026-08-21",
+    "track_ids": []
+  }
+]

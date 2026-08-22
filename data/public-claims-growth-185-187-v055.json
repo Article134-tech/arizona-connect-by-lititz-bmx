@@ -1,0 +1,74 @@
+[
+  {
+    "claim_id": "AZ-PUB-0185",
+    "category": "Historical Tracks / Period Publication",
+    "public_claim": "A June 1987 BMX Plus! report states that the Scottsdale jail was directly across the street from the Scottsdale Jaycees Rodeo BMX Park during the Winter Nationals weekend.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD PUBLICATION",
+    "authority": "B1",
+    "confidence": "HIGH FOR PERIOD REPORT",
+    "source_ids": [
+      "AZ-ATL-SRC-0004"
+    ],
+    "source_urls": [
+      "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven"
+    ],
+    "evidence_boundary": "The account establishes an across-the-street spatial relationship between the BMX venue and the Scottsdale jail. It does not identify the jail's exact 1986 street address, the separating roadway, BMX parcel boundaries, course center, or justify a Geographic Absolute coordinate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "recovery_state": "RECOVERY_CURRENT_ADMISSION",
+    "growth_release": "v0.55",
+    "admission_basis": "Period spatial witness + explicit Geographic Absolute boundary",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0103"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0186",
+    "category": "Historical Tracks / Distinct Facility Evidence",
+    "public_claim": "A 2009 regional transportation study separately mapped Manzanita Park BMX and Desert Sunset BMX, while a contemporaneous Tucson cycling inventory separately listed Manzanita BMX Raceway and Desert Sunset BMX Track with different recurring race nights. Together, the records support that Manzanita and Desert Sunset were distinct Tucson-area BMX facilities rather than alternate names for one track.",
+    "evidence_character": "CROSS-SOURCE SYNTHESIS — GOVERNMENTAL PLANNING RECORD + CONTEMPORANEOUS LOCAL INVENTORY",
+    "authority": "A2 + C1",
+    "confidence": "HIGH FOR DISTINCT-FACILITY IDENTITY",
+    "source_ids": [
+      "AZ-SRC-0133",
+      "AZ-SRC-0134"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/assets/displaypdf/97028",
+      "https://www.bicycletucson.com/wp-content/uploads/2011/08/ECON_LIST_TucsonVelo.pdf"
+    ],
+    "evidence_boundary": "The sources support distinct facility identity in the 2009–2011 evidence period. They do not establish exact historical course footprints, ownership, full operating spans, sanction continuity, RAM BMX lineage, succession to later Tucson facilities, or any new Geographic Absolute coordinate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "recovery_state": "RECOVERY_CURRENT_ADMISSION",
+    "growth_release": "v0.55",
+    "admission_basis": "Two independent documents separately identify the two BMX facilities; no schedule-derived event inflation",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0113",
+      "AZ-TRK-0112"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0187",
+    "category": "Historical Tracks / Community History",
+    "public_claim": "A March 2025 Copper Basin News obituary for longtime San Manuel resident Barbara Lynn Hagan states that Hagan ran Granny's Snack Shack at the Coppertown BMX track.",
+    "evidence_character": "ATTRIBUTED LOCAL PUBLISHED RETROSPECTIVE",
+    "authority": "C2-local published retrospective",
+    "confidence": "MEDIUM-HIGH FOR ATTRIBUTED STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0135"
+    ],
+    "source_urls": [
+      "https://copperarea.com/wp-content/uploads/3_12_25-Copper-Basin-News.pdf"
+    ],
+    "evidence_boundary": "The obituary establishes a published retrospective attribution only. It does not date the snack shack's operation, establish Hagan as owner or operator of the BMX organization, identify the track's street address or footprint, establish sanction chronology, opening or closing dates, uninterrupted continuity, or justify a coordinate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "recovery_state": "RECOVERY_CURRENT_ADMISSION",
+    "growth_release": "v0.55",
+    "admission_basis": "Named local published retrospective + explicit operational/date/site boundary",
+    "audit_date": "2026-08-22",
+    "track_ids": [
+      "AZ-TRK-0108"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "claim_id": "AZ-PUB-0168",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The May 1985 BMX Action Arizona track directory lists “Phoenix, Desert Edge BMX” with Scott Koby and published telephone number 602-861-6070.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MAY 1985 PUBLISHED PHOENIX IDENTITY; SITE OPEN",
+    "source_ids": [
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "This establishes Desert Edge BMX as a separately named Phoenix historical track identity in the May 1985 period directory and preserves Scott Koby as the published contact. The same issue separately prints Heritage Park BMX with Kathy Scott and also includes 602-861-6070 among its numbers; that shared number is a relationship signal only. It does not prove the two names refer to the same facility, a rename, succession, shared ownership or operation, the same physical site, or uninterrupted activity. No exact Desert Edge address or course point is admitted.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.45 desert edge census recovery 1",
+    "admission_basis": "Direct May 1985 period-directory occurrence under Phoenix; separate printed identity clears historical census admission while exact site and relationships remain open.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0130"
+    ]
+  }
+]

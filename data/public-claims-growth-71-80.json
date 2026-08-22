@@ -1,0 +1,224 @@
+[
+  {
+    "claim_id": "AZ-PUB-0071",
+    "category": "Tracks / Municipal History",
+    "public_claim": "Lake Havasu City Parks and Recreation Advisory Board minutes record a unanimous March 23, 2015 approval to develop a separate Strider track next to the regular BMX track at SARA Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ACTION",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0050"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0"
+    ],
+    "evidence_boundary": "The minutes prove the 2015 advisory-board approval and location next to the regular BMX track at SARA Park. They do not by themselves prove the exact completion/opening date or establish continuity among London Bridge BMX, Sara Park BMX Raceway and the current Lake Havasu City BMX identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal summary minutes with recorded unanimous action",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0072",
+    "category": "Tracks / Site Context",
+    "public_claim": "The same March 2015 Lake Havasu City minutes place the proposed Strider track inside the BMX track area covered by the SARA Park lease agreement and record a target of completing it in June 2015.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0050"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0"
+    ],
+    "evidence_boundary": "This supports the SARA Park lease-area context and the contemporaneous June 2015 completion target. A forecast is not proof of the actual completion date; the separate official track page is the source that states the Patrick Tinnell Balance Bike Track was built in 2015.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal minutes + bounded treatment of forecast language",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0073",
+    "category": "People / Site History",
+    "public_claim": "Lake Havasu City Parks and Recreation Advisory Board minutes state that pro BMX rider Corey Bohan visited Patrick Tinnell Memorial Sports Park in 2016 and that the visit was to be featured in Ride BMX Magazine.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0051"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-6-27-16.pdf?sfvrsn=3c1d007c_1"
+    ],
+    "evidence_boundary": "The city minutes establish the visit and the planned magazine feature as reported to the Board. They do not establish the final contents or publication date of the Ride BMX feature without the magazine itself.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal staff report",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0074",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX results document a State Race at Lake Havasu City BMX on March 23, 2025.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0052"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/583444/results"
+    ],
+    "evidence_boundary": "This proves the dated 2025 State Race at the current Lake Havasu City BMX address. It does not by itself establish historical continuity with prior Lake Havasu BMX identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0075",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "USA BMX records document a State Championship Qualifier at Lake Havasu City BMX on February 21, 2026 followed by a Gold Cup Qualifier on February 22, 2026.",
+    "evidence_character": "RECONSTRUCTION — TWO OFFICIAL EVENT RECORDS",
+    "authority": "A1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0053",
+      "AZ-SRC-0054"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634174/results",
+      "https://www.usabmx.com/events/634175"
+    ],
+    "evidence_boundary": "The two official records establish consecutive State and Gold Cup qualifier dates at the current Lake Havasu City BMX address. They do not establish the track opening date or close the London Bridge / Sara Park lineage questions.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Two official USA BMX event records",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0076",
+    "category": "Tracks / Current Contacts",
+    "public_claim": "USA BMX currently lists Andy Erickson and Lauren Erickson as contacts for Tucson BMX at 9245 E Irvington in Tucson.",
+    "evidence_character": "FACT — CURRENT SANCTIONING-BODY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0024"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-tucson-bmx"
+    ],
+    "evidence_boundary": "This is a current contact-directory statement and should not be expanded into a founder, owner or complete operator-history claim without separate evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Current USA BMX track page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0004"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0077",
+    "category": "Events / Race for Life",
+    "public_claim": "USA BMX results document a Race for Life at Tucson BMX on April 10, 2026.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0055"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/644956/results"
+    ],
+    "evidence_boundary": "This proves the dated Race for Life occurrence at the current Tucson BMX address. It does not establish a predecessor/successor relationship with RAM BMX, Desert Sunset BMX, Manzanita BMX Raceway or Sports Park BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0004"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0078",
+    "category": "Tracks / Current Contacts",
+    "public_claim": "USA BMX currently lists Julie and Kirk Vaughn as contacts for Sports Park BMX at 6901 N Casa Grande Highway in Tucson.",
+    "evidence_character": "FACT — CURRENT SANCTIONING-BODY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0018"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-sports-park-bmx"
+    ],
+    "evidence_boundary": "This is a current contact-directory statement and should not be expanded into a founder, owner or complete operator-history claim without separate evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Current USA BMX track page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0079",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX results document a Gold Cup Qualifier at Sports Park BMX in Tucson on March 15, 2025.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0056"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/577625/results"
+    ],
+    "evidence_boundary": "This proves the dated 2025 Gold Cup Qualifier at Sports Park BMX. It does not establish Sports Park BMX as the successor to any separate historical Tucson track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0080",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX results document a State Race at Sports Park BMX in Tucson on January 25, 2026.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0057"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634176/results"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Race at Sports Park BMX. It does not establish opening date, uninterrupted operation or continuity with other Tucson track names.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  }
+]

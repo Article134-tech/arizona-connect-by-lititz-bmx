@@ -1,0 +1,24 @@
+[
+  {
+    "claim_id": "AZ-PUB-0167",
+    "category": "Historical Tracks / Municipal Civic Context",
+    "public_claim": "A Prescott Valley historical newspaper-clipping compilation records Ray Sandberg as vice mayor in 1981, uses “Mayor Ray Sandberg” in 1982–1983 entries, and records Councilman Ray Sandberg’s formal resignation from the Town Council on March 23, 1984.",
+    "evidence_character": "FACT — PERIOD NEWSPAPER TEXT PRESERVED BY MUNICIPAL HISTORICAL ARCHIVE",
+    "authority": "B1 / A2 PRESERVATION",
+    "confidence": "HIGH FOR REPORTED CIVIC ROLES / DATES; CONTEXT ONLY FOR MILE-HI",
+    "source_ids": [
+      "AZ-SRC-0096"
+    ],
+    "source_urls": [
+      "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf"
+    ],
+    "evidence_boundary": "This independently establishes a Ray Sandberg in Prescott Valley municipal leadership during the period immediately preceding and overlapping the 1984 Mile-Hi directory contacts. It does not establish that this Ray Sandberg is the same Ray Sandberg named as Scott Sandberg’s father in the 1997 obituary, identify the 1984 Mile-Hi contact as the obituary’s Scott Sandberg, establish any ownership or employment at Sandberg’s Family Restaurant or Scott’s Bike Shop, connect municipal office to Mile-Hi BMX, reverse 602-772-8050, or locate the track or Summer Camp footprint.",
+    "status": "PASS",
+    "growth_release": "v0.43 mile-hi civic convergence recovery 3",
+    "admission_basis": "The Town-hosted historical newspaper-clipping compilation preserves multiple dated Prescott Valley civic references to Ray Sandberg from 1981 through March 23, 1984. The exact-name/locality overlap with the separately governed Sandberg family record is preserved as a research convergence only; no person identity bridge is inferred.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "claim_id": "AZ-PUB-0086",
+    "category": "Historical Tracks / Local Retrospective",
+    "public_claim": "A September 6, 2017 RiverScene feature states that SARA Park BMX Raceway was built in the early 1990s, was rebuilt from the ground up about two years before the article while retaining its asphalt turns, and was located at 7260 Sara Park Lane in Lake Havasu City.",
+    "evidence_character": "ATTRIBUTED LOCAL RETROSPECTIVE — DATED FEATURE",
+    "authority": "C1-local-retrospective",
+    "confidence": "MEDIUM-HIGH",
+    "source_ids": [
+      "AZ-SRC-0059"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ],
+    "evidence_boundary": "This is a dated local retrospective, not a period construction record. It supports the reported early-1990s era, 2015-era rebuild and 2017 address, but it does not establish an exact opening year, original builder, London Bridge BMX identity, or uninterrupted organizational continuity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Dated local retrospective + explicit limits on construction date and lineage",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0087",
+    "category": "Historical Tracks / Operators",
+    "public_claim": "A June 17, 2018 RiverScene feature reported that Harry and Patty Leary were the new SARA Park BMX track operators and had operated the track since April 2018 after the prior operators stepped aside.",
+    "evidence_character": "FACT — CONTEMPORARY LOCAL REPORT",
+    "authority": "C1-local-contemporary",
+    "confidence": "HIGH FOR REPORTED 2018 OPERATOR TRANSITION",
+    "source_ids": [
+      "AZ-SRC-0060"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/meet-the-new-track-operators-at-sara-park-bmx/"
+    ],
+    "evidence_boundary": "This supports the reported April 2018 operator handoff and SARA Park BMX operating identity at that time. It does not prove ownership, nonprofit legal continuity, the earlier London Bridge-to-SARA transition, or continuity to every later operator.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Dated contemporary local report + bounded operator claim",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0088",
+    "category": "Historical Tracks / Personal Truth",
+    "public_claim": "In a July 2010 condolence posted to Christopher Moon’s obituary, Bob Duncklee and Irma Duncklee-Woodward recalled their children racing BMX with Chris at “RAM BMX in Manzanita Park.”",
+    "evidence_character": "ATTRIBUTED PERSONAL TRUTH — RETROSPECTIVE WITNESS",
+    "authority": "D1-attributed-witness",
+    "confidence": "MEDIUM",
+    "source_ids": [
+      "AZ-SRC-0061"
+    ],
+    "source_urls": [
+      "https://www.legacy.com/us/obituaries/tucson/name/christopher-moon-obituary?id=22350326"
+    ],
+    "evidence_boundary": "Publish only as an attributed retrospective memory. It materially supports Manzanita Park as a RAM BMX site context, but it does not establish the exact track footprint, operating dates, sanction status, or continuity to Manzanita BMX Raceway / Roland Thomas Widman BMX Park.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Named attributed witness memory + explicit personal-truth boundary",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0089",
+    "category": "Tracks / Municipal Site Context",
+    "public_claim": "Pima County currently identifies Winston Reynolds–Manzanita Park at 5200 S Westover Ave in Tucson and lists the Roland Thomas Widman BMX Park among its facilities.",
+    "evidence_character": "FACT — CURRENT MUNICIPAL FACILITY RECORD",
+    "authority": "A2",
+    "confidence": "HIGH FOR CURRENT PARK / BMX FACILITY CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0062"
+    ],
+    "source_urls": [
+      "https://www.pima.gov/1422/Winston-Reynolds---Manzanita-Park"
+    ],
+    "evidence_boundary": "This establishes the current official Manzanita Park address and a current BMX facility in the park. It does not prove that historical RAM BMX occupied the same exact footprint or that RAM BMX and the present BMX facility are one continuous organization.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Current first-party county facility record + historical-continuity firewall",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0090",
+    "category": "Historical Tracks / Conflict Control",
+    "public_claim": "A 2013 IMCA points document separately lists “Thunder Raceway — Show Low, AZ” in an auto-racing competition context, while the 1998 BMX directory independently lists Thunder Raceway in Show Low as an ABA BMX track.",
+    "evidence_character": "CONFLICT CONTROL — CROSS-SPORT SAME-NAME EVIDENCE",
+    "authority": "B1 + B2",
+    "confidence": "HIGH FOR NAME-CONFLICT CONTROL",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0063"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.imca.com/wp-content/uploads/2013/10/npf_tracks.pdf"
+    ],
+    "evidence_boundary": "The two sources prove that the Thunder Raceway name was used in Show Low in BMX and later motor-racing contexts. They do not prove whether the facilities were geographically identical, related, renamed, or completely separate. No modern motor-racing coordinate may be assigned to the historical BMX record from this evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Independent sport-specific sources used only to control same-name ambiguity",
+    "audit_date": "2026-08-21"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "claim_id": "AZ-PUB-0091",
+    "category": "Historical Tracks / Site History",
+    "public_claim": "A September 6, 2017 RiverScene feature locates SARA Park BMX Raceway at 7260 Sara Park Lane and reports that the track had been rebuilt from the ground up about two years earlier while its asphalt turns remained in place.",
+    "evidence_character": "ATTRIBUTED LOCAL RETROSPECTIVE — PHYSICAL SITE / REBUILD",
+    "authority": "C1-local-retrospective",
+    "confidence": "MEDIUM-HIGH FOR PHYSICAL SITE CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0059"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ],
+    "evidence_boundary": "This supports a physical SARA Park BMX track at the reported address and continuity of that physical track through the reported circa-2015 rebuild. It does not prove London Bridge BMX organizational identity, legal continuity, an exact early-1990s opening date, or uninterrupted sanctioning history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Dated local retrospective with explicit site/rebuild language and lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0092",
+    "category": "Tracks / Current Site Cross-check",
+    "public_claim": "USA BMX currently lists Lake Havasu City BMX at 7260 McCulloch Blvd S #B in Lake Havasu City, providing an official current-site address cross-check for the SARA Park BMX property.",
+    "evidence_character": "FACT — OFFICIAL CURRENT TRACK ADDRESS",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT SITE ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0064"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/contact"
+    ],
+    "evidence_boundary": "This proves the current Lake Havasu City BMX address. Used with the separate 2017 SARA Park site/rebuild evidence, it supports registering the historical SARA Park physical site at the already-governed current track point. It does not prove London Bridge BMX organizational continuity or every historical identity transition.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Official current track address used only as a physical-site cross-check",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007",
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0093",
+    "category": "Historical Tracks / Municipal Site Record",
+    "public_claim": "Pima County’s May 9, 2007 Southwest Infrastructure Plan describes Winston Reynolds–Manzanita Pool District Park as including a BMX track and says future park plans included a restroom and a ramada at the BMX track.",
+    "evidence_character": "FACT — OFFICIAL COUNTY INFRASTRUCTURE RECORD",
+    "authority": "A2",
+    "confidence": "HIGH FOR PARK-LEVEL BMX SITE",
+    "source_ids": [
+      "AZ-SRC-0065"
+    ],
+    "source_urls": [
+      "https://content.civicplus.com/api/assets/ed65a967-f65d-434d-9ef1-8de905aaa983"
+    ],
+    "evidence_boundary": "This establishes a BMX track inside Winston Reynolds–Manzanita Park by May 2007. It does not identify the exact track-center coordinate, prove uninterrupted operation, or by itself prove that every RAM BMX / Manzanita BMX name refers to the same organization.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Official county infrastructure plan + bounded park-level site claim",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0094",
+    "category": "Historical Tracks / Dated Site Event",
+    "public_claim": "A June 5, 2011 Tucson family-events notice advertised a special BMX race honoring Corben Sharrah at “Manzanita BMX Raceway, 5200 S. Westover Ave.”",
+    "evidence_character": "FACT — DATED LOCAL EVENT / ADDRESS RECORD",
+    "authority": "C1-local-contemporary",
+    "confidence": "HIGH FOR DATED NAME + ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0066"
+    ],
+    "source_urls": [
+      "https://arizonafamilies.blogspot.com/2011_05_29_archive.html"
+    ],
+    "evidence_boundary": "This establishes the Manzanita BMX Raceway name at the Winston Reynolds–Manzanita Park street address for the dated 2011 event. It does not establish the exact historical track-center coordinate, complete operating span, or continuity with RAM BMX or current Tucson-area track identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Dated local event notice explicitly naming track and full street address",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0095",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The April 1984 issue of Bikes & Dirt lists “Tucson, Manzanita Park BMX” with Louie Stockmeyer as the contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes a Manzanita Park BMX identity in Tucson in a 1984 period directory. It does not by itself prove uninterrupted continuity to the 2003/2008/2011 Manzanita BMX Raceway records, the exact 1984 footprint, or a relationship to RAM BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Period BMX publication directory listing + explicit continuity boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  }
+]

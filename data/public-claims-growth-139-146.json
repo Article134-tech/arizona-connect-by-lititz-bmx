@@ -1,0 +1,182 @@
+[
+  {
+    "claim_id": "AZ-PUB-0139",
+    "category": "Historical Tracks / Personal Truth",
+    "public_claim": "A public 1977 photo caption identifies “Randolph Park BMX Track, Tucson AZ” and describes the pictured rider as nine years old on a Mongoose.",
+    "evidence_character": "PERSONAL TRUTH — ATTRIBUTED PUBLIC PHOTO CAPTION",
+    "authority": "C2",
+    "confidence": "HIGH FOR PUBLISHED ATTRIBUTED CAPTION; MEDIUM FOR 1977 ACTIVITY WITNESS",
+    "source_ids": [
+      "AZ-SRC-0084"
+    ],
+    "source_urls": [
+      "https://www.facebook.com/groups/3631701850188754/posts/7279655855393317/"
+    ],
+    "evidence_boundary": "The public caption is preserved as attributed personal-history evidence for a Randolph Park BMX Track in Tucson in 1977. It is not an independently verified race record, does not identify the exact course footprint, and does not prove that every later Reid Park BMX reference describes one unchanged course.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Public dated photo caption with explicit place/name wording, admitted only as personal truth",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0140",
+    "category": "Historical Tracks / Institutional Oral History",
+    "public_claim": "In a National BMX Hall of Fame interview, ABA founder Merl Mennenga recalls another Tucson BMX track as a downhill track in a city park and says Louis Stockmeyer ran it.",
+    "evidence_character": "ATTRIBUTED RETROSPECTIVE ORAL HISTORY — INSTITUTIONAL INTERVIEW",
+    "authority": "B2",
+    "confidence": "HIGH FOR ATTRIBUTED MENNENGA STATEMENT; MEDIUM-HIGH FOR REID/RANDOLPH ASSOCIATION",
+    "source_ids": [
+      "AZ-SRC-0085"
+    ],
+    "source_urls": [
+      "https://www.facebook.com/bmxhof/videos/ever-wonder-how-and-why-the-aba-got-started-way-back-in-1977-bmx-hall-of-famer-a/1230240625126141/"
+    ],
+    "evidence_boundary": "Mennenga’s published recollection establishes his statement about a Tucson city-park downhill BMX track and Louis Stockmeyer. The interview excerpt itself does not name Randolph or Reid Park. Association with the Reid Park record is therefore supported by the separate 1984 directory naming Louie Stockmeyer for Reid Park BMX, not treated as a standalone exact-site identification.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Institutionally published retrospective interview cross-checked against the period Reid Park directory contact",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0141",
+    "category": "Historical Tracks / Attributed Community Memory",
+    "public_claim": "A VanishingTucson discussion participant recalls the Randolph/Reid Park BMX track as just north and west of the old bandshell and describes a start gate on top of a good-sized hill.",
+    "evidence_character": "PERSONAL TRUTH — ATTRIBUTED COMMUNITY LOCATION MEMORY",
+    "authority": "C2",
+    "confidence": "HIGH FOR ATTRIBUTED MEMORY; MEDIUM FOR BANDSHELL-VICINITY RECOVERY AREA",
+    "source_ids": [
+      "AZ-SRC-0086"
+    ],
+    "source_urls": [
+      "https://groups.io/g/vanishingtucson/topic/50871575"
+    ],
+    "evidence_boundary": "This narrows a personal-memory recovery area inside Randolph/Reid Park, not an exact governed course center. Community discussion also raises the possibility of more than one historical course configuration, so the Atlas does not move the existing park-property coordinate or collapse all Randolph/Reid references into one footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Specific attributed local-memory description retained as a recovery-area witness with no coordinate promotion",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0142",
+    "category": "Historical Tracks / Current Site Cross-check",
+    "public_claim": "The City of Tucson currently places the Georges DeMeester Outdoor Performance Center at 800 S. Concert Place in the northwest corner of Gene C. Reid Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL CURRENT-SITE REFERENCE",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT PERFORMANCE-CENTER LOCATION",
+    "source_ids": [
+      "AZ-SRC-0087"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Special-Places/Performance-Areas-and-Amphitheaters"
+    ],
+    "evidence_boundary": "This is a current municipal locator for the performance-center/bandshell area used to orient the separate historical memory evidence. It does not prove that the present performance-center footprint is identical to the historical bandshell footprint or establish an exact BMX course center.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Official municipal current-site reference used only to orient the recovery area",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0143",
+    "category": "Historical Tracks / Period Publication",
+    "public_claim": "The October 1983 issue of BMX Plus! says Brent and Brian Patterson were teaching BMX skills at the Mile-Hi BMX Summer Camp in Prescott and reports that each earned $1,000 per week.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION",
+    "authority": "B1",
+    "confidence": "HIGH FOR PUBLISHED INSTRUCTIONAL-ACTIVITY STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0074"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXPlus_8310.pdf"
+    ],
+    "evidence_boundary": "This strengthens the 1983 Mile-Hi Summer Camp activity record and identifies the Patterson brothers as instructors in the period article. It does not identify the exact camp/track footprint, prove operator or ownership roles, or resolve why the 1983 article uses Prescott while the 1984 directories use Prescott Valley.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Direct period-publication text adds instructors and activity detail without increasing geographic precision",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0144",
+    "category": "Historical Tracks / Official Event",
+    "public_claim": "USA BMX preserves results for an August 11, 2002 State Qualifier at “MILE HIGH BMX” in Chino Valley, listing 1020 W Palamino Rd as the event address.",
+    "evidence_character": "FACT — OFFICIAL SANCTIONING-BODY EVENT / RESULTS RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR DATED EVENT, TRACK NAME, CITY AND PUBLISHED ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0088"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/235476/results"
+    ],
+    "evidence_boundary": "This establishes a dated 2002 Mile High BMX event identity in Chino Valley and the address published with that event. It does not establish that the address marks the exact dirt-course center, nor does it prove continuity with 1983–1984 Mile-Hi BMX or the 1984 Chino Valley BMX directory identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Official dated sanctioning-body results with track name and address",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0129"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0145",
+    "category": "Historical Tracks / Official Event",
+    "public_claim": "USA BMX records an August 10, 2003 State Qualifier at “MILE HIGH BMX” in Chino Valley and again lists 1020 W Palamino Rd.",
+    "evidence_character": "FACT — OFFICIAL SANCTIONING-BODY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR REPEATED 2003 EVENT IDENTITY AND PUBLISHED ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0089"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/218707"
+    ],
+    "evidence_boundary": "The second official event record independently repeats the Mile High BMX identity and Chino Valley address one year later. It does not prove uninterrupted operation between the two dates, the exact course center, or lineage with the earlier Mile-Hi BMX or Chino Valley BMX records.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Second dated official event record independently repeats identity, city and address",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0129"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0146",
+    "category": "Historical Tracks / Geographic Registration",
+    "public_claim": "The Town of Chino Valley identifies current Memory Park at Palomino Road and N Road 1 West; combined with USA BMX’s repeated 2002–2003 event address and its embedded 2003 driving-directions coordinate, the Atlas admits only a Memory Park property-level SITE_POINT_APPROXIMATE for Mile High BMX (Chino Valley).",
+    "evidence_character": "SYNTHESIS — OFFICIAL SANCTIONING-BODY EVENT ADDRESS + MUNICIPAL PARK CROSS-CHECK",
+    "authority": "A1",
+    "confidence": "HIGH FOR MEMORY PARK ADDRESS ASSOCIATION; MEDIUM-HIGH FOR EVENT-SITE PROPERTY; LOW FOR COURSE CENTER",
+    "source_ids": [
+      "AZ-SRC-0088",
+      "AZ-SRC-0089",
+      "AZ-SRC-0090"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/235476/results",
+      "https://www.usabmx.com/events/218707",
+      "https://www.chinovalleyaz.gov/facilities/facility/details/Memory-Park-1"
+    ],
+    "evidence_boundary": "The marker represents the published 2002–2003 event-address / current Memory Park property association, not an exact historical dirt-course center. It does not merge Mile High BMX (Chino Valley) with 1983–1984 Mile-Hi BMX, the 1984 Chino Valley BMX directory identity, or the later BMX facility documented at Old Home Manor.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.36",
+    "admission_basis": "Repeated official event address + official current park cross-check + sanction-body driving-directions coordinate, bounded to property level",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0129"
+    ]
+  }
+]

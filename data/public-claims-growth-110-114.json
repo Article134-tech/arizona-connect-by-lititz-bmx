@@ -1,0 +1,112 @@
+[
+  {
+    "claim_id": "AZ-PUB-0110",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The September 1982 premiere issue of Bikes & Dirt lists Tri Valley in Casa Grande and names Jeff Pritchett as the directory contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR SEPTEMBER 1982 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0073"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf"
+    ],
+    "evidence_boundary": "This establishes a Tri Valley BMX directory occurrence in Casa Grande by September 1982, earlier than the March 1984 snapshot. A directory contact is not automatically an owner or operator, and the two snapshots do not by themselves prove uninterrupted operation, an exact track footprint, or later continuity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.32",
+    "admission_basis": "Period BMX publication directory listing with earlier dated occurrence and named contact",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0115"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0111",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The September 1982 premiere issue of Bikes & Dirt lists Window Rock BMX and names Russ Lingruen as the directory contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR SEPTEMBER 1982 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0073"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf"
+    ],
+    "evidence_boundary": "This establishes a Window Rock BMX directory occurrence by September 1982. It does not establish the exact track footprint, uninterrupted operation, ownership, or whether later directory contacts represent the same operating organization.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.32",
+    "admission_basis": "Period BMX publication directory listing with earlier dated occurrence",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0112",
+    "category": "Historical Tracks / Period Publication",
+    "public_claim": "The October 1983 issue of BMX Plus! mentions the Mile-Hi BMX Summer Camp in Prescott.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION",
+    "authority": "B1",
+    "confidence": "HIGH FOR PERIOD MILE-HI ACTIVITY REFERENCE",
+    "source_ids": [
+      "AZ-SRC-0074"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXPlus_8310.pdf"
+    ],
+    "evidence_boundary": "This establishes a period Mile-Hi BMX Summer Camp reference associated with Prescott by the October 1983 issue date. It does not establish the camp’s exact dates or site, the full operating span of Mile-Hi BMX, or whether the Prescott wording identifies the same exact footprint later listed in Prescott Valley.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.32",
+    "admission_basis": "Period BMX magazine activity reference predating the March 1984 directory snapshot",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0113",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The May 1985 BMX Action track directory lists Window Rock BMX and names Jerry Pete as the directory contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MAY 1985 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "This establishes a later Window Rock BMX directory occurrence in May 1985. Combined with the 1982 and 1984 snapshots it demonstrates repeated period listing, but it does not prove uninterrupted operation, exact site continuity, ownership, or the meaning of changing directory contacts.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.32",
+    "admission_basis": "Period BMX publication directory listing extending the known occurrence sequence",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0114",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The May 1985 BMX Action track directory lists Bullhead City Kiwanis BMX in Bullhead City.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MAY 1985 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "This establishes a Bullhead City Kiwanis BMX directory occurrence in May 1985, later than its March 1984 listing. The two directory snapshots do not by themselves prove uninterrupted operation, the exact historical track site, ownership, or later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.32",
+    "admission_basis": "Period BMX publication directory listing extending the known occurrence sequence",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0120"
+    ]
+  }
+]

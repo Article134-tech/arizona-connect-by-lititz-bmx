@@ -1,0 +1,311 @@
+[
+  {
+    "claim_id": "AZ-PUB-0096",
+    "category": "Historical Tracks / Municipal Transition",
+    "public_claim": "Lake Havasu City Parks and Recreation Advisory Board minutes record that a BMX-track renaming ceremony was held on September 20, 2018 and state that the new name would be “Lake Havasu City BMX.”",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL MINUTES",
+    "authority": "A2",
+    "confidence": "HIGH FOR DATED RENAMING",
+    "source_ids": [
+      "AZ-SRC-0068"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-9-24-18.pdf?sfvrsn=e33ee67c_6"
+    ],
+    "evidence_boundary": "This officially documents the September 2018 renaming to Lake Havasu City BMX at the BMX track. It closes the SARA Park BMX Raceway → Lake Havasu City BMX naming transition at the governed shared physical site, but it does not establish London Bridge BMX’s exact site or its predecessor transition into SARA Park BMX Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Official municipal minutes with exact ceremony date and explicit new-name statement",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0111",
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0097",
+    "category": "Historical Tracks / Sanctioned Event",
+    "public_claim": "An official sanctioning-body result record documents racing at Manzanita BMX Raceway in Tucson on April 2, 2008.",
+    "evidence_character": "FACT — OFFICIAL SANCTIONING-BODY RESULT",
+    "authority": "A1",
+    "confidence": "HIGH FOR DATED TRACK OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0069"
+    ],
+    "source_urls": [
+      "https://www.bmxcanada.org/events/132426/results"
+    ],
+    "evidence_boundary": "This proves a dated Manzanita BMX Raceway occurrence in Tucson on April 2, 2008. It does not establish the exact historical track-center coordinate, the full operating span, or continuity with RAM BMX or later Tucson track identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Official race-result record naming track, city and exact date",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0098",
+    "category": "Historical Tracks / Period Newspaper",
+    "public_claim": "A 1989 Tribune-News report preserved in the Arizona Memory Project describes a newly completed BMX facility at the Navajo County Fairgrounds in Holbrook and reports the first races at the new facility.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / ARCHIVAL REPRODUCTION",
+    "authority": "B1",
+    "confidence": "HIGH FOR NEW 1989 FAIRGROUNDS BMX FACILITY",
+    "source_ids": [
+      "AZ-SRC-0070"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251741"
+    ],
+    "evidence_boundary": "This establishes a newly completed BMX track at the Navajo County Fairgrounds in Holbrook in 1989. The archival newspaper evidence supports the property-level site and opening-era racing, but not an exact track-center coordinate within the fairgrounds or a formal later rename date.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period local newspaper preserved by Arizona Memory Project",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0099",
+    "category": "Historical Tracks / Period Newspaper",
+    "public_claim": "The Tribune-News of June 26, 1991 reported racing at the “BMXpress track at the county fairgrounds in Holbrook,” including a June 22 race day and continuing meets through October.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / ARCHIVAL REPRODUCTION",
+    "authority": "B1",
+    "confidence": "HIGH FOR 1991 BMXPRESS NAME + FAIRGROUNDS SITE",
+    "source_ids": [
+      "AZ-SRC-0071"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251743"
+    ],
+    "evidence_boundary": "This establishes the BMXpress name in active use at the Navajo County Fairgrounds in June 1991. It does not by itself prove the formal relationship between the BMXpress name and the later Painted Desert BMX Track name.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Dated period newspaper naming BMXpress and the county-fairgrounds site",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0100",
+    "category": "Historical Tracks / Period Newspaper",
+    "public_claim": "A 1992 Tribune-News report preserved in the Arizona Memory Project identifies Painted Desert BMX Track at the Navajo County Fairgrounds in Holbrook and reports an April 4 opening day for the 1992 racing season.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / ARCHIVAL REPRODUCTION",
+    "authority": "B1",
+    "confidence": "HIGH FOR 1992 NAME + FAIRGROUNDS SITE",
+    "source_ids": [
+      "AZ-SRC-0071"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251743"
+    ],
+    "evidence_boundary": "This establishes the Painted Desert BMX Track name at the same county-fairgrounds property in 1992 and the April 4 season-opening race day. It does not establish the exact formal rename date from BMXpress, uninterrupted sanction continuity, or the precise track-center coordinate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period local newspaper naming Painted Desert BMX Track at the fairgrounds",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0101",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Casa Grande, Tri Valley BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Tri Valley BMX identity and Casa Grande, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0115"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0102",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Tucson, Reid Park BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Reid Park BMX identity and Tucson, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0103",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Nogales, Hillside BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Hillside BMX identity and Nogales, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0117"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0104",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Chino Valley, Chino Valley BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Chino Valley BMX identity and Chino Valley, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0118"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0105",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Prescott Valley, Mile-Hi BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Mile-Hi BMX identity and Prescott Valley, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0106",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Bullhead City, Bullhead City Kiwanis BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Bullhead City Kiwanis BMX identity and Bullhead City, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0120"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0107",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Window Rock, Window Rock BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Window Rock BMX identity and Window Rock, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0121"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0108",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Lakeside, White Mountain BMX Raceway” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the White Mountain BMX Raceway identity and Lakeside, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0122"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0109",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 issue of Bikes & Dirt lists “Peoria, Peoria Dunes BMX” in its Arizona BMX track directory.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes the Peoria Dunes BMX identity and Peoria, Arizona association in a March 1984 period directory. It does not establish an exact track footprint, full operating span, ownership, or continuity with any later track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.31",
+    "admission_basis": "Period BMX publication directory listing with explicit location boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0123"
+    ]
+  }
+]

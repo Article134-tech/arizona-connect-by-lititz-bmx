@@ -1,0 +1,78 @@
+[
+  {
+    "claim_id": "AZ-PUB-0136",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The May 1985 BMX Action Arizona track directory lists “Phoenix, Heritage Park BMX” with Kathy Scott and published telephone numbers 602-861-6070 and 602-578-5620. The recovered June 1985 BMX Plus! Arizona directory does not repeat Heritage Park BMX; it instead lists Mesa BMX with Kathy Zosky and Debbie Cotton.",
+    "evidence_character": "FACT — TWO PERIOD BMX PUBLICATIONS / DIRECTORY CORRECTION",
+    "authority": "B1",
+    "confidence": "HIGH FOR MAY 1985 PHOENIX HERITAGE PARK BMX IDENTITY / HIGH FOR JUNE DIRECTORY NON-REPETITION",
+    "source_ids": [
+      "AZ-SRC-0075",
+      "AZ-SRC-0080"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf"
+    ],
+    "evidence_boundary": "This corrects the v0.35 Prescott / Kathy Zosky / Debbie Cotton attribution. The recovered evidence establishes a May 1985 Heritage Park BMX directory identity under Phoenix only. It does not establish the exact physical site, ownership or operator role, opening or closing dates, sanction continuity, or a relationship to Desert Edge BMX, Roadrunner Raceway, or another Phoenix-area track.",
+    "status": "PUBLIC_CORRECTION_READY",
+    "growth_release": "v0.44",
+    "admission_basis": "Direct reconciliation of the May 1985 BMX Action and June 1985 BMX Plus! Arizona directory text",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0137",
+    "category": "Historical Tracks / Municipal Site Context",
+    "public_claim": "Arizona State Parks’ Land and Water Conservation Fund register does document City of Prescott “Heritage Park” projects in 1979 and 1984, but those Prescott municipal-park records are not site evidence for Heritage Park BMX after correction of the period BMX directory identity to Phoenix.",
+    "evidence_character": "FACT — STATE RECREATION PROGRAM REGISTER / REJECTED SITE CONTEXT",
+    "authority": "A2",
+    "confidence": "HIGH FOR PRESCOTT MUNICIPAL PARK RECORD / REJECTED AS BMX SITE EVIDENCE",
+    "source_ids": [
+      "AZ-SRC-0081"
+    ],
+    "source_urls": [
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf"
+    ],
+    "evidence_boundary": "The Prescott Heritage Park records remain valid municipal-history evidence. No recovered source bridges that Prescott park to the May 1985 Phoenix Heritage Park BMX identity, so the records must not be used to infer the BMX track location.",
+    "status": "PUBLIC_CORRECTION_READY",
+    "growth_release": "v0.44",
+    "admission_basis": "Correction audit separates true Prescott municipal context from the differently located period BMX identity",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "category": "Historical Tracks / Geographic Registration",
+    "public_claim": "The prior Prescott Heritage Park SITE_POINT_APPROXIMATE at 34.6133572, -112.4404465 is withdrawn from Geographic Absolute. Heritage Park BMX is now CITY_ONLY_NO_POINT because the corrected period evidence places the track identity under Phoenix and no defensible Phoenix site coordinate has been recovered.",
+    "evidence_character": "CORRECTION — GOVERNED GEOGRAPHY WITHDRAWAL",
+    "authority": "B1 / A1 / A2 / C1 REVIEW",
+    "confidence": "HIGH FOR PIN WITHDRAWAL / OPEN FOR EXACT PHOENIX SITE",
+    "source_ids": [
+      "AZ-SRC-0075",
+      "AZ-SRC-0080",
+      "AZ-SRC-0081",
+      "AZ-SRC-0082",
+      "AZ-SRC-0083"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+      "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf",
+      "https://prescott-az.gov/rec-services/recreation-areas-prescott/parks/heritage-park/",
+      "https://www.anyplaceamerica.com/directory/az/yavapai-county-04025/parks/heritage-park-2040099/"
+    ],
+    "evidence_boundary": "The withdrawn coordinate remains a valid reference for the current City of Prescott Heritage Park, but it is no longer a BMX coordinate. No replacement Phoenix point is admitted. The exact 1985 Heritage Park BMX site remains unresolved.",
+    "status": "PUBLIC_CORRECTION_READY",
+    "growth_release": "v0.44",
+    "admission_basis": "Period-directory correction invalidates the prior Prescott park-property synthesis; Geographic Absolute therefore withdraws the point",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ]
+  }
+]

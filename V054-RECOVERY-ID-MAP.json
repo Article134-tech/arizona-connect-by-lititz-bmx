@@ -1,0 +1,353 @@
+{
+  "register": "Arizona Connect v0.54 Recovery ID Map",
+  "created": "2026-08-22",
+  "status": "RECOVERY_CONTROL_NOT_PUBLIC_PRODUCT",
+  "policy": {
+    "stable_through": "AZ-PUB-0172 / AZ-SRC-0113 / AZ-TL-0086 / AZ-REL-0015",
+    "middle_id_policy": "Post-v0.48 unpublished IDs may be deterministically recovery-assigned only when source-grounded; assignment is disclosed as RECOVERY_REASSIGNED and is not represented as verbatim recovery of the vanished internal ordering.",
+    "holds": "Unrecovered records reserve their known sequence slots but are not emitted as public records.",
+    "source_dedupe": "Exact already-governed document routes are reused. AZ-SRC-0071 is reused for the Arizona Memory Project scrapbook; it is not duplicated."
+  },
+  "claims": [
+    {
+      "recovery_key": "R50-PUB-01",
+      "assigned_id": "AZ-PUB-0173",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-02",
+      "assigned_id": "AZ-PUB-0174",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-03",
+      "assigned_id": "AZ-PUB-0175",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-04",
+      "assigned_id": "AZ-PUB-0176",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-05",
+      "assigned_id": "AZ-PUB-0177",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-06",
+      "assigned_id": "AZ-PUB-0178",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-07",
+      "assigned_id": "AZ-PUB-0179",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-08",
+      "assigned_id": "AZ-PUB-0180",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-PUB-09",
+      "assigned_id": "AZ-PUB-0181",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R52-PUB-01",
+      "assigned_id": "AZ-PUB-0182",
+      "state": "RECOVERY_REASSIGNED_PENDING_SOURCE_ROUTE",
+      "publication_state": "HOLD",
+      "reason": "Coppertown-name VHS metadata recovered but direct drillable source route not currently recovered."
+    },
+    {
+      "recovery_key": "R53-PUB-01",
+      "assigned_id": "AZ-PUB-0183",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "Sealed v0.53 count state recovered, exact claim subject/content not recovered."
+    },
+    {
+      "recovery_key": "R54-PUB-01",
+      "assigned_id": "AZ-PUB-0184",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "Historical ID anchor recovered; exact source-grounded claim record must be reconstituted before publication."
+    }
+  ],
+  "sources": [
+    {
+      "recovery_key": "R50-SRC-01",
+      "assigned_id": "AZ-SRC-0114",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86405.asp",
+      "title": "TaxExemptWorld \u2014 Tri State BMX Association Inc."
+    },
+    {
+      "recovery_key": "R50-SRC-02",
+      "assigned_id": "AZ-SRC-0115",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.lhcaz.gov/DocumentCenter/View/1499/Budget-Book-Fy-2011-PDF",
+      "title": "Lake Havasu City FY 2010-11 Budget \u2014 SARA Park sublease accomplishments"
+    },
+    {
+      "recovery_key": "R50-SRC-03",
+      "assigned_id": "AZ-SRC-0116",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+      "title": "Lake Havasu City Council packet \u2014 October 23, 2012 \u2014 Tri-State BMX Association Inc. letter"
+    },
+    {
+      "recovery_key": "R50-SRC-04",
+      "assigned_id": "AZ-SRC-0117",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://riverscenemagazine.com/local-bmx-racers-get-new-track/",
+      "title": "RiverScene \u2014 Local BMX Racers Get New Track \u2014 January 31, 2018"
+    },
+    {
+      "recovery_key": "R50-SRC-05",
+      "assigned_id": "AZ-SRC-0118",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+      "title": "USCorpDirectory \u2014 Lake Havasu City BMX Association filing record"
+    },
+    {
+      "recovery_key": "R50-SRC-06",
+      "assigned_id": "AZ-SRC-0119",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.uscorpdirectory.com/2018-09-12",
+      "title": "USCorpDirectory \u2014 September 12, 2018 registration roster"
+    },
+    {
+      "recovery_key": "R50-SRC-07",
+      "assigned_id": "AZ-SRC-0120",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86406.asp",
+      "title": "TaxExemptWorld \u2014 Lake Havasu City BMX Association"
+    },
+    {
+      "recovery_key": "R50-SRC-08",
+      "assigned_id": "AZ-SRC-0121",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "url": "https://www.causeiq.com/directory/organizations-supporting-multiple-recreation-sports-and-social-clubs-list/lake-havasu-city-kingman-az-metro/",
+      "title": "Cause IQ \u2014 Lake Havasu City BMX Association"
+    },
+    {
+      "recovery_key": "R50-SRC-UNRECOVERED-01",
+      "assigned_id": "AZ-SRC-0122",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "recovery_key": "R50-SRC-UNRECOVERED-02",
+      "assigned_id": "AZ-SRC-0123",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "recovery_key": "R50-SRC-UNRECOVERED-03",
+      "assigned_id": "AZ-SRC-0124",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "recovery_key": "R50-SRC-UNRECOVERED-04",
+      "assigned_id": "AZ-SRC-0125",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "recovery_key": "R52-SRC-02",
+      "assigned_id": "AZ-SRC-0071",
+      "state": "REUSE_GOVERNED",
+      "publication_state": "REUSE_EXISTING",
+      "url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+      "reason": "Exact URL already governed in v0.48; no duplicate source ID."
+    },
+    {
+      "recovery_key": "R52-SRC-01",
+      "assigned_id": "AZ-SRC-0126",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "Archival VHS metadata source route lacks recovered direct URL."
+    },
+    {
+      "recovery_key": "R52-SRC-UNRECOVERED-02",
+      "assigned_id": "AZ-SRC-0127",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.52 count transition indicates a second new source route; exact route not recovered."
+    },
+    {
+      "recovery_key": "R53-SRC-01",
+      "assigned_id": "AZ-SRC-0128",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.53 two-source delta known by sealed count; exact routes not recovered."
+    },
+    {
+      "recovery_key": "R53-SRC-02",
+      "assigned_id": "AZ-SRC-0129",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.53 two-source delta known by sealed count; exact routes not recovered."
+    },
+    {
+      "recovery_key": "R54-SRC-01",
+      "assigned_id": "AZ-SRC-0130",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    },
+    {
+      "recovery_key": "R54-SRC-02",
+      "assigned_id": "AZ-SRC-0131",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    },
+    {
+      "recovery_key": "R54-SRC-03",
+      "assigned_id": "AZ-SRC-0132",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    }
+  ],
+  "timeline": [
+    {
+      "recovery_key": "R50-TL-01",
+      "assigned_id": "AZ-TL-0087",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-TL-02",
+      "assigned_id": "AZ-TL-0088",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-TL-03",
+      "assigned_id": "AZ-TL-0089",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R50-TL-04",
+      "assigned_id": "AZ-TL-0090",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA",
+      "origin": "v0.50 Lake Havasu reconstruction"
+    },
+    {
+      "recovery_key": "R52-TL-01",
+      "assigned_id": "AZ-TL-0091",
+      "state": "RECOVERY_REASSIGNED_PENDING_SOURCE_ROUTE",
+      "publication_state": "HOLD",
+      "reason": "Claim AZ-PUB-0182 held pending drillable Coppertown source."
+    },
+    {
+      "recovery_key": "R53-TL-01",
+      "assigned_id": "AZ-TL-0092",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.53 milestone delta known; exact milestone content not recovered."
+    },
+    {
+      "recovery_key": "R54-TL-01",
+      "assigned_id": "AZ-TL-0093",
+      "state": "RESERVED_HOLD",
+      "publication_state": "HOLD",
+      "reason": "v0.54 milestone ID anchor recovered; exact source-grounded record not yet reconstituted."
+    }
+  ],
+  "relationships": [
+    {
+      "recovery_key": "R50-REL-01",
+      "assigned_id": "AZ-REL-0016",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA"
+    },
+    {
+      "recovery_key": "R50-REL-02",
+      "assigned_id": "AZ-REL-0017",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA"
+    }
+  ],
+  "entities": [
+    {
+      "recovery_key": "R50-ENT-01",
+      "assigned_id": "AZ-ORG-0005",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA"
+    },
+    {
+      "recovery_key": "R50-ENT-02",
+      "assigned_id": "AZ-ORG-0006",
+      "state": "RECOVERY_REASSIGNED",
+      "publication_state": "ELIGIBLE_AFTER_RC_QA"
+    }
+  ],
+  "expected_recovered_rc": {
+    "publishable_claims": 181,
+    "publishable_unique_source_ids": 123,
+    "timeline_milestones": 89,
+    "questions": 4,
+    "relationships": 17,
+    "entities": 27,
+    "tracks": 42,
+    "track_partition": "11 current / 31 historical / 0 leads",
+    "events": 28,
+    "media_routes": 19,
+    "mapped": 18,
+    "unpinned": 24
+  },
+  "known_target_v054": {
+    "claims": 184,
+    "sources": 134,
+    "timeline_milestones": 92,
+    "questions": 4,
+    "relationships": 17,
+    "tracks": 42,
+    "events": 28,
+    "media_routes": 19,
+    "mapped": 18,
+    "unpinned": 24
+  }
+}

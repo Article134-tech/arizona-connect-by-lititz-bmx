@@ -1,0 +1,185 @@
+{
+  "status": "V055_RECOVERED_PUBLICATION_CANDIDATE",
+  "basis": "Sealed v0.54 Recovered RC Partial + three source-grounded v0.55 admissions; legacy v0.52–v0.54 HOLDs remain quarantined.",
+  "id_policy": "RECOVERY_REASSIGNED IDs are deterministic assignments for unpublished recovered records; they are not represented as verbatim recovery of vanished internal ordering.",
+  "publishable_state": {
+    "claims": 184,
+    "unique_source_ids": 126,
+    "tracks": 42,
+    "track_partition": "11 current / 31 historical / 0 leads",
+    "timeline_milestones": 90,
+    "questions": 4,
+    "events": 28,
+    "relationships": 17,
+    "media_routes": 19,
+    "mapped": 18,
+    "unpinned": 24
+  },
+  "known_target_v054": {
+    "claims": 184,
+    "sources": 134,
+    "timeline_milestones": 92,
+    "questions": 4,
+    "relationships": 17,
+    "tracks": 42,
+    "events": 28,
+    "media_routes": 19,
+    "mapped": 18,
+    "unpinned": 24
+  },
+  "holds": [
+    {
+      "register": "claims",
+      "assigned_id": "AZ-PUB-0182",
+      "recovery_key": "R52-PUB-01",
+      "state": "RECOVERY_REASSIGNED_PENDING_SOURCE_ROUTE",
+      "reason": "Coppertown-name VHS metadata recovered but direct drillable source route not currently recovered."
+    },
+    {
+      "register": "claims",
+      "assigned_id": "AZ-PUB-0183",
+      "recovery_key": "R53-PUB-01",
+      "state": "RESERVED_HOLD",
+      "reason": "Sealed v0.53 count state recovered, exact claim subject/content not recovered."
+    },
+    {
+      "register": "claims",
+      "assigned_id": "AZ-PUB-0184",
+      "recovery_key": "R54-PUB-01",
+      "state": "RESERVED_HOLD",
+      "reason": "Historical ID anchor recovered; exact source-grounded claim record must be reconstituted before publication."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0122",
+      "recovery_key": "R50-SRC-UNRECOVERED-01",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0123",
+      "recovery_key": "R50-SRC-UNRECOVERED-02",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0124",
+      "recovery_key": "R50-SRC-UNRECOVERED-03",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0125",
+      "recovery_key": "R50-SRC-UNRECOVERED-04",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.50 final source count implies additional unique route; route not directly recovered. Do not pad."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0126",
+      "recovery_key": "R52-SRC-01",
+      "state": "RESERVED_HOLD",
+      "reason": "Archival VHS metadata source route lacks recovered direct URL."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0127",
+      "recovery_key": "R52-SRC-UNRECOVERED-02",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.52 count transition indicates a second new source route; exact route not recovered."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0128",
+      "recovery_key": "R53-SRC-01",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.53 two-source delta known by sealed count; exact routes not recovered."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0129",
+      "recovery_key": "R53-SRC-02",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.53 two-source delta known by sealed count; exact routes not recovered."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0130",
+      "recovery_key": "R54-SRC-01",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0131",
+      "recovery_key": "R54-SRC-02",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    },
+    {
+      "register": "sources",
+      "assigned_id": "AZ-SRC-0132",
+      "recovery_key": "R54-SRC-03",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.54 source ID anchor recovered; exact route must be source-grounded before publication."
+    },
+    {
+      "register": "timeline",
+      "assigned_id": "AZ-TL-0091",
+      "recovery_key": "R52-TL-01",
+      "state": "RECOVERY_REASSIGNED_PENDING_SOURCE_ROUTE",
+      "reason": "Claim AZ-PUB-0182 held pending drillable Coppertown source."
+    },
+    {
+      "register": "timeline",
+      "assigned_id": "AZ-TL-0092",
+      "recovery_key": "R53-TL-01",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.53 milestone delta known; exact milestone content not recovered."
+    },
+    {
+      "register": "timeline",
+      "assigned_id": "AZ-TL-0093",
+      "recovery_key": "R54-TL-01",
+      "state": "RESERVED_HOLD",
+      "reason": "v0.54 milestone ID anchor recovered; exact source-grounded record not yet reconstituted."
+    }
+  ],
+  "coppertown": {
+    "claim_id": "AZ-PUB-0182",
+    "timeline_id": "AZ-TL-0091",
+    "state": "RECOVERY_REASSIGNED_PENDING_SOURCE_ROUTE",
+    "reused_source_id": "AZ-SRC-0071",
+    "missing_new_source_slots": [
+      "AZ-SRC-0126",
+      "AZ-SRC-0127"
+    ]
+  },
+  "geographic_absolute": "NO LOCATION MUTATION AUTHORIZED; all v0.48 location objects and mapped triples inherited exactly.",
+  "v055_current_admissions": {
+    "claims": [
+      "AZ-PUB-0185",
+      "AZ-PUB-0186",
+      "AZ-PUB-0187"
+    ],
+    "new_source_ids": [
+      "AZ-SRC-0133",
+      "AZ-SRC-0134",
+      "AZ-SRC-0135"
+    ],
+    "reused_source_ids": [
+      "AZ-ATL-SRC-0004"
+    ],
+    "new_timeline_ids": [
+      "AZ-TL-0094"
+    ],
+    "question_updates": [
+      "AZ-TL-Q003",
+      "AZ-TL-Q004"
+    ],
+    "source_control": "USA BMX event 445128 demonstrates current live-shell naming cannot automatically backdate historical track identity."
+  }
+}

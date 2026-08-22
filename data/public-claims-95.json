@@ -1,0 +1,1991 @@
+[
+  {
+    "claim_id": "AZ-PUB-0001",
+    "category": "Origins / Institutions",
+    "public_claim": "USA BMX's Chandler BMX history page states that Chandler BMX at McQueen and Frye was the first BMX track the American Bicycle Association opened in 1977 for sanctioned BMX events.",
+    "evidence_character": "FACT — FIRST-PARTY OFFICIAL",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0001"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-chandler-bmx/about"
+    ],
+    "evidence_boundary": "Do not add an exact opening day or founder attribution from this source alone.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0001",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0002",
+    "category": "Origins / Institutions",
+    "public_claim": "A 2011 USA BMX article described the organization as formed in 1977 and headquartered in Chandler, Arizona.",
+    "evidence_character": "FACT — DATED FIRST-PARTY STATEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0006"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2011-01-12/JBL%C2%AE-Audio-Equipment-continues-as-2011-ABA-National-Series-Sponsor?id=248"
+    ],
+    "evidence_boundary": "This is a 2011 institutional-location statement, not a claim about headquarters location before or after that date.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0002",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0003",
+    "category": "Origins / Institutions",
+    "public_claim": "A 2014 USA BMX article described the American Bicycle Association / USA BMX as headquartered in Gilbert, Arizona.",
+    "evidence_character": "FACT — DATED FIRST-PARTY STATEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0007"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2014-08-01/Chipotle-Celebrates-our-37th-company-Anniversary?id=1193"
+    ],
+    "evidence_boundary": "This is a 2014 institutional-location statement only.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0003",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0004",
+    "category": "Origins / Institutions",
+    "public_claim": "In November 2019 USA BMX said it was then located in Gilbert, Arizona and would relocate its headquarters and Hall of Fame museum to Tulsa.",
+    "evidence_character": "FACT — DATED FIRST-PARTY STATEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0008"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2019-11-15/USA-BMX-Breaks-Ground-in-Tulsa?id=1723"
+    ],
+    "evidence_boundary": "Do not backdate the completed Tulsa move to 2019; this source describes the planned relocation and groundbreaking.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0004",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0005",
+    "category": "Origins / Institutions",
+    "public_claim": "USA BMX reported that its new headquarters moved to Tulsa's Greenwood District in February 2022.",
+    "evidence_character": "FACT — FIRST-PARTY OFFICIAL",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0010"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2023-01-06/USA-BMX-2022-in-Review?id=1999"
+    ],
+    "evidence_boundary": "Use February 2022 for the headquarters move described by this source; do not erase the later/current Arizona office footprint.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0005",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0006",
+    "category": "Origins / Institutions",
+    "public_claim": "USA BMX's current contact page lists an Arizona shipping office in Gilbert and an Oklahoma office in Tulsa.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0009"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/contact-us"
+    ],
+    "evidence_boundary": "Current-state claim; display an access date and recheck before future releases.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0006",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0007",
+    "category": "Tracks / Lineage",
+    "public_claim": "USA BMX's 2024 Hall of Fame profile for Debbie Kelley says Debbie and Pete Kelley took over Road Runner BMX in the mid-1980s and renamed it Black Mountain.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Exact rename year, legal entity continuity, and site continuity remain separate questions.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0007",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0008",
+    "category": "Tracks / Recognition",
+    "public_claim": "USA BMX ranked Chandler BMX third and Black Mountain BMX fourth in its 2020 Western Region Top-10 track list.",
+    "evidence_character": "FACT — DATED FIRST-PARTY RANKING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0013"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2021-04-02/Top-10-Tracks-in-2020?id=1885"
+    ],
+    "evidence_boundary": "This is a USA BMX 2020 regional operational ranking, not an all-time historical ranking.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0008",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0009",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's official 2018 Hall of Fame profile says her family moved from Michigan to Arizona so her father could work for the ABA, and records her as ABA AZ-01 Girls No.1 in 1981 and 1982.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "Keep the family-move reason attributed to the Hall of Fame profile; the district titles are separately enumerated in the same source.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0009",
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0010",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's official 2024 Hall of Fame profile identifies her as a Chandler BMX local beginning in 1998.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Do not infer that Chandler was her only home track or that every later career result occurred in Arizona.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0010",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0011",
+    "category": "People / Elite Racing",
+    "public_claim": "USA Cycling lists Corben Sharrah's hometown and residence as Tucson, Arizona and identifies him as a two-time Olympian and 2017 World Champion.",
+    "evidence_character": "FACT — GOVERNING-BODY ATHLETE PROFILE",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0004"
+    ],
+    "source_urls": [
+      "https://usacycling.org/athlete/corben-sharrah"
+    ],
+    "evidence_boundary": "Use the profile's stated Olympic appearances and world-title wording; do not expand it into an Arizona Hall of Fame selection judgment.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0011",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0012",
+    "category": "Women / Collegiate",
+    "public_claim": "Official 2013 USA BMX championship results list Dominique Daniels first in the collegiate women's final, from Gilbert, Arizona, representing Grand Canyon University.",
+    "evidence_character": "FACT — OFFICIAL RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0005"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948"
+    ],
+    "evidence_boundary": "This proves the listed result, Arizona residence label, and school representation for that event.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0012",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0013",
+    "category": "Events",
+    "public_claim": "USA BMX confirmed the 2020 Gold Cup Finals South West at Sports Park BMX in Tucson for October 16–18, 2020.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT ANNOUNCEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0014"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2020-08-28/Gold-Cup-Championship-Series-Final-Locations-and-the-Final-National-Event-Location-?id=1838"
+    ],
+    "evidence_boundary": "Use the event name, venue, region and dates as published; do not infer every surviving award belongs to a specific race without object-level matching.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0013",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0014",
+    "category": "Artifacts / Surviving Evidence",
+    "public_claim": "Lititz BMX catalogs artifact 26.0100 as a 2020 Gold Cup Southwest Regional Championship first-place plaque tied to Sports Park BMX and artifact 26.0098 as a 2021 Chandler BMX Arizona State Race first-place plaque.",
+    "evidence_character": "OBJECT — GOVERNED LITITZ CATALOG",
+    "authority": "L1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0027",
+      "AZ-SRC-0028"
+    ],
+    "source_urls": [
+      "https://sites.google.com/view/lititzbmxinventorylist/home/26-0098",
+      "https://sites.google.com/view/lititzbmxinventorylist/home/26-0100"
+    ],
+    "evidence_boundary": "These catalog records prove the objects and Lititz BMX's governed identification; exact rider/event sub-race matching must remain within the artifact evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0014",
+    "supporting_urls": [
+      "https://sitemap.lititzbmx.com/datasets/artifact-inventory/",
+      "https://www.usabmx.com/news-and-media/6/2020-08-28/Gold-Cup-Championship-Series-Final-Locations-and-the-Final-National-Event-Location-?id=1838"
+    ],
+    "audit_note": "Direct public artifact pages added; USA BMX event announcement retained as independent event-context support for 26.0100.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0015",
+    "category": "Events / State Ecosystem",
+    "public_claim": "USA BMX's 2019 Winter Nationals report records Arizona riders from multiple cities and competition levels at Black Mountain, including Phoenix, Tucson, Chandler, Kingman, Gilbert, Mesa, Avondale, Surprise, Tempe and others.",
+    "evidence_character": "RECONSTRUCTION — OFFICIAL RESULT SYNTHESIS",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0011"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2019-02-18/2019-Winter-Nationals-race-report?id=1660"
+    ],
+    "evidence_boundary": "This supports a broad statewide participation pattern at that event; do not turn every listed rider into a heritage or Hall of Fame candidate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0015",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0016",
+    "category": "Organizations / Teams",
+    "public_claim": "Official USA BMX results preserve the team label 'Arizona Bicycle Werx/Fall Risk Racing' on Arizona-linked rider entries.",
+    "evidence_character": "FACT — OFFICIAL RESULT LABEL",
+    "authority": "A1 + L1",
+    "confidence": "HIGH FOR LABEL",
+    "source_ids": [
+      "AZ-SRC-0029"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/392743/results"
+    ],
+    "evidence_boundary": "The result proves the published team label and rider listing only; it does not by itself prove business founding history, exact shop location, or the use history of surviving jerseys.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": "AZ-CLM-0016",
+    "supporting_urls": [
+      "https://www.usabmx.com/events/392751/results",
+      "https://www.usabmx.com/events/392734/results"
+    ],
+    "audit_note": "Two additional live USA BMX result pages independently preserve the exact Arizona Bicycle Werx/Fall Risk Racing team label on Arizona-linked rider entries.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0017",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile says she competed from 1979 through 1985.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "Treat the career span as the Hall of Fame profile's stated competition span.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0018",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile records her as the 1982 ABA National No.1 Girl and says 1982 was the first year the ABA awarded a National No.1 title for the girls class.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "The 'first' claim is explicitly the source's description of the ABA girls National No.1 title, not a claim about every sanctioning body.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0019",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile records her as the 1984 NBL National No.1 Girl Pro.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "Use the title exactly as listed by the profile.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0020",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile records back-to-back National No.1 Girl Cruiser titles in 2000 and 2001.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Do not infer sanction details beyond the profile's wording unless separately sourced.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0021",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile credits her with five consecutive NBL No.1 Elite Women titles from 2003 through 2007.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Use the five-year span and NBL title wording as published.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0022",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile says that after retiring from the pro circuit she remained involved as a coach and team manager.",
+    "evidence_character": "FACT — DATED ATTRIBUTED RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "This is what the 2024 profile reported; do not convert its then-current team affiliation into a timeless present-tense claim.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0023",
+    "category": "Operators / Community",
+    "public_claim": "USA BMX's 2024 Hall of Fame profile says Debbie Kelley retired at the beginning of 2024 after running the Phoenix track since 1985.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Keep 'since 1985' tied to the source's Black Mountain/operator framing; exact Road Runner-to-Black Mountain chronology remains separately controlled.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0024",
+    "category": "Operators / Community",
+    "public_claim": "USA BMX's 2024 Debbie Kelley profile identifies Pete Kelley as a National BMX Hall of Famer inducted in 1995.",
+    "evidence_character": "FACT — FIRST-PARTY CROSS-REFERENCE",
+    "authority": "A1",
+    "confidence": "MEDIUM-HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "This is a cross-reference inside Debbie Kelley's official profile; a standalone Pete Kelley profile remains desirable for a fuller dossier.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0025",
+    "category": "Operators / Community",
+    "public_claim": "USA BMX's 2024 profile says Debbie Kelley and Black Mountain hosted more than 30 Winter Nationals and about as many Arizona State Championships.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Use the source's approximate count language; do not silently convert it to an exact event total.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0026",
+    "category": "Operators / Community",
+    "public_claim": "USA BMX's 2024 profile says Debbie Kelley sold the track to Bubba Harris and Karl Clark when she retired from the track-operator position.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "This supports the reported stewardship transfer; legal entity and property-transfer details are not established by this sentence alone.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0027",
+    "category": "People / Elite Racing",
+    "public_claim": "USA Cycling's Corben Sharrah profile lists the University of Arizona, class of 2018, with Science as his school field.",
+    "evidence_character": "FACT — GOVERNING-BODY ATHLETE PROFILE",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0004"
+    ],
+    "source_urls": [
+      "https://usacycling.org/athlete/corben-sharrah"
+    ],
+    "evidence_boundary": "Use the education entry as published; do not infer degree specialization beyond the profile text.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0028",
+    "category": "People / Personal Truth",
+    "public_claim": "USA Cycling's athlete profile says Corben Sharrah designed and built a BMX practice track in his backyard to sharpen his skills.",
+    "evidence_character": "PERSONAL / BIOGRAPHICAL TRUTH — ATTRIBUTED ATHLETE PROFILE",
+    "authority": "A2",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0004"
+    ],
+    "source_urls": [
+      "https://usacycling.org/athlete/corben-sharrah"
+    ],
+    "evidence_boundary": "This establishes what the athlete profile reports about Sharrah's own practice track; it is not a surveyed public-facility record.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0029",
+    "category": "Women / Collegiate",
+    "public_claim": "USA BMX's 2013 collegiate-women report describes Dominique Daniels as the reigning National Champion and says her win earned another stars-and-bars jersey for Grand Canyon University.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT REPORT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0005"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948"
+    ],
+    "evidence_boundary": "Use this as a dated 2013 championship statement; do not extrapolate to later collegiate seasons.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0030",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Chandler BMX page lists the track at 298 S McQueen Rd, Chandler, Arizona 85225.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0026"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-chandler-bmx"
+    ],
+    "evidence_boundary": "Current-directory claim; retain access date and do not backdate this address to historical Chandler track names.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0031",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Black Mountain BMX page lists the track at 24024 N 11th St, Phoenix, Arizona 85024.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0017"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-black-mountain%20bmx"
+    ],
+    "evidence_boundary": "Current-directory claim; it does not by itself prove every historical Road Runner/Black Mountain location.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0032",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Sports Park BMX page lists the track at 6901 N Casa Grande Highway, Tucson, Arizona 85743.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0018"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-sports-park-bmx"
+    ],
+    "evidence_boundary": "Current-directory claim only; historical Tucson track identities remain separately governed.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0033",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Tucson BMX page lists the track at 9245 E Irvington, Tucson, Arizona 85730.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0024"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-tucson-bmx"
+    ],
+    "evidence_boundary": "Current-directory claim only; do not merge this track with historical Tucson names without evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0034",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Goodyear BMX Raceway page lists the track at 15660 W Roeser Rd, Goodyear, Arizona 85338.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0019"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-goodyear-bmx-raceway"
+    ],
+    "evidence_boundary": "Current-directory claim; display access date for future releases.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0035",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Yuma BMX page lists the track at 3067 S Pacific Ave, Yuma, Arizona 85364.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0020"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-yuma-bmx"
+    ],
+    "evidence_boundary": "Current-directory claim; display access date for future releases.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0036",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Lake Havasu City BMX page lists the track at 7260 McCulloch Blvd S #B, Lake Havasu City, Arizona 86406.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-ATL-SRC-0001"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx"
+    ],
+    "evidence_boundary": "Current-directory claim; do not equate this address with every historical Lake Havasu BMX venue without lineage evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0037",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's Mingus Mountain BMX (Wheelhouse) schedule page lists the track at 10401 E Hwy 89A, Prescott, Arizona 86315.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0022"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-mingus-mountain-bmx-%28wheelhouse%29/events"
+    ],
+    "evidence_boundary": "Current-directory claim; display access date for future releases.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0038",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's Colorado River BMX contact page lists the track at 2230 Highland Rd, Bullhead City, Arizona 86442.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0023"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-colorado-river-bmx/contact"
+    ],
+    "evidence_boundary": "Current-directory claim; display access date for future releases.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0039",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's current Interstate BMX page lists the track at 2600 Fairgrounds Blvd, Kingman, Arizona 86401.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0025"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-interstate-bmx"
+    ],
+    "evidence_boundary": "The current address matches the address governed for historical High Desert 66 BMX, but address equality alone does not prove an exact rename or organizational succession.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0040",
+    "category": "Current Tracks",
+    "public_claim": "USA BMX's Show Low BMX page lists the track at 1001 E Mills, Show Low, Arizona 85901, and USA BMX published results for a local race there on July 19, 2026.",
+    "evidence_character": "FACT — CURRENT FIRST-PARTY DIRECTORY + RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-ATL-SRC-0002",
+      "AZ-SRC-0032"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-show-low-bmx/events",
+      "https://www.usabmx.com/events/649827/results"
+    ],
+    "evidence_boundary": "This proves dated 2026 racing activity and location; it does not establish uninterrupted operation for every month or historical continuity with Thunder Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0041",
+    "category": "Local History / Personal Truth",
+    "public_claim": "The official Lake Havasu City BMX page says the Patrick Tinnell Balance Bike Track was built in 2015 in memory of Army Specialist Patrick A. Tinnell.",
+    "evidence_character": "FACT — ATTRIBUTED LOCAL FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1-local-retrospective",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0031"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412"
+    ],
+    "evidence_boundary": "This establishes what the official track page says and the memorial-track date; use separate evidence for military-service details if expanded.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0042",
+    "category": "Local History / Personal Truth",
+    "public_claim": "The official Lake Havasu City BMX page describes Patrick Tinnell as one of Lake Havasu City's BMX pioneers and says that in the early years he helped build and maintain jumps at Sara Park.",
+    "evidence_character": "PERSONAL / COMMUNITY TRUTH — ATTRIBUTED LOCAL RETROSPECTIVE",
+    "authority": "A1-local-retrospective",
+    "confidence": "MEDIUM-HIGH",
+    "source_ids": [
+      "AZ-SRC-0031"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412"
+    ],
+    "evidence_boundary": "Publish as an attributed local-history statement. It is valuable evidence for Sara Park recovery but does not by itself prove the exact identity, dates, or lineage of a sanctioned Sara Park BMX track.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0043",
+    "category": "Historical Tracks / Events",
+    "public_claim": "USA BMX announced that the Route 66 Classic Nationals would take place May 7–9, 2021 at High Desert 66 BMX in Kingman, Arizona.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT ANNOUNCEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-ATL-SRC-0005"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883"
+    ],
+    "evidence_boundary": "Supports the named track, city and event dates for 2021; does not settle later Interstate BMX succession.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0044",
+    "category": "Historical Tracks / People",
+    "public_claim": "In the same 2021 Route 66 Classic announcement, USA BMX identified Harry Leary as the Track Operator of High Desert 66 BMX.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT ANNOUNCEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-ATL-SRC-0005"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883"
+    ],
+    "evidence_boundary": "This proves the Track Operator identification in that 2021 source; do not extend it beyond the source's time/context without additional evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0045",
+    "category": "Events / Institutional Response",
+    "public_claim": "USA BMX said the 2021 Route 66 Classic at High Desert 66 BMX was the backup event after the May 7–9 Silver Dollar Nationals in Las Vegas were canceled because COVID restrictions prevented the event from going forward.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT ANNOUNCEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-ATL-SRC-0005"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883"
+    ],
+    "evidence_boundary": "Use as the official explanation published by USA BMX for that schedule substitution.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0046",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX's Chandler event page identifies September 11–12, 2021 as Arizona State Final Weekend.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0015"
+    ],
+    "source_urls": [
+      "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068"
+    ],
+    "evidence_boundary": "Use the dates and event label as published; individual race awards still require object/result matching.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0047",
+    "category": "Events / State Series",
+    "public_claim": "The same Arizona State Final Weekend page scheduled a Sports Park State Race for Friday, September 10, followed by Chandler's State Final pre-race on September 11 and State Final on September 12.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0015"
+    ],
+    "source_urls": [
+      "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068"
+    ],
+    "evidence_boundary": "This supports the coordinated weekend schedule; do not infer organizational merger between Sports Park and Chandler.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0048",
+    "category": "Historical Tracks / Period Publication",
+    "public_claim": "BMX Plus! reported in June 1987 that, in the early ABA years 'say 1979 to 1983,' the Winter Nationals was held at Chandler Jaycees BMX in Chandler, Arizona.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD PUBLICATION",
+    "authority": "B1",
+    "confidence": "HIGH FOR PERIOD REPORT",
+    "source_ids": [
+      "AZ-ATL-SRC-0003"
+    ],
+    "source_urls": [
+      "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven"
+    ],
+    "evidence_boundary": "This is strong period evidence for the Chandler Jaycees name and Winter Nationals use. Identity/site continuity with today's Chandler BMX remains open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0049",
+    "category": "Historical Tracks / Period Publication",
+    "public_claim": "The same June 1987 BMX Plus! report said that in 1986 the Winter Nationals found a new home at the ABA Scottsdale Jaycees Rodeo BMX Park in Scottsdale, Arizona.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD PUBLICATION",
+    "authority": "B1",
+    "confidence": "HIGH FOR PERIOD REPORT",
+    "source_ids": [
+      "AZ-ATL-SRC-0004"
+    ],
+    "source_urls": [
+      "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven"
+    ],
+    "evidence_boundary": "This proves the period-reported venue/name; exact street location and later lineage remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0050",
+    "category": "Media / Arizona Institutional Footprint",
+    "public_claim": "A February 2013 USA BMX announcement, datelined Gilbert, Arizona, announced Jason 'Shooter' McGuire as the new editor and photographer for the monthly PULL membership magazine.",
+    "evidence_character": "FACT — DATED FIRST-PARTY MEDIA ANNOUNCEMENT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0016"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2013-02-07/USA-BMX-Welcomes-new-Editor-for-PULL-Magazine?id=925"
+    ],
+    "evidence_boundary": "This supports the 2013 Gilbert dateline, role and publication relationship; it does not establish all PULL editorial operations as permanently Arizona-based.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0051",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified September 1, 1998 listed Desert Sky BMX in Glendale, Arizona in its National Bicycle League section, with track code 1103 and Tom and Sherri Lee as contacts.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves that the 1998 directory listed Desert Sky BMX in Glendale as an NBL track. It does not establish an exact street location, opening/closing dates, or later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible attributed directory claim + inspectable period source + explicit boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0052",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The same 1998 BMX track guide listed London Bridge BMX in Lake Havasu, Arizona in its American Bicycle Association section, with Frank Sabatano as the named contact.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves the period directory listing and city association. It does not prove that London Bridge BMX was the same track or organization as later Sara Park BMX Raceway or current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible attributed directory claim + inspectable period source + explicit boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0053",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Parker BMX in Parker, Arizona in its ABA section; a separate regional BMX directory also listed Parker BMX in Parker.",
+    "evidence_character": "RECONSTRUCTION — TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The two directories independently support the Parker BMX name and Parker, Arizona association. Exact location, operating span and organizational history remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0054",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Coppertown BMX in San Manuel, Arizona in its ABA section; a separate regional BMX directory also listed Coppertown BMX in San Manuel.",
+    "evidence_character": "RECONSTRUCTION — TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The directories support the Coppertown BMX name and San Manuel association. Exact track location, dates and later lineage remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0055",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed Thunder Raceway in Show Low, Arizona as an ABA BMX track and named Chris Tippie as the contact.",
+    "evidence_character": "FACT — CONTEMPORANEOUS PERIOD WEB DIRECTORY LISTING",
+    "authority": "B1",
+    "confidence": "HIGH FOR BMX DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0033"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html"
+    ],
+    "evidence_boundary": "This proves a 1998 BMX-directory listing named Thunder Raceway in Show Low. It must not be silently conflated with the present-day Deuce of Clubs Thunder Raceway motor-racing facility without location/identity evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible period-directory claim with explicit same-name conflict boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0056",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "A BMX track guide last modified in 1998 listed RAM BMX in Tucson, Arizona in its ABA section; a separate regional BMX directory also listed RAM BMX in Tucson.",
+    "evidence_character": "RECONSTRUCTION — TWO INDEPENDENT DIRECTORY LISTINGS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR PERIOD/REGIONAL LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "The directories support the RAM BMX name and Tucson association. Exact site, operating dates and relationship to later Tucson tracks remain open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two inspectable directory families + bounded wording",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0057",
+    "category": "Historical Tracks / Official Event",
+    "public_claim": "USA BMX's June 20, 2013 Olympic Day announcement listed Sara Park BMX Raceway in Lake Havasu City, Arizona for an Olympic Day race on June 27, 2013.",
+    "evidence_character": "FACT — DATED FIRST-PARTY TRACK/EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0035"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019"
+    ],
+    "evidence_boundary": "This proves the Sara Park BMX Raceway name, Lake Havasu City association and dated 2013 USA BMX event listing. It does not by itself establish the exact rename/continuity path to current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "First-party dated event listing + explicit lineage boundary",
+    "audit_date": "2026-08-20",
+    "supporting_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0058",
+    "category": "Historical Tracks / Municipal Record",
+    "public_claim": "On June 16, 2003, the City of Tucson approved a lease with Desert Sunset BMX, Inc. for operation of a dirt bicycle track at the Harrison Landfill; USA BMX later listed Desert Sunset BMX in Tucson for Olympic Day on June 23, 2013.",
+    "evidence_character": "RECONSTRUCTION — OFFICIAL MUNICIPAL RECORD + FIRST-PARTY BMX LISTING",
+    "authority": "A2 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0036",
+      "AZ-SRC-0035"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-clerks-office/minutes/documents/mn06-16-03.pdf",
+      "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019"
+    ],
+    "evidence_boundary": "These sources establish a 2003 Tucson lease for Desert Sunset BMX, Inc. at Harrison Landfill and a separate 2013 USA BMX track/event listing. They do not prove uninterrupted operation throughout the intervening decade or exact later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Two official source families + bounded synthesis",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0059",
+    "category": "Historical Tracks / Events",
+    "public_claim": "A 2003 Redline Cup schedule listed Manzanita BMX Raceway in Tucson as a May 31 qualifier host, and an official sanctioning-body event record preserves race results from Manzanita BMX Raceway in Tucson on April 2, 2008.",
+    "evidence_character": "RECONSTRUCTION — DATED EVENT SCHEDULE + OFFICIAL RESULT",
+    "authority": "B1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0037",
+      "AZ-SRC-0038"
+    ],
+    "source_urls": [
+      "https://canadiancyclist.com/dailynews.php?id=5801&title=2003+Redline+Cup+Schedule+%28BMX%29",
+      "https://www.bmxcanada.org/events/132426/results"
+    ],
+    "evidence_boundary": "The sources establish dated Manzanita BMX Raceway occurrences in Tucson in 2003 and 2008. They do not establish the track's full operating span, exact street location or relationship to current Tucson facilities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Dated independent event sources + explicit chronology boundary",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0060",
+    "category": "Historical Tracks / Specialist Directory",
+    "public_claim": "BMXtra's Arizona track directory lists Outer Limits BMX in Safford, Arizona and names Jeff and Tiffany Faunce as contacts.",
+    "evidence_character": "FACT — ATTRIBUTED SPECIALIST DIRECTORY LISTING",
+    "authority": "C1",
+    "confidence": "MEDIUM-HIGH FOR DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0039"
+    ],
+    "source_urls": [
+      "https://www.bmxtra.com/tracks/AZtracks.htm"
+    ],
+    "evidence_boundary": "This proves what the specialist directory lists. Until a period or first-party source is recovered, exact operating dates, sanction status, location and broader track history remain corroboration-open.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Inspectable specialist-directory claim with explicit corroboration limit",
+    "audit_date": "2026-08-20"
+  },
+  {
+    "claim_id": "AZ-PUB-0061",
+    "category": "Tracks / Municipal History",
+    "public_claim": "Show Low City Council minutes state that the Show Low BMX track was originally constructed in 2010, hosted weekly races and sanctioned events for several years, and stopped holding official races after 2017 when revised sanctioning standards left the track out of compliance.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0040"
+    ],
+    "source_urls": [
+      "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123"
+    ],
+    "evidence_boundary": "The 2021 municipal retrospective supports the 2010 construction date, prior sanctioned activity and post-2017 official-race gap. It does not establish uninterrupted operation in every intervening year or prove continuity with the historical Thunder Raceway name.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official municipal minutes + bounded wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0062",
+    "category": "Operators / Municipal Partnership",
+    "public_claim": "On January 5, 2021, the Show Low City Council unanimously approved an agreement with Show Low BMX, LLC for reconstruction and operation of the BMX track at Nikolaus Homestead Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ACTION",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0040"
+    ],
+    "source_urls": [
+      "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123"
+    ],
+    "evidence_boundary": "The minutes establish the council action, the operator entity and the Nikolaus Homestead Park project. They do not by themselves establish the exact completion date of reconstruction or lineage to Thunder Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official municipal minutes + recorded unanimous vote",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0063",
+    "category": "Events / State Series",
+    "public_claim": "An official sanctioning-body result record documents a State Championship Qualifier at Show Low BMX on July 18, 2026.",
+    "evidence_character": "FACT — OFFICIAL RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0041"
+    ],
+    "source_urls": [
+      "https://www.bmxcanada.org/events/639990/results"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Championship Qualifier occurrence at the current Show Low BMX address. It does not close the Thunder Raceway lineage question.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official sanctioning-body event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0064",
+    "category": "Tracks / Municipal Recognition",
+    "public_claim": "The City of Goodyear identifies Goodyear BMX Raceway at 15660 W Roeser Road beside Roscoe Dog Park and names Paul Moore as track operator and coach.",
+    "evidence_character": "FACT — FIRST-PARTY MUNICIPAL",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0042"
+    ],
+    "source_urls": [
+      "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/bmx-track"
+    ],
+    "evidence_boundary": "This is a current municipal facility/operator statement. It does not establish the track opening date or complete operator chronology.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Current municipal parks page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0065",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX results document the Gold Cup Championship Southwest at Goodyear BMX Raceway from October 13 through October 15, 2023.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0043"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/522306/results"
+    ],
+    "evidence_boundary": "The official result establishes the event, dates and Goodyear venue. It does not establish the track's opening date or full major-event chronology.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0066",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "USA BMX listed Yuma BMX for a Gold Cup Qualifier on January 31, 2026 and a State Championship Qualifier on February 1, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0044"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-yuma-bmx/events/634178"
+    ],
+    "evidence_boundary": "This establishes the two dated qualifier listings at Yuma BMX. It does not imply that the weekend was a national event or establish Yuma BMX's full operating history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event page and schedule",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0067",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX documents a State Championship Qualifier at Mingus Mountain BMX (Wheelhouse) in Prescott on June 27, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0045"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634177"
+    ],
+    "evidence_boundary": "This proves the dated State Championship Qualifier at the current Mingus Mountain BMX (Wheelhouse) location. It does not establish the track opening date or prior-name history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0008"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0068",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "Official USA BMX records document a State Championship Qualifier at Colorado River BMX on March 8, 2025 and a Gold Cup Qualifier there on March 9, 2025.",
+    "evidence_character": "RECONSTRUCTION — TWO OFFICIAL EVENT RECORDS",
+    "authority": "A1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0046",
+      "AZ-SRC-0047"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/577624/results",
+      "https://www.usabmx.com/events/577623"
+    ],
+    "evidence_boundary": "The two official records establish the consecutive qualifier dates and venue. They do not establish the track's opening date or complete event history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Two official USA BMX event records",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0069",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX documents a State Championship Qualifier at Colorado River BMX on March 7, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0048"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634173"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Championship Qualifier at Colorado River BMX. It does not establish uninterrupted operation between other documented event dates.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0070",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX listed the Gold Cup Final Southwest at Interstate BMX in Kingman for September 27 through September 29, 2024.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0049"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-interstate-bmx/events/539676"
+    ],
+    "evidence_boundary": "This establishes the 2024 Gold Cup Final Southwest occurrence at Interstate BMX. It does not prove exact organizational succession from High Desert 66 BMX despite the shared fairgrounds address.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event listing",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0010"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0071",
+    "category": "Tracks / Municipal History",
+    "public_claim": "Lake Havasu City Parks and Recreation Advisory Board minutes record a unanimous March 23, 2015 approval to develop a separate Strider track next to the regular BMX track at SARA Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ACTION",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0050"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0"
+    ],
+    "evidence_boundary": "The minutes prove the 2015 advisory-board approval and location next to the regular BMX track at SARA Park. They do not by themselves prove the exact completion/opening date or establish continuity among London Bridge BMX, Sara Park BMX Raceway and the current Lake Havasu City BMX identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal summary minutes with recorded unanimous action",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0072",
+    "category": "Tracks / Site Context",
+    "public_claim": "The same March 2015 Lake Havasu City minutes place the proposed Strider track inside the BMX track area covered by the SARA Park lease agreement and record a target of completing it in June 2015.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0050"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0"
+    ],
+    "evidence_boundary": "This supports the SARA Park lease-area context and the contemporaneous June 2015 completion target. A forecast is not proof of the actual completion date; the separate official track page is the source that states the Patrick Tinnell Balance Bike Track was built in 2015.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal minutes + bounded treatment of forecast language",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0073",
+    "category": "People / Site History",
+    "public_claim": "Lake Havasu City Parks and Recreation Advisory Board minutes state that pro BMX rider Corey Bohan visited Patrick Tinnell Memorial Sports Park in 2016 and that the visit was to be featured in Ride BMX Magazine.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0051"
+    ],
+    "source_urls": [
+      "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-6-27-16.pdf?sfvrsn=3c1d007c_1"
+    ],
+    "evidence_boundary": "The city minutes establish the visit and the planned magazine feature as reported to the Board. They do not establish the final contents or publication date of the Ride BMX feature without the magazine itself.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official municipal staff report",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0074",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX results document a State Race at Lake Havasu City BMX on March 23, 2025.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0052"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/583444/results"
+    ],
+    "evidence_boundary": "This proves the dated 2025 State Race at the current Lake Havasu City BMX address. It does not by itself establish historical continuity with prior Lake Havasu BMX identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0075",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "USA BMX records document a State Championship Qualifier at Lake Havasu City BMX on February 21, 2026 followed by a Gold Cup Qualifier on February 22, 2026.",
+    "evidence_character": "RECONSTRUCTION — TWO OFFICIAL EVENT RECORDS",
+    "authority": "A1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0053",
+      "AZ-SRC-0054"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634174/results",
+      "https://www.usabmx.com/events/634175"
+    ],
+    "evidence_boundary": "The two official records establish consecutive State and Gold Cup qualifier dates at the current Lake Havasu City BMX address. They do not establish the track opening date or close the London Bridge / Sara Park lineage questions.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Two official USA BMX event records",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0076",
+    "category": "Tracks / Current Contacts",
+    "public_claim": "USA BMX currently lists Andy Erickson and Lauren Erickson as contacts for Tucson BMX at 9245 E Irvington in Tucson.",
+    "evidence_character": "FACT — CURRENT SANCTIONING-BODY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0024"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-tucson-bmx"
+    ],
+    "evidence_boundary": "This is a current contact-directory statement and should not be expanded into a founder, owner or complete operator-history claim without separate evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Current USA BMX track page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0004"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0077",
+    "category": "Events / Race for Life",
+    "public_claim": "USA BMX results document a Race for Life at Tucson BMX on April 10, 2026.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0055"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/644956/results"
+    ],
+    "evidence_boundary": "This proves the dated Race for Life occurrence at the current Tucson BMX address. It does not establish a predecessor/successor relationship with RAM BMX, Desert Sunset BMX, Manzanita BMX Raceway or Sports Park BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0004"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0078",
+    "category": "Tracks / Current Contacts",
+    "public_claim": "USA BMX currently lists Julie and Kirk Vaughn as contacts for Sports Park BMX at 6901 N Casa Grande Highway in Tucson.",
+    "evidence_character": "FACT — CURRENT SANCTIONING-BODY DIRECTORY",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0018"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-sports-park-bmx"
+    ],
+    "evidence_boundary": "This is a current contact-directory statement and should not be expanded into a founder, owner or complete operator-history claim without separate evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Current USA BMX track page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0079",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX results document a Gold Cup Qualifier at Sports Park BMX in Tucson on March 15, 2025.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0056"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/577625/results"
+    ],
+    "evidence_boundary": "This proves the dated 2025 Gold Cup Qualifier at Sports Park BMX. It does not establish Sports Park BMX as the successor to any separate historical Tucson track identity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0080",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX results document a State Race at Sports Park BMX in Tucson on January 25, 2026.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0057"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634176/results"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Race at Sports Park BMX. It does not establish opening date, uninterrupted operation or continuity with other Tucson track names.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.27",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0003"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0081",
+    "category": "Historical Tracks / Federal Record",
+    "public_claim": "On March 10, 1998, the Federal Register identified Frank Sabatano as President of the London Bridge BMX Association and recorded his recommendation that bicycle helmets account for more serious accidents that could result from child bicycle racing or jumping.",
+    "evidence_character": "FACT — FEDERAL REGULATORY RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0058"
+    ],
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-1998-03-10/pdf/FR-1998-03-10.pdf"
+    ],
+    "evidence_boundary": "This independently corroborates the London Bridge BMX Association identity and Sabatano's leadership in a BMX-racing context. It does not establish the track's exact Lake Havasu City site, opening or closing dates, or continuity to Sara Park BMX Raceway or current Lake Havasu City BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Official Federal Register record + bounded identity/leadership claim",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0106"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0082",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "The March 2002 Cycling Utah ABA track directory listed Sara Park BMX in Lake Havasu City, Arizona.",
+    "evidence_character": "FACT — DATED REGIONAL BMX DIRECTORY",
+    "authority": "C1",
+    "confidence": "HIGH FOR DATED DIRECTORY LISTING",
+    "source_ids": [
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Together with the separate 1998 London Bridge BMX evidence, this narrows the historical name sequence in Lake Havasu City but does not prove that London Bridge BMX and Sara Park BMX were the same organization or physical track.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Dated regional ABA directory + explicit lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0083",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "Parker BMX is independently listed in Parker, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the Parker BMX name and Parker city association across the two dated snapshots. They do not prove uninterrupted operation, exact site, ownership, or the full operating span.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + bounded continuity wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0107"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0084",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "Coppertown BMX is independently listed in San Manuel, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the Coppertown BMX name and San Manuel association across the two dated snapshots. They do not prove uninterrupted operation, exact track location, ownership, or later lineage.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + bounded continuity wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0108"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0085",
+    "category": "Historical Tracks / Dated Directory",
+    "public_claim": "RAM BMX is independently listed in Tucson, Arizona in both the September 1998 BMX track guide and the March 2002 Cycling Utah ABA track directory.",
+    "evidence_character": "RECONSTRUCTION — TWO DATED DIRECTORY SNAPSHOTS",
+    "authority": "B1 + C1",
+    "confidence": "HIGH FOR REPEATED PERIOD LISTING",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0034"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.cyclingwest.com/html/bmxdir.html"
+    ],
+    "evidence_boundary": "Repeated listings support the RAM BMX name and Tucson association across the two dated snapshots. They do not prove uninterrupted operation, exact site, or a relationship to Sports Park BMX, Tucson BMX, Desert Sunset BMX, or Manzanita BMX Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.28",
+    "admission_basis": "Two dated directory snapshots + explicit Tucson-lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0110"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0086",
+    "category": "Historical Tracks / Local Retrospective",
+    "public_claim": "A September 6, 2017 RiverScene feature states that SARA Park BMX Raceway was built in the early 1990s, was rebuilt from the ground up about two years before the article while retaining its asphalt turns, and was located at 7260 Sara Park Lane in Lake Havasu City.",
+    "evidence_character": "ATTRIBUTED LOCAL RETROSPECTIVE — DATED FEATURE",
+    "authority": "C1-local-retrospective",
+    "confidence": "MEDIUM-HIGH",
+    "source_ids": [
+      "AZ-SRC-0059"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ],
+    "evidence_boundary": "This is a dated local retrospective, not a period construction record. It supports the reported early-1990s era, 2015-era rebuild and 2017 address, but it does not establish an exact opening year, original builder, London Bridge BMX identity, or uninterrupted organizational continuity.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Dated local retrospective + explicit limits on construction date and lineage",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0087",
+    "category": "Historical Tracks / Operators",
+    "public_claim": "A June 17, 2018 RiverScene feature reported that Harry and Patty Leary were the new SARA Park BMX track operators and had operated the track since April 2018 after the prior operators stepped aside.",
+    "evidence_character": "FACT — CONTEMPORARY LOCAL REPORT",
+    "authority": "C1-local-contemporary",
+    "confidence": "HIGH FOR REPORTED 2018 OPERATOR TRANSITION",
+    "source_ids": [
+      "AZ-SRC-0060"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/meet-the-new-track-operators-at-sara-park-bmx/"
+    ],
+    "evidence_boundary": "This supports the reported April 2018 operator handoff and SARA Park BMX operating identity at that time. It does not prove ownership, nonprofit legal continuity, the earlier London Bridge-to-SARA transition, or continuity to every later operator.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Dated contemporary local report + bounded operator claim",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0088",
+    "category": "Historical Tracks / Personal Truth",
+    "public_claim": "In a July 2010 condolence posted to Christopher Moon’s obituary, Bob Duncklee and Irma Duncklee-Woodward recalled their children racing BMX with Chris at “RAM BMX in Manzanita Park.”",
+    "evidence_character": "ATTRIBUTED PERSONAL TRUTH — RETROSPECTIVE WITNESS",
+    "authority": "D1-attributed-witness",
+    "confidence": "MEDIUM",
+    "source_ids": [
+      "AZ-SRC-0061"
+    ],
+    "source_urls": [
+      "https://www.legacy.com/us/obituaries/tucson/name/christopher-moon-obituary?id=22350326"
+    ],
+    "evidence_boundary": "Publish only as an attributed retrospective memory. It materially supports Manzanita Park as a RAM BMX site context, but it does not establish the exact track footprint, operating dates, sanction status, or continuity to Manzanita BMX Raceway / Roland Thomas Widman BMX Park.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Named attributed witness memory + explicit personal-truth boundary",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0089",
+    "category": "Tracks / Municipal Site Context",
+    "public_claim": "Pima County currently identifies Winston Reynolds–Manzanita Park at 5200 S Westover Ave in Tucson and lists the Roland Thomas Widman BMX Park among its facilities.",
+    "evidence_character": "FACT — CURRENT MUNICIPAL FACILITY RECORD",
+    "authority": "A2",
+    "confidence": "HIGH FOR CURRENT PARK / BMX FACILITY CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0062"
+    ],
+    "source_urls": [
+      "https://www.pima.gov/1422/Winston-Reynolds---Manzanita-Park"
+    ],
+    "evidence_boundary": "This establishes the current official Manzanita Park address and a current BMX facility in the park. It does not prove that historical RAM BMX occupied the same exact footprint or that RAM BMX and the present BMX facility are one continuous organization.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Current first-party county facility record + historical-continuity firewall",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0090",
+    "category": "Historical Tracks / Conflict Control",
+    "public_claim": "A 2013 IMCA points document separately lists “Thunder Raceway — Show Low, AZ” in an auto-racing competition context, while the 1998 BMX directory independently lists Thunder Raceway in Show Low as an ABA BMX track.",
+    "evidence_character": "CONFLICT CONTROL — CROSS-SPORT SAME-NAME EVIDENCE",
+    "authority": "B1 + B2",
+    "confidence": "HIGH FOR NAME-CONFLICT CONTROL",
+    "source_ids": [
+      "AZ-SRC-0033",
+      "AZ-SRC-0063"
+    ],
+    "source_urls": [
+      "https://www.oocities.org/geobmx540/track.html",
+      "https://www.imca.com/wp-content/uploads/2013/10/npf_tracks.pdf"
+    ],
+    "evidence_boundary": "The two sources prove that the Thunder Raceway name was used in Show Low in BMX and later motor-racing contexts. They do not prove whether the facilities were geographically identical, related, renamed, or completely separate. No modern motor-racing coordinate may be assigned to the historical BMX record from this evidence.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.29",
+    "admission_basis": "Independent sport-specific sources used only to control same-name ambiguity",
+    "audit_date": "2026-08-21"
+  },
+  {
+    "claim_id": "AZ-PUB-0091",
+    "category": "Historical Tracks / Site History",
+    "public_claim": "A September 6, 2017 RiverScene feature locates SARA Park BMX Raceway at 7260 Sara Park Lane and reports that the track had been rebuilt from the ground up about two years earlier while its asphalt turns remained in place.",
+    "evidence_character": "ATTRIBUTED LOCAL RETROSPECTIVE — PHYSICAL SITE / REBUILD",
+    "authority": "C1-local-retrospective",
+    "confidence": "MEDIUM-HIGH FOR PHYSICAL SITE CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0059"
+    ],
+    "source_urls": [
+      "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/"
+    ],
+    "evidence_boundary": "This supports a physical SARA Park BMX track at the reported address and continuity of that physical track through the reported circa-2015 rebuild. It does not prove London Bridge BMX organizational identity, legal continuity, an exact early-1990s opening date, or uninterrupted sanctioning history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Dated local retrospective with explicit site/rebuild language and lineage boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0092",
+    "category": "Tracks / Current Site Cross-check",
+    "public_claim": "USA BMX currently lists Lake Havasu City BMX at 7260 McCulloch Blvd S #B in Lake Havasu City, providing an official current-site address cross-check for the SARA Park BMX property.",
+    "evidence_character": "FACT — OFFICIAL CURRENT TRACK ADDRESS",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT SITE ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0064"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/contact"
+    ],
+    "evidence_boundary": "This proves the current Lake Havasu City BMX address. Used with the separate 2017 SARA Park site/rebuild evidence, it supports registering the historical SARA Park physical site at the already-governed current track point. It does not prove London Bridge BMX organizational continuity or every historical identity transition.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Official current track address used only as a physical-site cross-check",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0007",
+      "AZ-TRK-0111"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0093",
+    "category": "Historical Tracks / Municipal Site Record",
+    "public_claim": "Pima County’s May 9, 2007 Southwest Infrastructure Plan describes Winston Reynolds–Manzanita Pool District Park as including a BMX track and says future park plans included a restroom and a ramada at the BMX track.",
+    "evidence_character": "FACT — OFFICIAL COUNTY INFRASTRUCTURE RECORD",
+    "authority": "A2",
+    "confidence": "HIGH FOR PARK-LEVEL BMX SITE",
+    "source_ids": [
+      "AZ-SRC-0065"
+    ],
+    "source_urls": [
+      "https://content.civicplus.com/api/assets/ed65a967-f65d-434d-9ef1-8de905aaa983"
+    ],
+    "evidence_boundary": "This establishes a BMX track inside Winston Reynolds–Manzanita Park by May 2007. It does not identify the exact track-center coordinate, prove uninterrupted operation, or by itself prove that every RAM BMX / Manzanita BMX name refers to the same organization.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Official county infrastructure plan + bounded park-level site claim",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0094",
+    "category": "Historical Tracks / Dated Site Event",
+    "public_claim": "A June 5, 2011 Tucson family-events notice advertised a special BMX race honoring Corben Sharrah at “Manzanita BMX Raceway, 5200 S. Westover Ave.”",
+    "evidence_character": "FACT — DATED LOCAL EVENT / ADDRESS RECORD",
+    "authority": "C1-local-contemporary",
+    "confidence": "HIGH FOR DATED NAME + ADDRESS",
+    "source_ids": [
+      "AZ-SRC-0066"
+    ],
+    "source_urls": [
+      "https://arizonafamilies.blogspot.com/2011_05_29_archive.html"
+    ],
+    "evidence_boundary": "This establishes the Manzanita BMX Raceway name at the Winston Reynolds–Manzanita Park street address for the dated 2011 event. It does not establish the exact historical track-center coordinate, complete operating span, or continuity with RAM BMX or current Tucson-area track identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Dated local event notice explicitly naming track and full street address",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0095",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The April 1984 issue of Bikes & Dirt lists “Tucson, Manzanita Park BMX” with Louie Stockmeyer as the contact.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR 1984 DIRECTORY OCCURRENCE",
+    "source_ids": [
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes a Manzanita Park BMX identity in Tucson in a 1984 period directory. It does not by itself prove uninterrupted continuity to the 2003/2008/2011 Manzanita BMX Raceway records, the exact 1984 footprint, or a relationship to RAM BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.30",
+    "admission_basis": "Period BMX publication directory listing + explicit continuity boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0113"
+    ]
+  }
+]

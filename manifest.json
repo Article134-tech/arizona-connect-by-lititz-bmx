@@ -1,6 +1,6 @@
 {
-  "version": "0.16",
-  "claims": 60,
+  "version": "0.55-audited-publication-candidate",
+  "claims": 184,
   "claim_gate": "PASS",
   "app_order": [
     "Arizona Research Register",
@@ -10,11 +10,11 @@
   "hall_of_fame_url": "https://www.azbmxhof.org/",
   "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
   "atlas": {
-    "checkpoint": "A4 location-state registration",
-    "records": 25,
+    "checkpoint": "v0.55 Audited Publication Candidate",
+    "records": 42,
     "current_snapshot": 11,
-    "historical_verified": 4,
-    "recovery_leads": 10,
+    "historical_verified": 31,
+    "recovery_leads": 0,
     "full_profiles_built": [
       "AZ-TRK-0001",
       "AZ-TRK-0002",
@@ -32,11 +32,11 @@
       "AZ-TRK-0103",
       "AZ-TRK-0104"
     ],
-    "map_status": "A4 location registration NEXT; no fabricated coordinates",
-    "verified_profiles_built": 15,
+    "map_status": "18 governed points / 24 intentionally unpinned; 41/42 inherited v0.47 location objects preserved exactly; AZ-TRK-0102 is the sole location-state change and reuses the unchanged current Chandler coordinate at SITE_POINT_APPROXIMATE historical precision",
+    "verified_profiles_built": 42,
     "current_profiles": 11,
-    "historical_profiles": 4,
-    "recovery_only_records": 10,
+    "historical_profiles": 31,
+    "recovery_only_records": 0,
     "a4": {
       "records_evaluated": 25,
       "exact_current_track_points": 10,
@@ -59,34 +59,54 @@
       "status": "PASS — media relationships registered; no access-to-permission inference"
     },
     "timeline": {
-      "published_milestones": 33,
-      "open_questions": 5,
+      "published_milestones": 90,
+      "open_questions": 4,
       "span": "1977-2026",
       "interactive": true,
       "status": "PASS — evidence-linked chronology; open questions separated",
-      "data_version": "1.1"
+      "data_version": "v0.55-audited-publication-1"
     },
     "phase5_events": {
-      "event_records": 11,
+      "event_records": 28,
       "normalization": "one event/series occurrence per record",
       "status": "ACTIVE / INITIAL REGISTER BUILT"
     },
     "phase7_relationships": {
-      "entities": 25,
-      "edges": 15,
+      "entities": 29,
+      "edges": 17,
       "status": "PASS — public edges are claim-bound"
     },
     "a6_candidate": {
       "status": "PRODUCT / CONTENT / BRAND HARDENING PASS — LIVE DEPLOYMENT SMOKE TEST PENDING",
       "historical_census_complete": false,
       "deployment_review_pending": true
+    },
+    "current_release": {
+      "name": "v0.55 Audited Publication Candidate",
+      "version": "0.55-audited-publication-candidate",
+      "public_claims": 184,
+      "governed_source_ids": 126,
+      "track_records": 42,
+      "current_tracks": 11,
+      "historical_tracks": 31,
+      "corroboration_open_leads": 0,
+      "timeline_milestones": 90,
+      "timeline_open_questions": 4,
+      "event_records": 28,
+      "relationship_edges": 17,
+      "media_routes": 19,
+      "mapped_locations": 18,
+      "intentionally_unpinned": 24,
+      "geographic_absolute": "41/42 V0.47 LOCATION OBJECTS UNCHANGED; AZ-TRK-0102 SOLE AUTHORIZED LOCATION PROMOTION TO SITE_POINT_APPROXIMATE AT THE UNCHANGED AZ-TRK-0001 CHANDLER COORDINATE; CURRENT CHANDLER LOCATION OBJECT, AUTHORITATIVE ARIZONA SVG AND MASK UNCHANGED",
+      "status": "AUDITED PUBLICATION CANDIDATE — RECOVERY PROVENANCE PRESERVED IN CONTROL FILES"
     }
   },
   "research_register": {
     "baseline_a": 50,
     "expansion_51_60": 10,
-    "public_claims": 60,
-    "expansion_gate": "PASS"
+    "public_claims": 184,
+    "expansion_gate": "PASS",
+    "current_source_ids": 126
   },
   "release_hardening": {
     "official_logo_localized": true,

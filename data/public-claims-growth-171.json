@@ -1,0 +1,26 @@
+[
+  {
+    "claim_id": "AZ-PUB-0171",
+    "category": "Historical Tracks / Period Directory Identity",
+    "public_claim": "The March 1984 Bikes & Dirt Arizona track directory lists “Phoenix, Roadrunner Raceway” with published telephone numbers 602-867-2918 and 602-581-1436; the May 1985 BMX Action Arizona track directory again lists “Phoenix, Roadrunner Raceway,” this time with Michael J. Guidice and published telephone number 602-678-0960.",
+    "evidence_character": "FACT — REPEATED PERIOD BMX DIRECTORY IDENTITY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 AND MAY 1985 PUBLISHED PHOENIX IDENTITY; SITE OPEN",
+    "source_ids": [
+      "AZ-SRC-0072",
+      "AZ-SRC-0075"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+      "https://oldschoolmags.com/mags/BMXA_8505.pdf"
+    ],
+    "evidence_boundary": "This establishes Roadrunner Raceway as a separately named Phoenix historical BMX identity in March 1984 and again in May 1985. The changed published telephone numbers and the May 1985 Michael J. Guidice contact are preserved as period-directory facts. It does not establish the exact physical site, ownership or operator status, full opening or closing span, uninterrupted activity, or formal continuity with the May 1982 “Road Runner in Phoenix” wording, Road Runner Bike Center, Road Runner BMX, Black Mountain BMX, Heritage Park BMX, Desert Edge BMX, or any other Phoenix-area track. No coordinate is admitted.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.47 roadrunner raceway census recovery 1",
+    "admission_basis": "Two direct period-directory occurrences under the exact Roadrunner Raceway name and Phoenix city heading clear historical census admission while exact site, operator role and lineage remain open.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0131"
+    ]
+  }
+]

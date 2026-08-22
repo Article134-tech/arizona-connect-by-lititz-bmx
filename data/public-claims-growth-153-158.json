@@ -1,0 +1,130 @@
+[
+  {
+    "claim_id": "AZ-PUB-0153",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson’s 1977 Class C construction-plan catalog says City building records in that class, including park buildings and recreation centers, are generally no longer kept at Maps and Records and instead are held by the City Architect’s Office at the Thomas O. Price Service Center.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ARCHIVAL CUSTODY RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1977 CLASS-C CUSTODY / TRANSFER INSTRUCTION",
+    "source_ids": [
+      "AZ-SRC-0097"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans?direction=asc&page=33&sort=sort"
+    ],
+    "evidence_boundary": "This establishes the City’s stated custody route for 1977-era park/building plans. It does not establish that a specific Randolph Park BMX drawing exists at the City Architect’s Office, identify a course footprint, or justify moving the governed Reid Park point.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "Official City catalog supplies the archival-custody path needed to pursue missing 1977-era park-building records without treating the transfer notice as course evidence.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0154",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson field-book index preserves multiple Randolph Park survey records in Township 14 South, Range 14 East, Section 16, including book 0174 “TOPOGRAPHY AND LAYOUT” and book 0677 pages 35–79 “TOPOG, X-SECTIONS, BM CIRCUITS.”",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL SURVEY INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR INDEXED FIELD-BOOK IDENTITIES, DESCRIPTIONS AND SECTION",
+    "source_ids": [
+      "AZ-SRC-0098"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books?direction=asc&page=115&sort=book"
+    ],
+    "evidence_boundary": "The field-book index identifies survey/topography records for Randolph Park but does not label BMX, expose a dated 1977 course plan, or establish where the dirt course sat inside the park. The books are recovery targets, not an exact-site result.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "Official City survey index narrows the recoverable plan/survey corpus for the same section containing Randolph Park while preserving the exact-course question.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0155",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "University of Arizona Libraries lists dedicated Tucson aerial-photography sets for 1974, 1978, 1979–1980 and 1980, with many historical aerial sets held in Special Collections for building use.",
+    "evidence_character": "FACT — UNIVERSITY ARCHIVAL HOLDINGS GUIDE",
+    "authority": "A1",
+    "confidence": "HIGH FOR LISTED TUCSON AERIAL HOLDINGS / ACCESS CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0099"
+    ],
+    "source_urls": [
+      "https://lib.arizona.edu/find/maps/aerial"
+    ],
+    "evidence_boundary": "This establishes the existence of near-period Tucson aerial holdings that can be used to test the Reid/Randolph bandshell-area hypothesis. No aerial from those sets has been admitted here as course-level evidence, so no BMX footprint or coordinate promotion follows.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "University archival guide identifies the correct near-period aerial collections for the unresolved Reid/Randolph registration problem.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0156",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "Pima County Regional Flood Control District’s grid-based historical aerial archive provides selected eastern Pima County imagery from approximately 1979 through 2002 and supports lookup by township, range and section.",
+    "evidence_character": "FACT — OFFICIAL COUNTY HISTORICAL AERIAL INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR ARCHIVE COVERAGE RANGE AND SECTION-LOOKUP CAPABILITY",
+    "source_ids": [
+      "AZ-SRC-0100"
+    ],
+    "source_urls": [
+      "https://gis.pima.gov/maps/RFCD/aerialsgrid/"
+    ],
+    "evidence_boundary": "This is an aerial-recovery route, not a recovered BMX image. Its stated coverage begins approximately two years after the attributed 1977 Randolph Park BMX caption, and no section image is used here to identify a course footprint or move the governed point.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "Official county aerial index adds a second geospatial recovery route that can be registered by the same township/range/section framework as the City field books.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0157",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "The Town of Chino Valley’s adopted 2014 General Plan states that the Town acquired the Old Home Manor property, comprising more than 800 acres, in 1979.",
+    "evidence_character": "FACT — ADOPTED MUNICIPAL GENERAL PLAN",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1979 MUNICIPAL ACQUISITION CHRONOLOGY",
+    "source_ids": [
+      "AZ-SRC-0101"
+    ],
+    "source_urls": [
+      "https://www.chinovalleyaz.gov/ArchiveCenter/ViewFile/Item/65"
+    ],
+    "evidence_boundary": "The 1979 acquisition establishes municipal property chronology for Old Home Manor. It does not show that a BMX track existed there in 1979, connect the property to the 1984 Chino Valley BMX directory identity, or prove succession from the 2002–2003 Mile High BMX record at Memory Park.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "Adopted Town plan supplies a dated ownership/context anchor for the later 2009 Old Home Manor BMX-site witness without back-projecting BMX activity to the acquisition date.",
+    "audit_date": "2026-08-21",
+    "track_ids": []
+  },
+  {
+    "claim_id": "AZ-PUB-0158",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "The Town of Chino Valley’s Old Home Manor Integrated Water Master Plan places the development area east of State Route 89 and north of Perkinsville Road and publishes an approximate property centroid of 34°46′58.4″ N, 112°25′2.2″ W.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL SITE-PLANNING DOCUMENT",
+    "authority": "A1",
+    "confidence": "HIGH FOR OLD HOME MANOR PROPERTY EXTENT / PUBLISHED APPROXIMATE CENTROID",
+    "source_ids": [
+      "AZ-SRC-0102"
+    ],
+    "source_urls": [
+      "https://www.chinovalleyaz.gov/DocumentCenter/View/9310/Integrated-Water-Master-Plan-OHM"
+    ],
+    "evidence_boundary": "The published centroid and property bounds describe Old Home Manor as a whole, not the unnamed BMX track documented there in the separate 2009 study. They do not identify the BMX course center, create a new track identity, or justify a geographic point or lineage claim.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.38",
+    "admission_basis": "Municipal master-plan geometry constrains the later Old Home Manor recovery area while remaining below the BMX-specific point threshold.",
+    "audit_date": "2026-08-21",
+    "track_ids": []
+  }
+]

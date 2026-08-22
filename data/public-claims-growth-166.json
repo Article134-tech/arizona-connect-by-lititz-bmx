@@ -1,0 +1,24 @@
+[
+  {
+    "claim_id": "AZ-PUB-0166",
+    "category": "Historical Tracks / Family Context",
+    "public_claim": "A reproduced 1997 obituary for Diane Sandberg-Laipple says she moved with her parents Ray and Ruby Sandberg to Prescott Valley in 1976 to open a family restaurant, continued helping at Sandberg’s Family Restaurant, and identifies Scott Sandberg of Prescott Valley as her brother.",
+    "evidence_character": "FACT — REPRODUCED OBITUARY / FAMILY RELATIONSHIP RECORD",
+    "authority": "C2",
+    "confidence": "HIGH FOR REPORTED FAMILY RELATIONSHIP; MEDIUM FOR MILE-HI CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0110"
+    ],
+    "source_urls": [
+      "https://fergusotters66.blogspot.com/2007/01/"
+    ],
+    "evidence_boundary": "This independently documents a Scott Sandberg of Prescott Valley as a member of the Sandberg family associated with Sandberg’s Family Restaurant. It does not establish that this Scott Sandberg is the same person named as the 1984 Mile-Hi BMX contact, establish his ownership or employment at the restaurant, connect him to Scott’s Bike Shop, connect either business to Mile-Hi BMX, reverse 602-772-8050, or locate the track or Summer Camp footprint.",
+    "status": "PASS",
+    "growth_release": "v0.42 mile-hi family context recovery 2",
+    "admission_basis": "The reproduced obituary explicitly identifies Ray and Ruby Sandberg as Diane Sandberg-Laipple’s parents, describes the family’s 1976 move to Prescott Valley to open a family restaurant, names Sandberg’s Family Restaurant, and identifies Scott Sandberg of Prescott Valley as her brother. No identity bridge to the 1984 BMX contact is inferred.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ]
+  }
+]

@@ -23,3 +23,6 @@
 .map-key{right:0;bottom:0;z-index:8}
 .map-caption strong{color:#c799f4}
 @media(max-width:760px){.geo-frame{max-width:96%;height:auto;width:82%;aspect-ratio:892.95142/1098.5552}}
+
+/* v0.30: historical site-approximate pins remain fully visible in historical layer */
+.historical-on .pin.approx.historical-pin{opacity:1}

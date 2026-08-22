@@ -1,0 +1,224 @@
+[
+  {
+    "claim_id": "AZ-PUB-0061",
+    "category": "Tracks / Municipal History",
+    "public_claim": "Show Low City Council minutes state that the Show Low BMX track was originally constructed in 2010, hosted weekly races and sanctioned events for several years, and stopped holding official races after 2017 when revised sanctioning standards left the track out of compliance.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0040"
+    ],
+    "source_urls": [
+      "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123"
+    ],
+    "evidence_boundary": "The 2021 municipal retrospective supports the 2010 construction date, prior sanctioned activity and post-2017 official-race gap. It does not establish uninterrupted operation in every intervening year or prove continuity with the historical Thunder Raceway name.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official municipal minutes + bounded wording",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0062",
+    "category": "Operators / Municipal Partnership",
+    "public_claim": "On January 5, 2021, the Show Low City Council unanimously approved an agreement with Show Low BMX, LLC for reconstruction and operation of the BMX track at Nikolaus Homestead Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ACTION",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0040"
+    ],
+    "source_urls": [
+      "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123"
+    ],
+    "evidence_boundary": "The minutes establish the council action, the operator entity and the Nikolaus Homestead Park project. They do not by themselves establish the exact completion date of reconstruction or lineage to Thunder Raceway.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official municipal minutes + recorded unanimous vote",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0063",
+    "category": "Events / State Series",
+    "public_claim": "An official sanctioning-body result record documents a State Championship Qualifier at Show Low BMX on July 18, 2026.",
+    "evidence_character": "FACT — OFFICIAL RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0041"
+    ],
+    "source_urls": [
+      "https://www.bmxcanada.org/events/639990/results"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Championship Qualifier occurrence at the current Show Low BMX address. It does not close the Thunder Raceway lineage question.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official sanctioning-body event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0011"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0064",
+    "category": "Tracks / Municipal Recognition",
+    "public_claim": "The City of Goodyear identifies Goodyear BMX Raceway at 15660 W Roeser Road beside Roscoe Dog Park and names Paul Moore as track operator and coach.",
+    "evidence_character": "FACT — FIRST-PARTY MUNICIPAL",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0042"
+    ],
+    "source_urls": [
+      "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/bmx-track"
+    ],
+    "evidence_boundary": "This is a current municipal facility/operator statement. It does not establish the track opening date or complete operator chronology.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Current municipal parks page",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0065",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX results document the Gold Cup Championship Southwest at Goodyear BMX Raceway from October 13 through October 15, 2023.",
+    "evidence_character": "FACT — OFFICIAL EVENT RESULT",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0043"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/522306/results"
+    ],
+    "evidence_boundary": "The official result establishes the event, dates and Goodyear venue. It does not establish the track's opening date or full major-event chronology.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event/result record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0005"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0066",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "USA BMX listed Yuma BMX for a Gold Cup Qualifier on January 31, 2026 and a State Championship Qualifier on February 1, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0044"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-yuma-bmx/events/634178"
+    ],
+    "evidence_boundary": "This establishes the two dated qualifier listings at Yuma BMX. It does not imply that the weekend was a national event or establish Yuma BMX's full operating history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event page and schedule",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0067",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX documents a State Championship Qualifier at Mingus Mountain BMX (Wheelhouse) in Prescott on June 27, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0045"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634177"
+    ],
+    "evidence_boundary": "This proves the dated State Championship Qualifier at the current Mingus Mountain BMX (Wheelhouse) location. It does not establish the track opening date or prior-name history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0008"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0068",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "Official USA BMX records document a State Championship Qualifier at Colorado River BMX on March 8, 2025 and a Gold Cup Qualifier there on March 9, 2025.",
+    "evidence_character": "RECONSTRUCTION — TWO OFFICIAL EVENT RECORDS",
+    "authority": "A1 + A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0046",
+      "AZ-SRC-0047"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/577624/results",
+      "https://www.usabmx.com/events/577623"
+    ],
+    "evidence_boundary": "The two official records establish the consecutive qualifier dates and venue. They do not establish the track's opening date or complete event history.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Two official USA BMX event records",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0069",
+    "category": "Events / State Series",
+    "public_claim": "USA BMX documents a State Championship Qualifier at Colorado River BMX on March 7, 2026.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT RECORD",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0048"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/634173"
+    ],
+    "evidence_boundary": "This proves the dated 2026 State Championship Qualifier at Colorado River BMX. It does not establish uninterrupted operation between other documented event dates.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event record",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ]
+  },
+  {
+    "claim_id": "AZ-PUB-0070",
+    "category": "Events / Gold Cup",
+    "public_claim": "USA BMX listed the Gold Cup Final Southwest at Interstate BMX in Kingman for September 27 through September 29, 2024.",
+    "evidence_character": "FACT — FIRST-PARTY EVENT LISTING",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0049"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/tracks/az-interstate-bmx/events/539676"
+    ],
+    "evidence_boundary": "This establishes the 2024 Gold Cup Final Southwest occurrence at Interstate BMX. It does not prove exact organizational succession from High Desert 66 BMX despite the shared fairgrounds address.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.26",
+    "admission_basis": "Official USA BMX event listing",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0010"
+    ]
+  }
+]
