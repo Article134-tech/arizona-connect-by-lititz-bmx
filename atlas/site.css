@@ -83,3 +83,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .candidate-notice{width:min(1220px,calc(100% - 34px));margin:18px auto 0;border:1px solid #5c4c3e;border-radius:14px;background:#15120f;padding:12px 14px;color:#c7bdb5;font-size:.78rem}
 .candidate-notice strong{color:#ffb285}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important;animation-iteration-count:1!important}}
+
+/* v0.55.5 whole-tile navigation for single-primary Atlas cards */
+.event-card[role="link"],.media-card[role="link"]{cursor:pointer}
+.event-card[role="link"]:focus-visible,.media-card[role="link"]:focus-visible{outline:3px solid var(--gold2,#e0a765);outline-offset:4px;border-color:#8755bd}

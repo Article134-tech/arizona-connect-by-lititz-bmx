@@ -26,3 +26,15 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .candidate-notice{width:min(1220px,calc(100% - 34px));margin:18px auto 0;border:1px solid #5c4c3e;border-radius:14px;background:#15120f;padding:12px 14px;color:#c7bdb5;font-size:.78rem}
 .candidate-notice strong{color:#ffb285}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important;animation-iteration-count:1!important}}
+
+/* v0.55.5 whole-tile interaction + claim-register pagination */
+.claim-card[role="link"],.category-card[role="link"]{cursor:pointer}
+.claim-card[role="link"]:focus-visible,.category-card[role="link"]:focus-visible{outline:3px solid var(--orange2);outline-offset:4px;border-color:var(--orange2)}
+.pagination-wrap{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:18px 0}
+.pagination-status{margin:0;color:var(--muted);font-size:.86rem;font-weight:700}
+.pagination-controls{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.pagination-controls button{min-width:38px;min-height:38px;padding:7px 10px;border:1px solid var(--line);border-radius:9px;background:var(--surface2);color:var(--text);font:inherit;font-size:.78rem;font-weight:800;cursor:pointer}
+.pagination-controls button:hover,.pagination-controls button:focus-visible{border-color:var(--orange2);outline:none}
+.pagination-controls button[aria-current="page"]{background:var(--orange);border-color:var(--orange);color:#090b0e}
+.pagination-controls button:disabled{opacity:.38;cursor:not-allowed}
+@media(max-width:620px){.pagination-wrap{align-items:flex-start;flex-direction:column}.pagination-controls{width:100%}.pagination-controls button{flex:1 0 38px}}

@@ -40,3 +40,22 @@ function apply(){
 }
 search?.addEventListener('input',apply);filter?.addEventListener('change',apply);locationFilter?.addEventListener('change',apply);loadMore?.addEventListener('click',()=>{expanded=!expanded;apply();if(!expanded)document.getElementById('explore')?.scrollIntoView({behavior:'smooth'})});
 apply();
+
+function activateTrackCards(){
+  const interactive='a,button,input,select,textarea,label,summary';
+  document.querySelectorAll('[data-track-card]').forEach(card=>{
+    const link=card.querySelector('.card-link');
+    if(!link)return;
+    card.setAttribute('role','link');
+    if(!card.hasAttribute('tabindex'))card.tabIndex=0;
+    card.dataset.primaryHref=link.getAttribute('href');
+    const go=()=>{window.location.href=link.href};
+    card.addEventListener('click',event=>{if(event.target.closest(interactive))return;go()});
+    card.addEventListener('keydown',event=>{
+      if((event.key==='Enter'||event.key===' ')&&!event.target.closest(interactive)){
+        event.preventDefault();go();
+      }
+    });
+  });
+}
+activateTrackCards();
