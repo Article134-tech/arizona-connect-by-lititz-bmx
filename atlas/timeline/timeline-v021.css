@@ -10,6 +10,6 @@
 .feature-title-link,.inspector-title-link{color:#fff;text-decoration:none}.feature-title-link:hover,.feature-title-link:focus,.inspector-title-link:hover,.inspector-title-link:focus{color:var(--purple2);text-decoration:underline;text-underline-offset:5px}
 .chrono-card{cursor:pointer}.chrono-count-control{border:0;background:transparent;padding:0;color:#8f897f;font:inherit;font-size:9px;text-transform:uppercase;letter-spacing:.06em;cursor:pointer;text-decoration:none}.chrono-count-control:hover,.chrono-count-control:focus{color:var(--purple2);text-decoration:underline;text-underline-offset:4px;outline:none}
 
-/* v0.55.5 whole-tile primary drilldown behavior */
+/* v0.55.6 whole-tile primary drilldown behavior */
 .chrono-card[role="link"],.timeline-feature[role="link"],.chronology-inspector[role="link"]{cursor:pointer}
 .chrono-card[role="link"]:focus-visible,.timeline-feature[role="link"]:focus-visible,.chronology-inspector[role="link"]:focus-visible{outline:3px solid var(--purple2);outline-offset:4px;border-color:#8755bd}

@@ -1,0 +1,257 @@
+[
+  {
+    "timeline_id": "AZ-TL-0077",
+    "sort": "1963-01-01",
+    "display_date": "1963",
+    "date_precision": "YEAR / MUNICIPAL ENGINEERING PLAN",
+    "title": "Randolph Park master-plan geometry is preserved",
+    "type": "Sites / Municipal Engineering",
+    "city": "Tucson",
+    "status": "A1 MUNICIPAL PLAN VERIFIED",
+    "summary": "City plan L-63-006 preserves the 1963 Randolph Park master-plan and drainage geometry. It predates both the City’s later band-stage chronology and the recovered BMX evidence, so it serves only as an earlier spatial-control layer.",
+    "claim_ids": [
+      "AZ-PUB-0147"
+    ],
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0078",
+    "sort": "1966-01-01",
+    "display_date": "1966",
+    "date_precision": "YEAR / MUNICIPAL CATALOG RECORD",
+    "title": "City records a Band Enclosure at Randolph Park",
+    "type": "Sites / Municipal Engineering",
+    "city": "Tucson",
+    "status": "A1 CATALOG RECORD VERIFIED",
+    "summary": "City construction-plan metadata identifies C-66-003 as “Band Enclosure @ Randolph Park.” The drawing is not scanned in the archive, so only the cataloged title and date are admitted.",
+    "claim_ids": [
+      "AZ-PUB-0148"
+    ],
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0068",
+    "sort": "1978-01-01",
+    "display_date": "1978",
+    "date_precision": "YEAR / LOCAL-HISTORY RECORD",
+    "title": "Randolph Park is renamed Reid Park",
+    "type": "Tracks / Site Context",
+    "city": "Tucson",
+    "status": "A2 LOCAL GOVERNMENT LIBRARY",
+    "summary": "Pima County Public Library’s local-history file says the park now known as Reid Park was originally Randolph Park and received the Reid Park name in 1978. This is park-name context, not proof of a BMX-track rename or exact footprint.",
+    "claim_ids": [
+      "AZ-PUB-0128"
+    ],
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0029",
+    "sort": "1979-01-01",
+    "display_date": "1979–1985",
+    "date_precision": "RANGE / RETROSPECTIVE",
+    "title": "Debbi Kalsow's documented competition span",
+    "type": "People",
+    "city": "Arizona",
+    "status": "OFFICIAL RETROSPECTIVE",
+    "summary": "Kalsow's 2018 Hall of Fame profile says she competed from 1979 through 1985, a span that includes her Arizona district and national-title years.",
+    "claim_ids": [
+      "AZ-PUB-0017",
+      "AZ-PUB-0009",
+      "AZ-PUB-0018",
+      "AZ-PUB-0019"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0081",
+    "sort": "1979-01-01",
+    "display_date": "1979",
+    "date_precision": "YEAR / MUNICIPAL GENERAL PLAN RETROSPECTIVE",
+    "title": "Chino Valley acquires Old Home Manor",
+    "type": "Sites / Municipal Context",
+    "city": "Chino Valley",
+    "status": "A1 MUNICIPAL PLAN VERIFIED",
+    "summary": "Chino Valley’s adopted 2014 General Plan says the Town acquired the more-than-800-acre Old Home Manor property in 1979. The acquisition anchors later site history but does not backdate BMX activity to 1979.",
+    "claim_ids": [
+      "AZ-PUB-0157"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0004",
+    "sort": "1982-01-01",
+    "display_date": "1982",
+    "date_precision": "YEAR",
+    "title": "Kalsow becomes ABA National No.1 Girl",
+    "type": "People",
+    "city": "Arizona",
+    "status": "VERIFIED",
+    "summary": "Her official profile records 1982 as her ABA National No.1 Girl season and says it was the first year ABA awarded that national girls title.",
+    "claim_ids": [
+      "AZ-PUB-0018"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0005",
+    "sort": "1984-01-01",
+    "display_date": "1984",
+    "date_precision": "YEAR",
+    "title": "Kalsow records NBL National No.1 Girl Pro",
+    "type": "People",
+    "city": "Arizona",
+    "status": "VERIFIED",
+    "summary": "Debbi Kalsow's Hall of Fame profile records her as 1984 NBL National No.1 Girl Pro.",
+    "claim_ids": [
+      "AZ-PUB-0019"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0030",
+    "sort": "1995-01-01",
+    "display_date": "1995",
+    "date_precision": "YEAR / OFFICIAL CROSS-REFERENCE",
+    "title": "Pete Kelley enters the National BMX Hall of Fame",
+    "type": "People",
+    "city": "Phoenix",
+    "status": "A1 CROSS-REFERENCE",
+    "summary": "USA BMX's 2024 Debbie Kelley profile identifies Pete Kelley as a National BMX Hall of Famer inducted in 1995.",
+    "claim_ids": [
+      "AZ-PUB-0024"
+    ],
+    "track_ids": [
+      "AZ-TRK-0101",
+      "AZ-TRK-0002"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0051",
+    "sort": "1998-03-10",
+    "display_date": "March 10, 1998",
+    "date_precision": "EXACT DAY",
+    "title": "Federal Register identifies London Bridge BMX Association",
+    "type": "Institutions / Tracks",
+    "city": "Lake Havasu City",
+    "status": "A2 FEDERAL RECORD",
+    "summary": "The Federal Register identifies Frank Sabatano as President of the London Bridge BMX Association in comments addressing bicycle racing and jumping safety.",
+    "claim_ids": [
+      "AZ-PUB-0081"
+    ],
+    "track_ids": [
+      "AZ-TRK-0106"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0010",
+    "sort": "2000-01-01",
+    "display_date": "2000–2001",
+    "date_precision": "RANGE",
+    "title": "Hayashi wins back-to-back National No.1 Girl Cruiser titles",
+    "type": "People",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "Hayashi's official profile records National No.1 Girl Cruiser titles in 2000 and 2001.",
+    "claim_ids": [
+      "AZ-PUB-0020"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0013",
+    "sort": "2003-07-01",
+    "display_date": "2003–2007",
+    "date_precision": "RANGE",
+    "title": "Hayashi records five consecutive NBL No.1 Elite Women titles",
+    "type": "People",
+    "city": "Chandler",
+    "status": "VERIFIED",
+    "summary": "Kim Hayashi's official profile credits her with five consecutive NBL No.1 Elite Women titles from 2003 through 2007.",
+    "claim_ids": [
+      "AZ-PUB-0021"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0026",
+    "sort": "2022-02-01",
+    "display_date": "February 2022",
+    "date_precision": "MONTH",
+    "title": "USA BMX headquarters moves to Tulsa",
+    "type": "Institutions",
+    "city": "Arizona → Tulsa",
+    "status": "VERIFIED",
+    "summary": "USA BMX reported that its new headquarters moved to Tulsa's Greenwood District in February 2022.",
+    "claim_ids": [
+      "AZ-PUB-0005",
+      "AZ-PUB-0006"
+    ],
+    "track_ids": [],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  },
+  {
+    "timeline_id": "AZ-TL-0033",
+    "sort": "2024-06-17",
+    "display_date": "2024 profile snapshot",
+    "date_precision": "DATED RETROSPECTIVE",
+    "title": "Kim Hayashi remains involved as a coach and team manager",
+    "type": "Community",
+    "city": "Chandler / Arizona",
+    "status": "A1 DATED RETROSPECTIVE",
+    "summary": "USA BMX's 2024 Hall of Fame profile says that after retiring from the pro circuit, Kim Hayashi remained involved in BMX as a coach and team manager.",
+    "claim_ids": [
+      "AZ-PUB-0022"
+    ],
+    "track_ids": [
+      "AZ-TRK-0001"
+    ],
+    "event_ids": [],
+    "artifact_ids": [],
+    "question": false
+  }
+]

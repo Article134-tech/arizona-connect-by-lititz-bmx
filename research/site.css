@@ -27,7 +27,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .candidate-notice strong{color:#ffb285}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important;animation-iteration-count:1!important}}
 
-/* v0.55.5 whole-tile interaction + claim-register pagination */
+/* v0.55.6 whole-tile interaction + public/support pagination */
 .claim-card[role="link"],.category-card[role="link"]{cursor:pointer}
 .claim-card[role="link"]:focus-visible,.category-card[role="link"]:focus-visible{outline:3px solid var(--orange2);outline-offset:4px;border-color:var(--orange2)}
 .pagination-wrap{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:18px 0}
@@ -38,3 +38,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .pagination-controls button[aria-current="page"]{background:var(--orange);border-color:var(--orange);color:#090b0e}
 .pagination-controls button:disabled{opacity:.38;cursor:not-allowed}
 @media(max-width:620px){.pagination-wrap{align-items:flex-start;flex-direction:column}.pagination-controls{width:100%}.pagination-controls button{flex:1 0 38px}}
+
+/* v0.55.6 Arizona-nexus / navigation integrity */
+.network-home{font-weight:900;color:#fff!important}.nav .arizona-home{color:#ffb285}.supporting-record-note,.support-reason{border:1px solid #6e543f;background:#17120e;border-radius:12px;padding:12px 14px;color:#d5c4b8;margin:14px 0}.supporting-record-note strong,.support-reason strong{color:#ffad79}.support-card{border-color:#5d493a}.support-card .claim-id{color:#d29a75}.claim-card[role="link"],.support-card[role="link"],.category-card[role="link"]{cursor:pointer}@media(max-width:700px){.network-inner{align-items:flex-start;flex-direction:column;padding:8px 0;gap:4px}.nav-inner{gap:15px}.nav .arizona-home{order:-1}}

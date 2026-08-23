@@ -1,6 +1,6 @@
 {
-  "version": "0.55.5",
-  "claims": 184,
+  "version": "0.55.6",
+  "claims": 151,
   "claim_gate": "PASS",
   "app_order": [
     "Arizona Research Register",
@@ -10,7 +10,7 @@
   "hall_of_fame_url": "https://www.azbmxhof.org/",
   "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
   "atlas": {
-    "checkpoint": "v0.55.5 Interaction / Pagination / Evidence Correction Audit",
+    "checkpoint": "v0.55.6 Arizona Nexus / Presentation Integrity Audit",
     "records": 42,
     "current_snapshot": 11,
     "historical_verified": 31,
@@ -43,7 +43,7 @@
       "current_site_approximate_points": 1,
       "historical_track_points": 1,
       "records_intentionally_unpinned": 13,
-      "status": "PASS \u2014 location state assigned to 25/25; historical census remains open"
+      "status": "PASS — location state assigned to 25/25; historical census remains open"
     },
     "historical_recovery_pass_1": {
       "former_leads_with_stronger_evidence": 9,
@@ -56,15 +56,15 @@
       "l1_internal_control": 5,
       "display_cleared": 0,
       "third_party_images_embedded": 0,
-      "status": "PASS \u2014 media relationships registered; no access-to-permission inference"
+      "status": "PASS — media relationships registered; no access-to-permission inference"
     },
     "timeline": {
-      "published_milestones": 90,
+      "published_milestones": 77,
       "open_questions": 4,
       "span": "1977-2026",
       "interactive": true,
-      "status": "PASS \u2014 evidence-linked chronology; open questions separated",
-      "data_version": "v0.55-audited-publication-1"
+      "status": "PASS — evidence-linked chronology; open questions separated",
+      "data_version": "v0.55.6-nexus-audit-1"
     },
     "phase5_events": {
       "event_records": 28,
@@ -74,23 +74,23 @@
     "phase7_relationships": {
       "entities": 29,
       "edges": 17,
-      "status": "PASS \u2014 public edges are claim-bound"
+      "status": "PASS — public edges are claim-bound"
     },
     "a6_candidate": {
-      "status": "PRODUCT / CONTENT / BRAND HARDENING PASS \u2014 LIVE DEPLOYMENT SMOKE TEST PENDING",
+      "status": "PRODUCT / CONTENT / BRAND HARDENING PASS — LIVE DEPLOYMENT SMOKE TEST PENDING",
       "historical_census_complete": false,
       "deployment_review_pending": true
     },
     "current_release": {
-      "name": "v0.55.5 Interaction / Pagination / Evidence Correction Audit",
-      "version": "0.55.5",
-      "public_claims": 184,
+      "name": "v0.55.6 Arizona Nexus / Presentation Integrity Audit",
+      "version": "0.55.6",
+      "public_claims": 151,
       "governed_source_ids": 126,
       "track_records": 42,
       "current_tracks": 11,
       "historical_tracks": 31,
       "corroboration_open_leads": 0,
-      "timeline_milestones": 90,
+      "timeline_milestones": 77,
       "timeline_open_questions": 4,
       "event_records": 28,
       "relationship_edges": 17,
@@ -98,15 +98,18 @@
       "mapped_locations": 18,
       "intentionally_unpinned": 24,
       "geographic_absolute": "41/42 V0.47 LOCATION OBJECTS UNCHANGED; AZ-TRK-0102 SOLE AUTHORIZED LOCATION PROMOTION TO SITE_POINT_APPROXIMATE AT THE UNCHANGED AZ-TRK-0001 CHANDLER COORDINATE; CURRENT CHANDLER LOCATION OBJECT, AUTHORITATIVE ARIZONA SVG AND MASK UNCHANGED",
-      "status": "CORRECTION AUDIT BUILD \u2014 GOVERNED DATA UNCHANGED; HOSTED VISUAL SMOKE CHECK REQUIRED"
+      "status": "ARIZONA NEXUS / PRESENTATION INTEGRITY AUDIT — PUBLIC/SUPPORTING CLASSIFICATION CORRECTED; GEOGRAPHIC ABSOLUTE UNCHANGED; HOSTED VISUAL SMOKE CHECK REQUIRED",
+      "supporting_evidence_records": 33
     }
   },
   "research_register": {
     "baseline_a": 50,
     "expansion_51_60": 10,
-    "public_claims": 184,
+    "public_claims": 151,
     "expansion_gate": "PASS",
-    "current_source_ids": 126
+    "current_source_ids": 126,
+    "supporting_evidence_records": 33,
+    "public_nexus_gate": "PASS — standalone public records require explicit/independently understandable Arizona BMX nexus"
   },
   "release_hardening": {
     "official_logo_localized": true,
@@ -118,8 +121,9 @@
     "reduced_motion": true,
     "external_blank_rel_hardened": true,
     "github_pages_workflow": true,
-    "candidate_label": "Demonstration / Concept Site \u2014 No affiliation implied.",
+    "candidate_label": "Demonstration / Concept Site — No affiliation implied.",
     "pwa_status": "RESTORED FROM CURRENT PRODUCTION CONNECTION PATTERN; exact production icon assets imported",
     "shell_recovery": "v0.7 visual source + v0.15.3 additive visual lock + production Connection behavior, state-namespaced"
-  }
+  },
+  "supporting_evidence": 33
 }

@@ -1,0 +1,874 @@
+[
+  {
+    "claim_id": "AZ-PUB-0005",
+    "category": "Origins / Institutions",
+    "public_claim": "USA BMX reported that its new headquarters moved to Tulsa's Greenwood District in February 2022.",
+    "evidence_character": "FACT — FIRST-PARTY OFFICIAL",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0010"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2023-01-06/USA-BMX-2022-in-Review?id=1999"
+    ],
+    "evidence_boundary": "Use February 2022 for the headquarters move described by this source; do not erase the later/current Arizona office footprint.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": "AZ-CLM-0005",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0017",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile says she competed from 1979 through 1985.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "Treat the career span as the Hall of Fame profile's stated competition span.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0018",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile records her as the 1982 ABA National No.1 Girl and says 1982 was the first year the ABA awarded a National No.1 title for the girls class.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "The 'first' claim is explicitly the source's description of the ABA girls National No.1 title, not a claim about every sanctioning body.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0019",
+    "category": "Women / People",
+    "public_claim": "Debbi Kalsow's 2018 Hall of Fame profile records her as the 1984 NBL National No.1 Girl Pro.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0002"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610"
+    ],
+    "evidence_boundary": "Use the title exactly as listed by the profile.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "audit_note": "Canonical current USA BMX Hall of Fame route substituted for older equivalent route.",
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0020",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile records back-to-back National No.1 Girl Cruiser titles in 2000 and 2001.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Do not infer sanction details beyond the profile's wording unless separately sourced.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0021",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile credits her with five consecutive NBL No.1 Elite Women titles from 2003 through 2007.",
+    "evidence_character": "FACT — ATTRIBUTED FIRST-PARTY RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "Use the five-year span and NBL title wording as published.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0022",
+    "category": "Women / People",
+    "public_claim": "Kim Hayashi's 2024 Hall of Fame profile says that after retiring from the pro circuit she remained involved as a coach and team manager.",
+    "evidence_character": "FACT — DATED ATTRIBUTED RETROSPECTIVE",
+    "authority": "A1",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "This is what the 2024 profile reported; do not convert its then-current team affiliation into a timeless present-tense claim.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0024",
+    "category": "Operators / Community",
+    "public_claim": "USA BMX's 2024 Debbie Kelley profile identifies Pete Kelley as a National BMX Hall of Famer inducted in 1995.",
+    "evidence_character": "FACT — FIRST-PARTY CROSS-REFERENCE",
+    "authority": "A1",
+    "confidence": "MEDIUM-HIGH",
+    "source_ids": [
+      "AZ-SRC-0003"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
+    ],
+    "evidence_boundary": "This is a cross-reference inside Debbie Kelley's official profile; a standalone Pete Kelley profile remains desirable for a fuller dossier.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0028",
+    "category": "People / Personal Truth",
+    "public_claim": "USA Cycling's athlete profile says Corben Sharrah designed and built a BMX practice track in his backyard to sharpen his skills.",
+    "evidence_character": "PERSONAL / BIOGRAPHICAL TRUTH — ATTRIBUTED ATHLETE PROFILE",
+    "authority": "A2",
+    "confidence": "HIGH FOR ATTRIBUTED STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0004"
+    ],
+    "source_urls": [
+      "https://usacycling.org/athlete/corben-sharrah"
+    ],
+    "evidence_boundary": "This establishes what the athlete profile reports about Sharrah's own practice track; it is not a surveyed public-facility record.",
+    "status": "SUPPORTING_EVIDENCE",
+    "legacy_claim_id": null,
+    "first_edition_admission": "PASS",
+    "admission_basis": "Defensible public wording + inspectable source path + explicit evidence boundary",
+    "audit_date": "2026-08-20",
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "Useful national/person/institution chronology that supports an Arizona-linked record, but is not independently an Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0081",
+    "category": "Historical Tracks / Federal Record",
+    "public_claim": "On March 10, 1998, the Federal Register identified Frank Sabatano as President of the London Bridge BMX Association and recorded his recommendation that bicycle helmets account for more serious accidents that could result from child bicycle racing or jumping.",
+    "evidence_character": "FACT — FEDERAL REGULATORY RECORD",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0058"
+    ],
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-1998-03-10/pdf/FR-1998-03-10.pdf"
+    ],
+    "evidence_boundary": "This independently corroborates the London Bridge BMX Association identity and Sabatano's leadership in a BMX-racing context. It does not establish the track's exact Lake Havasu City site, opening or closing dates, or continuity to Sara Park BMX Raceway or current Lake Havasu City BMX.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.28",
+    "admission_basis": "Official Federal Register record + bounded identity/leadership claim",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0106"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_NEXUS_DEPENDS_ON_OTHER_RECORD",
+    "supporting_reason": "The Federal Register establishes London Bridge BMX Association and Frank Sabatano, but the source passage does not itself establish the Arizona/Lake Havasu nexus. Keep it as supporting evidence for the separately governed Lake Havasu investigation.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0117",
+    "category": "Historical Tracks / Geographic Control",
+    "public_claim": "The City of Tucson identifies current Gene C. Reid Park at 900 S. Randolph Way and publishes the park reference coordinate 32.2103908, -110.9187637.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL GEOGRAPHIC CONTROL",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT PARK PROPERTY REFERENCE",
+    "source_ids": [
+      "AZ-SRC-0077"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park"
+    ],
+    "evidence_boundary": "This establishes the current Gene C. Reid Park property reference, not the exact historical Reid Park BMX course center. Combined with period Reid Park BMX identity evidence and the attributed rider memory, it supports only a SITE_POINT_APPROXIMATE at the park property.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.33",
+    "admission_basis": "Official municipal park page used only as bounded property-level geographic control",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0128",
+    "category": "Historical Tracks / Site Naming Context",
+    "public_claim": "Pima County Public Library’s local-history file says the park now called Reid Park was originally Randolph Park and was renamed in 1978.",
+    "evidence_character": "FACT — LOCAL GOVERNMENT LIBRARY / PARK HISTORY",
+    "authority": "A2",
+    "confidence": "HIGH FOR PARK-NAME HISTORY",
+    "source_ids": [
+      "AZ-SRC-0079"
+    ],
+    "source_urls": [
+      "https://www.library.pima.gov/content/randolph-golf-course-park-origin-of-name/"
+    ],
+    "evidence_boundary": "This establishes the municipal park-name context needed to interpret older Randolph Park references. It does not by itself establish that a BMX track used both names, identify the exact historical BMX course footprint, prove a formal BMX-track rename, or extend the track’s operating dates.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.34",
+    "admission_basis": "Government-library local-history record establishing the park’s 1978 name change",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0137",
+    "category": "Historical Tracks / Municipal Site Context",
+    "public_claim": "Arizona State Parks’ Land and Water Conservation Fund register does document City of Prescott “Heritage Park” projects in 1979 and 1984, but those Prescott municipal-park records are not site evidence for Heritage Park BMX after correction of the period BMX directory identity to Phoenix.",
+    "evidence_character": "FACT — STATE RECREATION PROGRAM REGISTER / REJECTED SITE CONTEXT",
+    "authority": "A2",
+    "confidence": "HIGH FOR PRESCOTT MUNICIPAL PARK RECORD / REJECTED AS BMX SITE EVIDENCE",
+    "source_ids": [
+      "AZ-SRC-0081"
+    ],
+    "source_urls": [
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf"
+    ],
+    "evidence_boundary": "The Prescott Heritage Park records remain valid municipal-history evidence. No recovered source bridges that Prescott park to the May 1985 Phoenix Heritage Park BMX identity, so the records must not be used to infer the BMX track location.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.44",
+    "admission_basis": "Correction audit separates true Prescott municipal context from the differently located period BMX identity",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0128"
+    ],
+    "previous_public_status": "PUBLIC_CORRECTION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0142",
+    "category": "Historical Tracks / Current Site Cross-check",
+    "public_claim": "The City of Tucson currently places the Georges DeMeester Outdoor Performance Center at 800 S. Concert Place in the northwest corner of Gene C. Reid Park.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL CURRENT-SITE REFERENCE",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT PERFORMANCE-CENTER LOCATION",
+    "source_ids": [
+      "AZ-SRC-0087"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Special-Places/Performance-Areas-and-Amphitheaters"
+    ],
+    "evidence_boundary": "This is a current municipal locator for the performance-center/bandshell area used to orient the separate historical memory evidence. It does not prove that the present performance-center footprint is identical to the historical bandshell footprint or establish an exact BMX course center.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.36",
+    "admission_basis": "Official municipal current-site reference used only to orient the recovery area",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0147",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson preserves construction plan L-63-006, a scanned 1963 “Master Plan and Drainage Randolph Park” record with two surviving plan sheets.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING ARCHIVE",
+    "authority": "A1",
+    "confidence": "HIGH FOR PLAN ID, DATE, DESCRIPTION AND SURVIVING SCANS",
+    "source_ids": [
+      "AZ-SRC-0091"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/7853"
+    ],
+    "evidence_boundary": "The 1963 master plan is a pre-band-stage, pre-BMX spatial-control record for Randolph Park. It does not label a BMX course and cannot locate the later 1977 Randolph Park BMX Track by itself. The Atlas uses it only to register earlier park geometry around the later recovery problem.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.37",
+    "admission_basis": "Official City engineering-plan metadata with surviving scanned plan sheets; admitted as spatial context only",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0148",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson engineering archive records construction plan C-66-003 as “Band Enclosure @ Randolph Park”; the catalog says the 1966 City Buildings plan is not scanned and no document is available through the archive.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING CATALOG RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR CATALOGED PLAN TITLE / PLAN CLASS / SCAN STATUS",
+    "source_ids": [
+      "AZ-SRC-0092"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/13565"
+    ],
+    "evidence_boundary": "This establishes the existence and title of a 1966 Randolph Park band-enclosure plan, not the contents of an unavailable drawing and not any BMX footprint. It is used only as a dated bandshell-area registration anchor.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.37",
+    "admission_basis": "Official City catalog record supplies a dated bandshell-area archival anchor while explicitly preserving the missing-drawing boundary",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0149",
+    "category": "Historical Tracks / Municipal Park History",
+    "public_claim": "The City of Tucson says Gene C. Reid created a makeshift band stage in the park in 1964 and that the bandshell was redeveloped into a full performance center in 1974.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL PARK HISTORY",
+    "authority": "A1",
+    "confidence": "HIGH FOR CITY-PUBLISHED BAND-STAGE / PERFORMANCE-CENTER CHRONOLOGY",
+    "source_ids": [
+      "AZ-SRC-0093"
+    ],
+    "source_urls": [
+      "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park"
+    ],
+    "evidence_boundary": "The City history establishes the evolution of the bandshell/performance-center reference used to orient separate BMX memories. It does not state that BMX occupied that footprint, identify a course center, or prove one unchanged Randolph/Reid BMX configuration.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.37",
+    "admission_basis": "Official municipal history clarifies the physical-reference chronology behind the bandshell-vicinity recovery lane",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0150",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson preserves scanned 1985 grading plan GR-85-163, titled “Reid Park Band Shell Area (CNWC Architect).”",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ENGINEERING ARCHIVE",
+    "authority": "A1",
+    "confidence": "HIGH FOR PLAN ID, DATE, DESCRIPTION AND SURVIVING SCAN",
+    "source_ids": [
+      "AZ-SRC-0094"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans/details/5323"
+    ],
+    "evidence_boundary": "The 1985 grading plan is a post-1977 spatial-registration anchor for the bandshell area. Direct inspection does not turn it into a BMX-course plan; the exact dirt-course footprint remains unresolved and the governed Reid Park point is not moved.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.37",
+    "admission_basis": "Official scanned engineering plan strengthens bandshell-area registration without increasing BMX-coordinate precision",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0153",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson’s 1977 Class C construction-plan catalog says City building records in that class, including park buildings and recreation centers, are generally no longer kept at Maps and Records and instead are held by the City Architect’s Office at the Thomas O. Price Service Center.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL ARCHIVAL CUSTODY RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1977 CLASS-C CUSTODY / TRANSFER INSTRUCTION",
+    "source_ids": [
+      "AZ-SRC-0097"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans?direction=asc&page=33&sort=sort"
+    ],
+    "evidence_boundary": "This establishes the City’s stated custody route for 1977-era park/building plans. It does not establish that a specific Randolph Park BMX drawing exists at the City Architect’s Office, identify a course footprint, or justify moving the governed Reid Park point.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "Official City catalog supplies the archival-custody path needed to pursue missing 1977-era park-building records without treating the transfer notice as course evidence.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0154",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson field-book index preserves multiple Randolph Park survey records in Township 14 South, Range 14 East, Section 16, including book 0174 “TOPOGRAPHY AND LAYOUT” and book 0677 pages 35–79 “TOPOG, X-SECTIONS, BM CIRCUITS.”",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL SURVEY INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR INDEXED FIELD-BOOK IDENTITIES, DESCRIPTIONS AND SECTION",
+    "source_ids": [
+      "AZ-SRC-0098"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books?direction=asc&page=115&sort=book"
+    ],
+    "evidence_boundary": "The field-book index identifies survey/topography records for Randolph Park but does not label BMX, expose a dated 1977 course plan, or establish where the dirt course sat inside the park. The books are recovery targets, not an exact-site result.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "Official City survey index narrows the recoverable plan/survey corpus for the same section containing Randolph Park while preserving the exact-course question.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0155",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "University of Arizona Libraries lists dedicated Tucson aerial-photography sets for 1974, 1978, 1979–1980 and 1980, with many historical aerial sets held in Special Collections for building use.",
+    "evidence_character": "FACT — UNIVERSITY ARCHIVAL HOLDINGS GUIDE",
+    "authority": "A1",
+    "confidence": "HIGH FOR LISTED TUCSON AERIAL HOLDINGS / ACCESS CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0099"
+    ],
+    "source_urls": [
+      "https://lib.arizona.edu/find/maps/aerial"
+    ],
+    "evidence_boundary": "This establishes the existence of near-period Tucson aerial holdings that can be used to test the Reid/Randolph bandshell-area hypothesis. No aerial from those sets has been admitted here as course-level evidence, so no BMX footprint or coordinate promotion follows.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "University archival guide identifies the correct near-period aerial collections for the unresolved Reid/Randolph registration problem.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0156",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "Pima County Regional Flood Control District’s grid-based historical aerial archive provides selected eastern Pima County imagery from approximately 1979 through 2002 and supports lookup by township, range and section.",
+    "evidence_character": "FACT — OFFICIAL COUNTY HISTORICAL AERIAL INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR ARCHIVE COVERAGE RANGE AND SECTION-LOOKUP CAPABILITY",
+    "source_ids": [
+      "AZ-SRC-0100"
+    ],
+    "source_urls": [
+      "https://gis.pima.gov/maps/RFCD/aerialsgrid/"
+    ],
+    "evidence_boundary": "This is an aerial-recovery route, not a recovered BMX image. Its stated coverage begins approximately two years after the attributed 1977 Randolph Park BMX caption, and no section image is used here to identify a course footprint or move the governed point.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "Official county aerial index adds a second geospatial recovery route that can be registered by the same township/range/section framework as the City field books.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0157",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "The Town of Chino Valley’s adopted 2014 General Plan states that the Town acquired the Old Home Manor property, comprising more than 800 acres, in 1979.",
+    "evidence_character": "FACT — ADOPTED MUNICIPAL GENERAL PLAN",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1979 MUNICIPAL ACQUISITION CHRONOLOGY",
+    "source_ids": [
+      "AZ-SRC-0101"
+    ],
+    "source_urls": [
+      "https://www.chinovalleyaz.gov/ArchiveCenter/ViewFile/Item/65"
+    ],
+    "evidence_boundary": "The 1979 acquisition establishes municipal property chronology for Old Home Manor. It does not show that a BMX track existed there in 1979, connect the property to the 1984 Chino Valley BMX directory identity, or prove succession from the 2002–2003 Mile High BMX record at Memory Park.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "Adopted Town plan supplies a dated ownership/context anchor for the later 2009 Old Home Manor BMX-site witness without back-projecting BMX activity to the acquisition date.",
+    "audit_date": "2026-08-21",
+    "track_ids": [],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0158",
+    "category": "Historical Tracks / Municipal Planning Context",
+    "public_claim": "The Town of Chino Valley’s Old Home Manor Integrated Water Master Plan places the development area east of State Route 89 and north of Perkinsville Road and publishes an approximate property centroid of 34°46′58.4″ N, 112°25′2.2″ W.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL SITE-PLANNING DOCUMENT",
+    "authority": "A1",
+    "confidence": "HIGH FOR OLD HOME MANOR PROPERTY EXTENT / PUBLISHED APPROXIMATE CENTROID",
+    "source_ids": [
+      "AZ-SRC-0102"
+    ],
+    "source_urls": [
+      "https://www.chinovalleyaz.gov/DocumentCenter/View/9310/Integrated-Water-Master-Plan-OHM"
+    ],
+    "evidence_boundary": "The published centroid and property bounds describe Old Home Manor as a whole, not the unnamed BMX track documented there in the separate 2009 study. They do not identify the BMX course center, create a new track identity, or justify a geographic point or lineage claim.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.38",
+    "admission_basis": "Municipal master-plan geometry constrains the later Old Home Manor recovery area while remaining below the BMX-specific point threshold.",
+    "audit_date": "2026-08-21",
+    "track_ids": [],
+    "previous_public_status": "PUBLIC_ADMISSION_READY",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0159",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Randolph Park Field Book 0174, described as ‘TOPOGRAPHY AND LAYOUT’ in Township 14 South, Range 14 East, Section 16, as a scanned City survey record dated May 1, 1926.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR FIELD-BOOK IDENTITY, DESCRIPTION, SECTION AND DATE",
+    "source_ids": [
+      "AZ-SRC-0103"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/17526"
+    ],
+    "evidence_boundary": "The recovered date corrects the earlier undated retrieval lead: Field Book 0174 is a 1926 base-topography/layout record, not a 1970s or contemporaneous BMX document. It may help register long-term park geometry, but it does not label BMX, locate the 1977 dirt course, or justify moving the governed Reid Park point.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book detail page supplies the book number, description, survey section, scan status and date.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0160",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Randolph Park Field Book 0677, pages 35–79, described as ‘TOPOG, X-SECTIONS, BM CIRCUITS’ in Township 14 South, Range 14 East, Section 16, as a scanned City survey record dated January 1, 1951.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR FIELD-BOOK IDENTITY, DESCRIPTION, SECTION AND DATE",
+    "source_ids": [
+      "AZ-SRC-0104"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/2314"
+    ],
+    "evidence_boundary": "The recovered date corrects the earlier undated retrieval lead: Field Book 0677 is a 1951 topography/cross-section/bench-circuit record, not a 1970s or contemporaneous BMX document. It is useful as older survey geometry only and does not identify the 1977 BMX footprint or support a coordinate promotion.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book detail page supplies the book/page range, description, survey section, scan status and date.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0161",
+    "category": "Historical Tracks / Municipal Engineering Record",
+    "public_claim": "The City of Tucson identifies Field Book 1118, pages 1–19, as a scanned ‘RANDOLPH PARK REC. CENTER SITE’ survey in Township 14 South, Range 14 East, Section 16 dated June 1, 1966, with preliminary, boundary and bench-circuit survey flags.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL FIELD-BOOK RECORD",
+    "authority": "A1",
+    "confidence": "HIGH FOR 1966 RECREATION-CENTER SITE SURVEY IDENTITY / DATE / SURVEY ROLE",
+    "source_ids": [
+      "AZ-SRC-0105"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/field-books/details/508"
+    ],
+    "evidence_boundary": "Field Book 1118 is a materially closer pre-BMX spatial-control record than the 1926 and 1951 books and its official scans preserve Recreation Center-site survey geometry. The record still does not label a BMX course, prove that a 1977 course occupied the Recreation Center survey area, or establish an exact historical track center.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Direct City of Tucson field-book record and linked official scans establish a dated 1966 Recreation Center-site survey suitable for bounded pre-BMX spatial registration.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0162",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "A completed July 27, 2023 City of Tucson record request for 900 S Randolph Way states that files for the address are restricted and that all historical data for Reid Park, Randolph Park and Reid Park Zoo, across numerous addresses, has been uploaded as plans/documents in OnBase.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL RECORD-CUSTODY / ACCESS NOTICE",
+    "authority": "A1",
+    "confidence": "HIGH FOR CURRENT CITY CUSTODY / RESTRICTION STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0106"
+    ],
+    "source_urls": [
+      "https://pro.tucsonaz.gov/address_search/900/S/RANDOLPH/WY"
+    ],
+    "evidence_boundary": "This updates the archival-custody path by identifying the City’s current restricted OnBase repository for historical Reid/Randolph/Zoo plans and documents. It does not establish that a BMX-specific drawing exists in OnBase, grant access to restricted records, identify the 1977 course footprint, or justify a geographic promotion.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.39 archival-site recovery 2",
+    "admission_basis": "Official City of Tucson PRO record-request entry gives the completed request number/date, restriction status and current OnBase custody statement.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0163",
+    "category": "Historical Tracks / Archival Recovery",
+    "public_claim": "The City of Tucson construction-plan catalog identifies Class V aerial-photograph holdings for 1969–1978 (V-69-000), 1979 (V-79-000), and 1980 (V-80-000); each catalog row is marked not scanned, and the 1969–1978 class states that no individual plan numbers were issued during that span.",
+    "evidence_character": "FACT — OFFICIAL MUNICIPAL AERIAL-RECORD INDEX",
+    "authority": "A1",
+    "confidence": "HIGH FOR AERIAL-CLASS IDENTITY, DATE RANGE AND WEB-SCAN STATUS",
+    "source_ids": [
+      "AZ-SRC-0107"
+    ],
+    "source_urls": [
+      "https://maps-and-records.tucsonaz.gov/construction-plans?direction=desc&page=6&plan=&sort=ConstructionPlans.sort"
+    ],
+    "evidence_boundary": "This establishes a City archival route for near-period aerial photography and explains why a 1977 image cannot be recovered by searching an individual V-class plan number. The catalog does not expose the aerial pixels, identify which frame covers the BMX course, locate the dirt footprint, or justify moving the governed Reid Park point.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.40 archival-site recovery 3",
+    "admission_basis": "Direct City of Tucson Maps and Records catalog rows identify the 1969–1978, 1979 and 1980 Class V aerial holdings and mark them as not scanned.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0164",
+    "category": "Historical Tracks / Municipal Park Context",
+    "public_claim": "Arizona State Parks’ Statewide Comprehensive Outdoor Recreation Plan appendices record a Tucson “Reid Park & Zoo Improvements” project in 1980 and a “Reid Regional Park Renovation” project in 1981.",
+    "evidence_character": "FACT — OFFICIAL STATE RECREATION-PROJECT REGISTER",
+    "authority": "A1",
+    "confidence": "HIGH FOR PROJECT NAMES, MUNICIPALITY AND YEARS",
+    "source_ids": [
+      "AZ-SRC-0108"
+    ],
+    "source_urls": [
+      "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf"
+    ],
+    "evidence_boundary": "These records establish documented park improvement and renovation activity shortly after the attributed 1977 Randolph Park BMX evidence. They do not identify the BMX course, state that the projects altered or removed it, establish a closure date, or support any coordinate change.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.40 archival-site recovery 3",
+    "admission_basis": "The Arizona State Parks SCORP project appendix directly lists the two Tucson Reid Park projects and their project years.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0116"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0165",
+    "category": "Historical Tracks / Municipal Record",
+    "public_claim": "An August 1, 1980 Prescott Valley fact sheet preserved in the Arizona Memory Project lists both “Sandberg’s Family Restaurant” and “Scott’s Bike Shop” among businesses within Prescott Valley.",
+    "evidence_character": "FACT — MUNICIPAL BUSINESS FACT SHEET / ARCHIVAL COPY",
+    "authority": "A2",
+    "confidence": "HIGH FOR BUSINESS-NAME / PRESCOTT VALLEY LISTING",
+    "source_ids": [
+      "AZ-SRC-0109"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/assets/displaypdf/323447"
+    ],
+    "evidence_boundary": "This establishes that both business names were present in Prescott Valley by August 1980, providing locality context four years before the Mile-Hi directory lists Scott Sandberg. It does not establish ownership of Scott’s Bike Shop, identify Scott Sandberg as owner/operator of either business, connect either business to Mile-Hi BMX, reverse the published 602-772-8050 number, or locate the track or Summer Camp footprint.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.41 mile-hi operator context recovery 1",
+    "admission_basis": "The archived Prescott Valley fact sheet directly lists both business names under businesses within Prescott Valley; no ownership, telephone or BMX connection is inferred from the naming overlap.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0166",
+    "category": "Historical Tracks / Family Context",
+    "public_claim": "A reproduced 1997 obituary for Diane Sandberg-Laipple says she moved with her parents Ray and Ruby Sandberg to Prescott Valley in 1976 to open a family restaurant, continued helping at Sandberg’s Family Restaurant, and identifies Scott Sandberg of Prescott Valley as her brother.",
+    "evidence_character": "FACT — REPRODUCED OBITUARY / FAMILY RELATIONSHIP RECORD",
+    "authority": "C2",
+    "confidence": "HIGH FOR REPORTED FAMILY RELATIONSHIP; MEDIUM FOR MILE-HI CONTEXT",
+    "source_ids": [
+      "AZ-SRC-0110"
+    ],
+    "source_urls": [
+      "https://fergusotters66.blogspot.com/2007/01/"
+    ],
+    "evidence_boundary": "This independently documents a Scott Sandberg of Prescott Valley as a member of the Sandberg family associated with Sandberg’s Family Restaurant. It does not establish that this Scott Sandberg is the same person named as the 1984 Mile-Hi BMX contact, establish his ownership or employment at the restaurant, connect him to Scott’s Bike Shop, connect either business to Mile-Hi BMX, reverse 602-772-8050, or locate the track or Summer Camp footprint.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.42 mile-hi family context recovery 2",
+    "admission_basis": "The reproduced obituary explicitly identifies Ray and Ruby Sandberg as Diane Sandberg-Laipple’s parents, describes the family’s 1976 move to Prescott Valley to open a family restaurant, names Sandberg’s Family Restaurant, and identifies Scott Sandberg of Prescott Valley as her brother. No identity bridge to the 1984 BMX contact is inferred.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  },
+  {
+    "claim_id": "AZ-PUB-0167",
+    "category": "Historical Tracks / Municipal Civic Context",
+    "public_claim": "A Prescott Valley historical newspaper-clipping compilation records Ray Sandberg as vice mayor in 1981, uses “Mayor Ray Sandberg” in 1982–1983 entries, and records Councilman Ray Sandberg’s formal resignation from the Town Council on March 23, 1984.",
+    "evidence_character": "FACT — PERIOD NEWSPAPER TEXT PRESERVED BY MUNICIPAL HISTORICAL ARCHIVE",
+    "authority": "B1 / A2 PRESERVATION",
+    "confidence": "HIGH FOR REPORTED CIVIC ROLES / DATES; CONTEXT ONLY FOR MILE-HI",
+    "source_ids": [
+      "AZ-SRC-0096"
+    ],
+    "source_urls": [
+      "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf"
+    ],
+    "evidence_boundary": "This independently establishes a Ray Sandberg in Prescott Valley municipal leadership during the period immediately preceding and overlapping the 1984 Mile-Hi directory contacts. It does not establish that this Ray Sandberg is the same Ray Sandberg named as Scott Sandberg’s father in the 1997 obituary, identify the 1984 Mile-Hi contact as the obituary’s Scott Sandberg, establish any ownership or employment at Sandberg’s Family Restaurant or Scott’s Bike Shop, connect municipal office to Mile-Hi BMX, reverse 602-772-8050, or locate the track or Summer Camp footprint.",
+    "status": "SUPPORTING_EVIDENCE",
+    "growth_release": "v0.43 mile-hi civic convergence recovery 3",
+    "admission_basis": "The Town-hosted historical newspaper-clipping compilation preserves multiple dated Prescott Valley civic references to Ray Sandberg from 1981 through March 23, 1984. The exact-name/locality overlap with the separately governed Sandberg family record is preserved as a research convergence only; no person identity bridge is inferred.",
+    "audit_date": "2026-08-21",
+    "track_ids": [
+      "AZ-TRK-0119"
+    ],
+    "previous_public_status": "PASS",
+    "record_class": "SUPPORTING_EVIDENCE",
+    "supporting_disposition": "SUPPORT_ONLY_RECOVERY_OR_SPATIAL_CONTROL",
+    "supporting_reason": "Useful recovery, spatial, archival, family, civic or municipal context for an Arizona BMX investigation, but not itself a standalone Arizona BMX claim.",
+    "reclassified_release": "v0.55.6 Arizona Nexus / Presentation Integrity Audit"
+  }
+]

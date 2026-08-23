@@ -1,5 +1,5 @@
-const CACHE = 'arizona-connect-v0.55.5-interaction-pagination-evidence-hotfix';
-const SHELL=['./','./index.html','./styles.css?v=0.55.5','./app.js','./manifest.webmanifest',
+const CACHE = 'arizona-connect-v0.55.6-arizona-nexus-presentation-integrity';
+const SHELL=['./','./index.html','./styles.css?v=0.55.6','./app.js','./manifest.webmanifest',
 './assets/lititz-bmx-logo-white-white.png','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));

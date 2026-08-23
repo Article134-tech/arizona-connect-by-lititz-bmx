@@ -19,27 +19,23 @@ const filter=document.getElementById('trackFilter');
 const locationFilter=document.getElementById('locationFilter');
 const cards=[...document.querySelectorAll('[data-track-card]')];
 const resultCount=document.getElementById('resultCount');
-const loadMore=document.getElementById('loadMore');
 const mappedIds=new Set([...document.querySelectorAll('[data-map-pin]')].map(x=>x.dataset.trackId));
-let expanded=false;
-function apply(){
-  const q=(search?.value||'').trim().toLowerCase();
-  const group=filter?.value||'';
-  const loc=locationFilter?.value||'';
-  const matches=[];
-  cards.forEach(card=>{
-    const mapped=mappedIds.has(card.id.replace('card-',''));
-    const ok=(!q||card.dataset.search.includes(q))&&(!group||card.dataset.group===group)&&(!loc||(loc==='mapped'?mapped:!mapped));
-    if(ok) matches.push(card);
-    card.hidden=!ok;
-  });
-  const limit=expanded?matches.length:Math.min(matches.length,8);
-  matches.forEach((card,i)=>card.hidden=i>=limit);
-  if(resultCount) resultCount.textContent=`${matches.length} record${matches.length===1?'':'s'}`;
-  if(loadMore){loadMore.hidden=matches.length<=8;loadMore.textContent=expanded?'Show first 8':'Show all '+matches.length+' records'}
+const statuses=[...document.querySelectorAll('#explore [data-range-status]')];
+const pagers=[...document.querySelectorAll('#explore [data-page-controls]')];
+const PAGE_SIZE=20; let page=1;
+function matchedCards(){
+  const q=(search?.value||'').trim().toLowerCase(),group=filter?.value||'',loc=locationFilter?.value||'';
+  return cards.filter(card=>{const mapped=mappedIds.has(card.id.replace('card-',''));return (!q||card.dataset.search.includes(q))&&(!group||card.dataset.group===group)&&(!loc||(loc==='mapped'?mapped:!mapped))});
 }
-search?.addEventListener('input',apply);filter?.addEventListener('change',apply);locationFilter?.addEventListener('change',apply);loadMore?.addEventListener('click',()=>{expanded=!expanded;apply();if(!expanded)document.getElementById('explore')?.scrollIntoView({behavior:'smooth'})});
-apply();
+function pageButton(label,target,disabled,current){const b=document.createElement('button');b.type='button';b.textContent=label;b.disabled=disabled;if(current)b.setAttribute('aria-current','page');b.addEventListener('click',()=>{page=target;apply();document.getElementById('explore')?.scrollIntoView({block:'start'})});return b}
+function apply(resetPage=false){
+  const matches=matchedCards(); if(resetPage)page=1; const pages=Math.max(1,Math.ceil(matches.length/PAGE_SIZE)); page=Math.max(1,Math.min(page,pages));
+  cards.forEach(c=>c.hidden=true); const start=(page-1)*PAGE_SIZE,end=Math.min(start+PAGE_SIZE,matches.length); matches.slice(start,end).forEach(c=>c.hidden=false);
+  if(resultCount)resultCount.textContent=`${matches.length} record${matches.length===1?'':'s'}`;
+  const label=matches.length?`Showing ${start+1}-${end} of ${matches.length}`:'Showing 0-0 of 0'; statuses.forEach(x=>x.textContent=label);
+  pagers.forEach(n=>{n.replaceChildren();if(pages<=1){n.hidden=true;return}n.hidden=false;n.append(pageButton('Previous',page-1,page===1,false));for(let i=1;i<=pages;i++)n.append(pageButton(String(i),i,false,i===page));n.append(pageButton('Next',page+1,page===pages,false))});
+}
+search?.addEventListener('input',()=>apply(true));filter?.addEventListener('change',()=>apply(true));locationFilter?.addEventListener('change',()=>apply(true));apply();
 
 function activateTrackCards(){
   const interactive='a,button,input,select,textarea,label,summary';

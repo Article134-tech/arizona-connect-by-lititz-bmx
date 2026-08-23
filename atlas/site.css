@@ -84,6 +84,15 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .candidate-notice strong{color:#ffb285}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important;animation-iteration-count:1!important}}
 
-/* v0.55.5 whole-tile navigation for single-primary Atlas cards */
+/* v0.55.6 whole-tile navigation for single-primary Atlas cards */
 .event-card[role="link"],.media-card[role="link"]{cursor:pointer}
 .event-card[role="link"]:focus-visible,.media-card[role="link"]:focus-visible{outline:3px solid var(--gold2,#e0a765);outline-offset:4px;border-color:#8755bd}
+
+/* v0.55.6 standing long-list pagination */
+.pagination-wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:18px 0}
+.pagination-status{margin:0;color:var(--muted,#aeb4bf);font-size:.84rem;font-weight:700}
+.pagination-controls{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.pagination-controls button{min-width:38px;min-height:38px;padding:7px 10px;border:1px solid var(--line,#343b47);border-radius:9px;background:var(--surface2,#171b22);color:var(--text,#f4f5f7);font:inherit;font-size:.78rem;font-weight:800;cursor:pointer}
+.pagination-controls button[aria-current="page"]{border-color:#f48a4a;background:#f48a4a;color:#080a0d}
+.pagination-controls button:disabled{opacity:.38;cursor:not-allowed}
+@media(max-width:620px){.pagination-wrap{align-items:flex-start;flex-direction:column}.pagination-controls{width:100%}.pagination-controls button{flex:1 0 38px}}
