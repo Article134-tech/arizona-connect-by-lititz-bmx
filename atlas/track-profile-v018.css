@@ -23,3 +23,9 @@
 .tp-geo-pin.approx{background:#d9d7d3;border-color:#fff}
 .tp-geo-pin.historical{background:#0d0d10;border:3px solid #e8e1d3}
 .tp-geo-unpinned{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:76%;padding:12px 10px;background:rgba(8,8,10,.9);border:1px solid #51485b;border-radius:10px;text-align:center;font-size:10px;font-weight:800;letter-spacing:.05em;color:#e7d8f8}
+
+/* v0.55.3 interaction hotfix: evidence-flow tiles are navigation, not decoration */
+.tp-flow-step{text-decoration:none;color:inherit;cursor:pointer;transition:.16s transform,.16s border-color,.16s background}
+.tp-flow-step:hover,.tp-flow-step:focus{transform:translateY(-2px);border-color:#8755bd;background:#17131c;outline:none}
+.tp-flow-step:focus-visible{box-shadow:0 0 0 3px rgba(154,98,220,.24)}
+#claims,#correction,#track-title{scroll-margin-top:110px}

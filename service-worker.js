@@ -1,4 +1,4 @@
-const CACHE = 'arizona-connect-v0.55-audited-publication-candidate';
+const CACHE = 'arizona-connect-v0.55.4-interaction-audit-hotfix';
 const SHELL=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest',
 './assets/lititz-bmx-logo-white-white.png','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{
