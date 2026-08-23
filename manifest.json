@@ -1,5 +1,5 @@
 {
-  "version": "0.55.6",
+  "version": "0.55.7",
   "claims": 151,
   "claim_gate": "PASS",
   "app_order": [
@@ -10,7 +10,7 @@
   "hall_of_fame_url": "https://www.azbmxhof.org/",
   "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
   "atlas": {
-    "checkpoint": "v0.55.6 Arizona Nexus / Presentation Integrity Audit",
+    "checkpoint": "v0.55.7 Source Integrity / Mobile Layout Correction Audit",
     "records": 42,
     "current_snapshot": 11,
     "historical_verified": 31,
@@ -64,7 +64,7 @@
       "span": "1977-2026",
       "interactive": true,
       "status": "PASS — evidence-linked chronology; open questions separated",
-      "data_version": "v0.55.6-nexus-audit-1"
+      "data_version": "v0.55.7-nexus-audit-1"
     },
     "phase5_events": {
       "event_records": 28,
@@ -82,8 +82,8 @@
       "deployment_review_pending": true
     },
     "current_release": {
-      "name": "v0.55.6 Arizona Nexus / Presentation Integrity Audit",
-      "version": "0.55.6",
+      "name": "v0.55.7 Source Integrity / Mobile Layout Correction Audit",
+      "version": "0.55.7",
       "public_claims": 151,
       "governed_source_ids": 126,
       "track_records": 42,
@@ -98,7 +98,7 @@
       "mapped_locations": 18,
       "intentionally_unpinned": 24,
       "geographic_absolute": "41/42 V0.47 LOCATION OBJECTS UNCHANGED; AZ-TRK-0102 SOLE AUTHORIZED LOCATION PROMOTION TO SITE_POINT_APPROXIMATE AT THE UNCHANGED AZ-TRK-0001 CHANDLER COORDINATE; CURRENT CHANDLER LOCATION OBJECT, AUTHORITATIVE ARIZONA SVG AND MASK UNCHANGED",
-      "status": "ARIZONA NEXUS / PRESENTATION INTEGRITY AUDIT — PUBLIC/SUPPORTING CLASSIFICATION CORRECTED; GEOGRAPHIC ABSOLUTE UNCHANGED; HOSTED VISUAL SMOKE CHECK REQUIRED",
+      "status": "SOURCE INTEGRITY / MOBILE LAYOUT CORRECTION AUDIT — EXACT/PAGE-LEVEL ROUTES DISTINGUISHED; FRAGILE-SOURCE PRESERVATION QUEUE ADDED; GEOGRAPHIC ABSOLUTE UNCHANGED; HOSTED VISUAL SMOKE CHECK REQUIRED",
       "supporting_evidence_records": 33
     }
   },
@@ -109,7 +109,9 @@
     "expansion_gate": "PASS",
     "current_source_ids": 126,
     "supporting_evidence_records": 33,
-    "public_nexus_gate": "PASS — standalone public records require explicit/independently understandable Arizona BMX nexus"
+    "public_nexus_gate": "PASS — standalone public records require explicit/independently understandable Arizona BMX nexus",
+    "source_route_precision": "PASS — exact page/section targets are distinguished from page-level sources; no precision is invented",
+    "fragile_source_preservation": "8 fragile single-source IDs registered; preservation pending; no full third-party content publicly republished"
   },
   "release_hardening": {
     "official_logo_localized": true,

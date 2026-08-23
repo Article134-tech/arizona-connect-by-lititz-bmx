@@ -1,0 +1,124 @@
+[
+  {
+    "claims": [
+      "AZ-PUB-0051",
+      "AZ-PUB-0052",
+      "AZ-PUB-0055"
+    ],
+    "source_id": "AZ-SRC-0033",
+    "original_url": "https://www.oocities.org/geobmx540/track.html",
+    "host": "www.oocities.org",
+    "risk": "HIGH",
+    "risk_reason": "LEGACY MIRROR / HOST-LONGEVITY RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0060"
+    ],
+    "source_id": "AZ-SRC-0039",
+    "original_url": "https://www.bmxtra.com/tracks/AZtracks.htm",
+    "host": "www.bmxtra.com",
+    "risk": "MEDIUM-HIGH",
+    "risk_reason": "LEGACY SPECIALIST SITE",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0094"
+    ],
+    "source_id": "AZ-SRC-0066",
+    "original_url": "https://arizonafamilies.blogspot.com/2011_05_29_archive.html",
+    "host": "arizonafamilies.blogspot.com",
+    "risk": "MEDIUM-HIGH",
+    "risk_reason": "BLOG HOST / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0116"
+    ],
+    "source_id": "AZ-SRC-0076",
+    "original_url": "https://motorbicycling.com/threads/hello-from-tucson.12132/post-116511",
+    "host": "motorbicycling.com",
+    "risk": "MEDIUM-HIGH",
+    "risk_reason": "COMMUNITY FORUM / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0139"
+    ],
+    "source_id": "AZ-SRC-0084",
+    "original_url": "https://www.facebook.com/groups/3631701850188754/posts/7279655855393317/",
+    "host": "www.facebook.com",
+    "risk": "HIGH",
+    "risk_reason": "SOCIAL PLATFORM / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0140"
+    ],
+    "source_id": "AZ-SRC-0085",
+    "original_url": "https://www.facebook.com/bmxhof/videos/ever-wonder-how-and-why-the-aba-got-started-way-back-in-1977-bmx-hall-of-famer-a/1230240625126141/",
+    "host": "www.facebook.com",
+    "risk": "HIGH",
+    "risk_reason": "SOCIAL PLATFORM / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0141"
+    ],
+    "source_id": "AZ-SRC-0086",
+    "original_url": "https://groups.io/g/vanishingtucson/topic/50871575",
+    "host": "groups.io",
+    "risk": "MEDIUM-HIGH",
+    "risk_reason": "COMMUNITY ARCHIVE / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  },
+  {
+    "claims": [
+      "AZ-PUB-0166"
+    ],
+    "source_id": "AZ-SRC-0110",
+    "original_url": "https://fergusotters66.blogspot.com/2007/01/",
+    "host": "fergusotters66.blogspot.com",
+    "risk": "MEDIUM-HIGH",
+    "risk_reason": "BLOG HOST / SINGLE-ROUTE RISK",
+    "preservation_state": "PRESERVATION PENDING",
+    "capture_state": "NO LOCAL SOURCE-CONTENT CAPTURE INCLUDED IN PUBLIC DEPLOYMENT",
+    "checked_date": "2026-08-23",
+    "public_republication": "NOT AUTHORIZED BY THIS RECORD",
+    "policy": "Preserve provenance metadata now; store any future full capture in a controlled preservation layer unless permission or rights permit public display."
+  }
+]
