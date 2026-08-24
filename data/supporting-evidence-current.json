@@ -267,7 +267,7 @@
     "source_urls": [
       "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park"
     ],
-    "evidence_boundary": "This establishes the current Gene C. Reid Park property reference, not the exact historical Reid Park BMX course center. Combined with period Reid Park BMX identity evidence and the attributed rider memory, it supports only a SITE_POINT_APPROXIMATE at the park property.",
+    "evidence_boundary": "This establishes the current Gene C. Reid Park property reference, not the exact historical Reid Park BMX course center. Combined with period Reid Park BMX identity evidence and the attributed rider memory, it supports only an approximate location at the park property.",
     "status": "SUPPORTING_EVIDENCE",
     "growth_release": "v0.33",
     "admission_basis": "Official municipal park page used only as bounded property-level geographic control",
@@ -375,7 +375,7 @@
     "source_urls": [
       "https://maps-and-records.tucsonaz.gov/construction-plans/details/7853"
     ],
-    "evidence_boundary": "The 1963 master plan is a pre-band-stage, pre-BMX spatial-control record for Randolph Park. It does not label a BMX course and cannot locate the later 1977 Randolph Park BMX Track by itself. The Atlas uses it only to register earlier park geometry around the later recovery problem.",
+    "evidence_boundary": "The 1963 master plan is a pre-band-stage, pre-BMX spatial reference record for Randolph Park. It does not label a BMX course and cannot locate the later 1977 Randolph Park BMX Track by itself. The Atlas uses it only to register earlier park geometry around the later recovery problem.",
     "status": "SUPPORTING_EVIDENCE",
     "growth_release": "v0.37",
     "admission_basis": "Official City engineering-plan metadata with surviving scanned plan sheets; admitted as spatial context only",
@@ -537,7 +537,7 @@
     "source_urls": [
       "https://lib.arizona.edu/find/maps/aerial"
     ],
-    "evidence_boundary": "This establishes the existence of near-period Tucson aerial holdings that can be used to test the Reid/Randolph bandshell-area hypothesis. No aerial from those sets has been admitted here as course-level evidence, so no BMX footprint or coordinate promotion follows.",
+    "evidence_boundary": "This establishes the existence of near-period Tucson aerial holdings that can be used to test the Reid/Randolph bandshell-area hypothesis. No aerial from those sets has been used here as course-level evidence, so no BMX footprint or coordinate promotion follows.",
     "status": "SUPPORTING_EVIDENCE",
     "growth_release": "v0.38",
     "admission_basis": "University archival guide identifies the correct near-period aerial collections for the unresolved Reid/Randolph registration problem.",
@@ -564,7 +564,7 @@
     "source_urls": [
       "https://gis.pima.gov/maps/RFCD/aerialsgrid/"
     ],
-    "evidence_boundary": "This is an aerial-recovery route, not a recovered BMX image. Its stated coverage begins approximately two years after the attributed 1977 Randolph Park BMX caption, and no section image is used here to identify a course footprint or move the governed point.",
+    "evidence_boundary": "This is an aerial-recovery route, not a recovered BMX image. Its stated coverage begins approximately two years after the attributed 1977 Randolph Park BMX caption, and no section image is used here to identify a course footprint or move the documented location.",
     "status": "SUPPORTING_EVIDENCE",
     "growth_release": "v0.38",
     "admission_basis": "Official county aerial index adds a second geospatial recovery route that can be registered by the same township/range/section framework as the City field books.",
@@ -695,7 +695,7 @@
     "source_urls": [
       "https://maps-and-records.tucsonaz.gov/field-books/details/508"
     ],
-    "evidence_boundary": "Field Book 1118 is a materially closer pre-BMX spatial-control record than the 1926 and 1951 books and its official scans preserve Recreation Center-site survey geometry. The record still does not label a BMX course, prove that a 1977 course occupied the Recreation Center survey area, or establish an exact historical track center.",
+    "evidence_boundary": "Field Book 1118 is a materially closer pre-BMX spatial reference record than the 1926 and 1951 books and its official scans preserve Recreation Center-site survey geometry. The record still does not label a BMX course, prove that a 1977 course occupied the Recreation Center survey area, or establish an exact historical track center.",
     "status": "SUPPORTING_EVIDENCE",
     "growth_release": "v0.39 archival-site recovery 2",
     "admission_basis": "Direct City of Tucson field-book record and linked official scans establish a dated 1966 Recreation Center-site survey suitable for bounded pre-BMX spatial registration.",

@@ -340,7 +340,7 @@
     "source_urls": [
       "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026"
     ],
-    "evidence_boundary": "Keep 'since 1985' tied to the source's Black Mountain/operator framing; exact Road Runner-to-Black Mountain chronology remains separately controlled.",
+    "evidence_boundary": "Keep 'since 1985' tied to the source's Black Mountain/operator framing; exact Road Runner-to-Black Mountain chronology remains a separate open question.",
     "status": "PUBLIC_ADMISSION_READY",
     "legacy_claim_id": null,
     "first_edition_admission": "PASS",
@@ -489,7 +489,7 @@
     "source_urls": [
       "https://www.usabmx.com/tracks/az-sports-park-bmx"
     ],
-    "evidence_boundary": "Current-directory claim only; historical Tucson track identities remain separately governed.",
+    "evidence_boundary": "Current-directory claim only; historical Tucson track identities remain documented separately.",
     "status": "PUBLIC_ADMISSION_READY",
     "legacy_claim_id": null,
     "first_edition_admission": "PASS",
@@ -1734,11 +1734,11 @@
   },
   {
     "claim_id": "AZ-PUB-0090",
-    "category": "Historical Tracks / Conflict Control",
+    "category": "Historical Tracks / Conflicting Records",
     "public_claim": "A 2013 IMCA points document separately lists “Thunder Raceway — Show Low, AZ” in an auto-racing competition context, while the 1998 BMX directory independently lists Thunder Raceway in Show Low as an ABA BMX track.",
-    "evidence_character": "CONFLICT CONTROL — CROSS-SPORT SAME-NAME EVIDENCE",
+    "evidence_character": "CONFLICTING SAME-NAME EVIDENCE — CROSS-SPORT COMPARISON",
     "authority": "B1 + B2",
-    "confidence": "HIGH FOR NAME-CONFLICT CONTROL",
+    "confidence": "HIGH FOR NAME-CONFLICT DISTINCTION",
     "source_ids": [
       "AZ-SRC-0033",
       "AZ-SRC-0063"
@@ -2789,7 +2789,7 @@
   {
     "claim_id": "AZ-PUB-0138",
     "category": "Historical Tracks / Geographic Registration",
-    "public_claim": "The prior Prescott Heritage Park SITE_POINT_APPROXIMATE at 34.6133572, -112.4404465 is withdrawn from Geographic Absolute. Heritage Park BMX is now CITY_ONLY_NO_POINT because the corrected period evidence places the track identity under Phoenix and no defensible Phoenix site coordinate has been recovered.",
+    "public_claim": "The previously published Prescott Heritage Park location at 34.6133572, -112.4404465 is withdrawn from the Arizona BMX map. Heritage Park BMX is now documented to Phoenix only because the corrected period evidence places the track identity under Phoenix and no defensible Phoenix site coordinate has been recovered.",
     "evidence_character": "CORRECTION — GOVERNED GEOGRAPHY WITHDRAWAL",
     "authority": "B1 / A1 / A2 / C1 REVIEW",
     "confidence": "HIGH FOR PIN WITHDRAWAL / OPEN FOR EXACT PHOENIX SITE",
@@ -2807,7 +2807,7 @@
       "https://prescott-az.gov/rec-services/recreation-areas-prescott/parks/heritage-park/",
       "https://www.anyplaceamerica.com/directory/az/yavapai-county-04025/parks/heritage-park-2040099/"
     ],
-    "evidence_boundary": "The withdrawn coordinate remains a valid reference for the current City of Prescott Heritage Park, but it is no longer a BMX coordinate. No replacement Phoenix point is admitted. The exact 1985 Heritage Park BMX site remains unresolved.",
+    "evidence_boundary": "The withdrawn coordinate remains a valid reference for the current City of Prescott Heritage Park, but it is no longer a BMX coordinate. No replacement Phoenix point is published. The exact 1985 Heritage Park BMX site remains unresolved.",
     "status": "PUBLIC_CORRECTION_READY",
     "growth_release": "v0.44",
     "admission_basis": "Period-directory correction invalidates the prior Prescott park-property synthesis; Geographic Absolute therefore withdraws the point",
@@ -2958,7 +2958,7 @@
   {
     "claim_id": "AZ-PUB-0146",
     "category": "Historical Tracks / Geographic Registration",
-    "public_claim": "The Town of Chino Valley identifies current Memory Park at Palomino Road and N Road 1 West; combined with USA BMX’s repeated 2002–2003 event address and its embedded 2003 driving-directions coordinate, the Atlas admits only a Memory Park property-level SITE_POINT_APPROXIMATE for Mile High BMX (Chino Valley).",
+    "public_claim": "The Town of Chino Valley identifies current Memory Park at Palomino Road and N Road 1 West; combined with USA BMX’s repeated 2002–2003 event address and its embedded 2003 driving-directions coordinate, the evidence supports an approximate Memory Park property-level location for Mile High BMX (Chino Valley).",
     "evidence_character": "SYNTHESIS — OFFICIAL SANCTIONING-BODY EVENT ADDRESS + MUNICIPAL PARK CROSS-CHECK",
     "authority": "A1",
     "confidence": "HIGH FOR MEMORY PARK ADDRESS ASSOCIATION; MEDIUM-HIGH FOR EVENT-SITE PROPERTY; LOW FOR COURSE CENTER",
@@ -3037,7 +3037,7 @@
     "source_urls": [
       "https://oldschoolmags.com/mags/BMXA_8505.pdf"
     ],
-    "evidence_boundary": "This establishes Desert Edge BMX as a separately named Phoenix historical track identity in the May 1985 period directory and preserves Scott Koby as the published contact. The same issue separately prints Heritage Park BMX with Kathy Scott and also includes 602-861-6070 among its numbers; that shared number is a relationship signal only. It does not prove the two names refer to the same facility, a rename, succession, shared ownership or operation, the same physical site, or uninterrupted activity. No exact Desert Edge address or course point is admitted.",
+    "evidence_boundary": "This establishes Desert Edge BMX as a separately named Phoenix historical track identity in the May 1985 period directory and preserves Scott Koby as the published contact. The same issue separately prints Heritage Park BMX with Kathy Scott and also includes 602-861-6070 among its numbers; that shared number is a relationship signal only. It does not prove the two names refer to the same facility, a rename, succession, shared ownership or operation, the same physical site, or uninterrupted activity. No exact Desert Edge address or course point is published.",
     "status": "PUBLIC_ADMISSION_READY",
     "growth_release": "v0.45 desert edge census recovery 1",
     "admission_basis": "Direct May 1985 period-directory occurrence under Phoenix; separate printed identity clears historical census admission while exact site and relationships remain open.",
@@ -3108,7 +3108,7 @@
       "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
       "https://oldschoolmags.com/mags/BMXA_8505.pdf"
     ],
-    "evidence_boundary": "This establishes Roadrunner Raceway as a separately named Phoenix historical BMX identity in March 1984 and again in May 1985. The changed published telephone numbers and the May 1985 Michael J. Guidice contact are preserved as period-directory facts. It does not establish the exact physical site, ownership or operator status, full opening or closing span, uninterrupted activity, or formal continuity with the May 1982 “Road Runner in Phoenix” wording, Road Runner Bike Center, Road Runner BMX, Black Mountain BMX, Heritage Park BMX, Desert Edge BMX, or any other Phoenix-area track. No coordinate is admitted.",
+    "evidence_boundary": "This establishes Roadrunner Raceway as a separately named Phoenix historical BMX identity in March 1984 and again in May 1985. The changed published telephone numbers and the May 1985 Michael J. Guidice contact are preserved as period-directory facts. It does not establish the exact physical site, ownership or operator status, full opening or closing span, uninterrupted activity, or formal continuity with the May 1982 “Road Runner in Phoenix” wording, Road Runner Bike Center, Road Runner BMX, Black Mountain BMX, Heritage Park BMX, Desert Edge BMX, or any other Phoenix-area track. No coordinate is published.",
     "status": "PUBLIC_ADMISSION_READY",
     "growth_release": "v0.47 roadrunner raceway census recovery 1",
     "admission_basis": "Two direct period-directory occurrences under the exact Roadrunner Raceway name and Phoenix city heading clear historical census admission while exact site, operator role and lineage remain open.",
@@ -3135,7 +3135,7 @@
       "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
       "https://www.usabmx.com/tracks/az-chandler-bmx/about"
     ],
-    "evidence_boundary": "This supports Chandler Jaycees BMX and current Chandler BMX occupying the same physical track site at the Frye/McQueen ground. It does not establish the exact 1975 or 1979–1983 dirt-course center, identical course geometry through time, every operator or sanction transition, uninterrupted organizational identity under one legal entity, or an exact 1975 street-address formulation. The historical map point therefore represents the shared site at SITE_POINT_APPROXIMATE precision, while the current Chandler point remains EXACT_TRACK_POINT.",
+    "evidence_boundary": "This supports Chandler Jaycees BMX and current Chandler BMX occupying the same physical track site at the Frye/McQueen ground. It does not establish the exact 1975 or 1979–1983 dirt-course center, identical course geometry through time, every operator or sanction transition, uninterrupted organizational identity under one legal entity, or an exact 1975 street-address formulation. The historical map marker represents the shared site approximately, while the current Chandler track location is documented exactly.",
     "status": "PUBLIC_ADMISSION_READY",
     "growth_release": "v0.48 chandler jaycees site continuity recovery 1",
     "admission_basis": "A specialist BMX history explicitly states Chandler Jaycees remained in the same location; the period BMX Plus! record independently identifies Chandler Jaycees as the ABA’s first track, while current USA BMX identifies the Frye/McQueen Chandler facility as the first track the ABA opened for sanctioned racing. Together these sources clear a same-physical-site threshold without clearing exact historical course geometry or every organizational transition.",

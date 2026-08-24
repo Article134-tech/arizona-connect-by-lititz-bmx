@@ -25,12 +25,15 @@ def baseline_digest(path: Path, mode: str = 'full') -> str:
     raise ValueError(f'unsupported baseline mode: {mode}')
 
 
-def verify_baseline(root: Path, manifest_path: Path) -> list[str]:
+def verify_baseline(root: Path, manifest_path: Path, release: str | None = None) -> list[str]:
     root = Path(root)
     manifest_path = Path(manifest_path)
     payload = json.loads(manifest_path.read_text(encoding='utf-8'))
     issues: list[str] = []
+    overrides = payload.get('authorized_overrides', {}).get(release, {}) if release else {}
     for rel, spec in payload.get('files', {}).items():
+        if rel in overrides:
+            spec = overrides[rel]
         path = root / rel
         if not path.is_file():
             issues.append(f'{rel}: missing frozen UX asset')
@@ -54,12 +57,13 @@ def main() -> int:
     parser = argparse.ArgumentParser(description='Verify Arizona Connect frozen UX baseline assets')
     parser.add_argument('root', nargs='?', default='.')
     parser.add_argument('--manifest', default='.github/qa/ux_baseline_v0558.json')
+    parser.add_argument('--release', default=None, help='Apply explicitly authorized correction hashes for this release')
     args = parser.parse_args()
     root = Path(args.root)
     manifest = Path(args.manifest)
     if not manifest.is_absolute():
         manifest = root / manifest
-    issues = verify_baseline(root, manifest)
+    issues = verify_baseline(root, manifest, release=args.release)
     if issues:
         print(f'FROZEN UX BASELINE FAIL: {len(issues)} issue(s)')
         for issue in issues:

@@ -47,6 +47,23 @@ class UxBaselineGuardTests(unittest.TestCase):
             js.write_text("const TIMELINE_DATA=[{\"id\":2}];\nconst LOGIC=2;\n", encoding='utf-8')
             self.assertEqual(1, len(verify_baseline(root, manifest)))
 
+    def test_accepts_explicit_authorized_correction_without_replacing_baseline(self) -> None:
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            path = root / 'atlas' / 'home-v017.js'
+            path.parent.mkdir(parents=True)
+            path.write_text('const VIEW="all";\n', encoding='utf-8')
+            corrected = hashlib.sha256(path.read_bytes()).hexdigest()
+            original = hashlib.sha256(b'const VIEW="current";\n').hexdigest()
+            manifest = root / 'manifest.json'
+            manifest.write_text(json.dumps({
+                'baseline':'v0.55.8',
+                'files':{'atlas/home-v017.js':original},
+                'authorized_overrides':{'v0.56.2':{'atlas/home-v017.js':corrected}},
+            }), encoding='utf-8')
+            self.assertEqual([], verify_baseline(root, manifest, release='v0.56.2'))
+            self.assertEqual(1, len(verify_baseline(root, manifest)))
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)

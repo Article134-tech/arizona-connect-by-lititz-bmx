@@ -78,5 +78,39 @@
       "sha256": "33271fe47e867847ac69105361a555775c9c2fa21f07b655e5521e87a78818ad",
       "mode": "full"
     }
+  },
+  "authorized_overrides": {
+    "0.56.2": {
+      "research/site.js": {
+        "sha256": "ce4395e49bd196194b65258a06b31e85451616d2e582bdff7ae903af292c9cfc",
+        "mode": "full",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      },
+      "atlas/home-v017.css": {
+        "sha256": "6f4a23aeb081e2bb3fbccd9f5b1539c5d5f07b0ea6fe7488713af90f7d86b866",
+        "mode": "full",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      },
+      "atlas/home-v017.js": {
+        "sha256": "5d40aeece6128de26f95e1638afc406b70c8edc66d569806021b95fc779e7ffb",
+        "mode": "full",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      },
+      "atlas/recovery/recovery-v023.js": {
+        "sha256": "e446c330c3f4341ac431d84c69e1992bc47461ed5acd2c908bc156ed907bac3f",
+        "mode": "full",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      },
+      "atlas/relationships/relationships-v022.js": {
+        "sha256": "8212b8f7df7788f1f9734beb9a7499d273580b5cbcffaaf901b0541cf15c5671",
+        "mode": "full",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      },
+      "atlas/timeline/timeline.js": {
+        "sha256": "34e1d3a957c2b03709a66dbd82b12ee0f09cfccf0edae4ac861c66c2132e435f",
+        "mode": "timeline_logic",
+        "reason": "v0.56.2 audited visitor/drill-down correction"
+      }
+    }
   }
 }

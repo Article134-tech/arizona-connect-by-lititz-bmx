@@ -9,6 +9,7 @@ const viewButtons=[...document.querySelectorAll('[data-view]')];
 function setView(view){
   viewButtons.forEach(b=>{const active=b.dataset.view===view;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});
   stage?.classList.toggle('historical-on',view==='historical');
+  stage?.classList.toggle('all-on',view==='all');
   if(list) list.hidden=view!=='list';
   if(map) map.hidden=view==='list';
 }
@@ -35,7 +36,8 @@ function apply(resetPage=false){
   const label=matches.length?`Showing ${start+1}-${end} of ${matches.length}`:'Showing 0-0 of 0'; statuses.forEach(x=>x.textContent=label);
   pagers.forEach(n=>{n.replaceChildren();if(pages<=1){n.hidden=true;return}n.hidden=false;n.append(pageButton('Previous',page-1,page===1,false));for(let i=1;i<=pages;i++)n.append(pageButton(String(i),i,false,i===page));n.append(pageButton('Next',page+1,page===pages,false))});
 }
-search?.addEventListener('input',()=>apply(true));filter?.addEventListener('change',()=>apply(true));locationFilter?.addEventListener('change',()=>apply(true));apply();
+const params=new URLSearchParams(location.search);const focusTrack=params.get('track');if(focusTrack&&cards.some(c=>c.id===`card-${focusTrack}`)){if(search)search.value=focusTrack;}
+search?.addEventListener('input',()=>apply(true));filter?.addEventListener('change',()=>apply(true));locationFilter?.addEventListener('change',()=>apply(true));apply(true);if(focusTrack){requestAnimationFrame(()=>document.getElementById(`card-${focusTrack}`)?.scrollIntoView({block:'center'}));}
 
 function activateTrackCards(){
   const interactive='a,button,input,select,textarea,label,summary';

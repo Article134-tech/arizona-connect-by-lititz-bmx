@@ -45,7 +45,7 @@
     "confidence": "HIGH",
     "address": "9245 E Irvington, Tucson, Arizona 85730",
     "source": "https://www.usabmx.com/tracks/az-tucson-bmx",
-    "note": "Current official track record. Historical Tucson names remain separately governed."
+    "note": "Current official track record. Historical Tucson names remain documented separately."
   },
   {
     "id": "AZ-TRK-0005",
@@ -233,7 +233,7 @@
     "city": "Show Low",
     "group": "historical",
     "status": "PERIOD_BMX_DIRECTORY_VERIFIED_CROSS_SPORT_NAME_CONFLICT_CONTROLLED",
-    "authority": "B1 + B2 conflict control",
+    "authority": "B1 + B2 conflicting same-name sources",
     "confidence": "HIGH FOR 1998 BMX IDENTITY; HIGH FOR SAME-NAME CONFLICT",
     "address": null,
     "source": "https://www.oocities.org/geobmx540/track.html",
@@ -261,7 +261,7 @@
     "confidence": "HIGH FOR DATED OCCURRENCES; MEDIUM-HIGH FOR PHYSICAL SITE HISTORY",
     "address": "7260 Sara Park Lane, Lake Havasu City, Arizona",
     "source": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
-    "note": "Sara Park BMX is preserved in a March 2002 ABA directory and a dated 2013 USA BMX event. A 2017 local retrospective places the physical raceway at 7260 Sara Park Lane, reports an early-1990s origin era and a circa-2015 rebuild retaining asphalt turns. The historical physical site is now registered at the same governed point as current Lake Havasu City BMX; organizational/identity continuity with London Bridge and the current name remains open."
+    "note": "Sara Park BMX is preserved in a March 2002 ABA directory and a dated 2013 USA BMX event. A 2017 local retrospective places the physical raceway at 7260 Sara Park Lane, reports an early-1990s origin era and a circa-2015 rebuild retaining asphalt turns. The historical physical site is now registered at the same documented location as current Lake Havasu City BMX; organizational/identity continuity with London Bridge and the current name remains open."
   },
   {
     "id": "AZ-TRK-0112",
@@ -321,7 +321,7 @@
     "confidence": "HIGH FOR IDENTITY; MEDIUM-HIGH FOR PARK-LEVEL SITE AND RECOVERY FRAME; MEDIUM-LOW FOR EXACT COURSE FOOTPRINT",
     "address": null,
     "source": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
-    "note": "The Reid/Randolph record retains its 1977 attributed Randolph Park BMX caption, 1980–1983 rider memory, 1984 directory identity and bandshell-vicinity memory. City engineering records register park/bandshell geometry in 1963, 1966 and 1985. v0.39 resolves the previously undated field-book leads: 0174 is a 1926 base-topography/layout record, 0677 is a 1951 topography/cross-section/bench-circuit record, and 1118 is a June 1966 Randolph Park Recreation Center-site survey. A 2023 City record-request entry further states that historical Reid/Randolph/Zoo plans and documents are now in restricted OnBase custody. None of these records labels the 1977 BMX dirt course. The governed Gene C. Reid Park property point remains exactly unchanged."
+    "note": "The Reid/Randolph record retains its 1977 attributed Randolph Park BMX caption, 1980–1983 rider memory, 1984 directory identity and bandshell-vicinity memory. City engineering records register park/bandshell geometry in 1963, 1966 and 1985. v0.39 resolves the previously undated field-book leads: 0174 is a 1926 base-topography/layout record, 0677 is a 1951 topography/cross-section/bench-circuit record, and 1118 is a June 1966 Randolph Park Recreation Center-site survey. A 2023 City record-request entry further states that historical Reid/Randolph/Zoo plans and documents are now in restricted OnBase custody. None of these records labels the 1977 BMX dirt course. The documented Gene C. Reid Park property location remains exactly unchanged."
   },
   {
     "id": "AZ-TRK-0117",
@@ -481,7 +481,7 @@
     "confidence": "HIGH FOR 2002–2003 EVENT IDENTITY; MEDIUM-HIGH FOR MEMORY PARK PROPERTY ASSOCIATION",
     "address": "1020 W Palomino Rd, Chino Valley, Arizona 86323",
     "source": "https://www.usabmx.com/events/235476/results",
-    "note": "USA BMX records State Qualifiers at Mile High BMX in Chino Valley on August 11, 2002 and August 10, 2003, both with 1020 W Palamino Rd as the published address. The Town currently identifies Memory Park at Palomino Road and N Road 1 West. The Atlas admits only a Memory Park property-level SITE POINT APPROXIMATE. This record remains separate from 1983–1984 Mile-Hi BMX, the 1984 Chino Valley BMX directory identity, and later Old Home Manor BMX-site evidence."
+    "note": "USA BMX records State Qualifiers at Mile High BMX in Chino Valley on August 11, 2002 and August 10, 2003, both with 1020 W Palamino Rd as the published address. The Town currently identifies Memory Park at Palomino Road and N Road 1 West. The evidence supports an approximate Memory Park property-level location. This record remains separate from 1983–1984 Mile-Hi BMX, the 1984 Chino Valley BMX directory identity, and later Old Home Manor BMX-site evidence."
   },
   {
     "id": "AZ-TRK-0130",

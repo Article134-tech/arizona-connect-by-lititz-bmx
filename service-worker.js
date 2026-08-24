@@ -1,5 +1,5 @@
-const CACHE = 'arizona-connect-v0.56.1-content-growth-1';
-const SHELL=['./','./index.html','./styles.css?v=0.56.1','./app.js','./manifest.webmanifest',
+const CACHE = 'arizona-connect-v0.56.2-content-growth-1';
+const SHELL=['./','./index.html','./styles.css?v=0.56.2','./app.js','./manifest.webmanifest',
 './assets/lititz-bmx-logo-white-white.png','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));

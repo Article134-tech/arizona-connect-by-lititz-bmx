@@ -21,9 +21,11 @@ jobs:
       - name: Run end-user QA release gate
         run: |
           python -B .github/qa/test_end_user_qa.py
-          python -B .github/qa/end_user_qa.py . --version 0.56.1
+          python -B .github/qa/end_user_qa.py . --version 0.56.2
+          python -B .github/qa/test_release_integrity_qa.py
+          python -B .github/qa/release_integrity_qa.py . --version 0.56.2
           python -B .github/qa/test_ux_baseline_guard.py
-          python -B .github/qa/ux_baseline_guard.py .
+          python -B .github/qa/ux_baseline_guard.py . --release 0.56.2
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
