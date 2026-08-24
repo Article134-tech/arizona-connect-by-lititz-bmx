@@ -1,5 +1,5 @@
 {
-  "version": "0.55.7",
+  "version": "0.55.8",
   "claims": 151,
   "claim_gate": "PASS",
   "app_order": [
@@ -10,7 +10,7 @@
   "hall_of_fame_url": "https://www.azbmxhof.org/",
   "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
   "atlas": {
-    "checkpoint": "v0.55.7 Source Integrity / Mobile Layout Correction Audit",
+    "checkpoint": "v0.55.8 Source Integrity / Mobile Layout Correction Audit",
     "records": 42,
     "current_snapshot": 11,
     "historical_verified": 31,
@@ -64,7 +64,7 @@
       "span": "1977-2026",
       "interactive": true,
       "status": "PASS — evidence-linked chronology; open questions separated",
-      "data_version": "v0.55.7-nexus-audit-1"
+      "data_version": "v0.55.8-nexus-audit-1"
     },
     "phase5_events": {
       "event_records": 28,
@@ -82,8 +82,8 @@
       "deployment_review_pending": true
     },
     "current_release": {
-      "name": "v0.55.7 Source Integrity / Mobile Layout Correction Audit",
-      "version": "0.55.7",
+      "name": "v0.55.8 Source Integrity / Mobile Layout Correction Audit",
+      "version": "0.55.8",
       "public_claims": 151,
       "governed_source_ids": 126,
       "track_records": 42,

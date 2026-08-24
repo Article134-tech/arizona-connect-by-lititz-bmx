@@ -1,8 +1,8 @@
-# Arizona Connect by Lititz BMX — v0.55.7
+# Arizona Connect by Lititz BMX — v0.55.8
 
 ## Current release
 
-Source Integrity / Mobile Layout Correction Audit.
+End-User QA / Visitor Presentation Correction Audit.
 
 - 151 public Arizona claims
 - 33 supporting evidence records preserved separately
@@ -25,3 +25,5 @@ Release rule: a public claim must be independently understandable as an Arizona 
 - Track-profile map captions flow beneath the map on mobile instead of overlaying the image; long source URLs wrap inside their cards.
 - Source Directory distinguishes public Arizona claim usage from supporting-evidence usage.
 
+
+- Public presentation copy is screened for developer/data-model narration before Pages deployment; the automated end-user QA gate runs in GitHub Actions.

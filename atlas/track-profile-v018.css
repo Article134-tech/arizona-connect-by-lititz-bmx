@@ -30,6 +30,6 @@
 .tp-flow-step:focus-visible{box-shadow:0 0 0 3px rgba(154,98,220,.24)}
 #claims,#correction,#track-title{scroll-margin-top:110px}
 
-/* v0.55.7 whole-claim-tile navigation */
+/* v0.55.8 whole-claim-tile navigation */
 .tp-claim[role="link"]{cursor:pointer}
 .tp-claim[role="link"]:focus-visible{outline:3px solid #d7b6ff;outline-offset:4px;border-color:#8755bd}
