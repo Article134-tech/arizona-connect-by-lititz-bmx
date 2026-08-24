@@ -1,0 +1,267 @@
+[
+  {
+    "claim_id": "AZ-PUB-0188",
+    "category": "Current Tracks / Municipal Parks",
+    "public_claim": "Yuma County's adopted 2020 Parks Master Plan identifies Yuma BMX Park as one of the County's two special-purpose parks and says the County relies on agreements with volunteers, community groups and other third parties to maintain and operate its parks.",
+    "evidence_character": "FACT — COUNTY-ADOPTED PARKS MASTER PLAN",
+    "authority": "A2",
+    "confidence": "HIGH FOR COUNTY PARK CLASSIFICATION AND 2020 OPERATING MODEL",
+    "source_ids": [
+      "AZ-SRC-0136"
+    ],
+    "source_urls": [
+      "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf"
+    ],
+    "evidence_boundary": "This establishes Yuma BMX Park as a Yuma County special-purpose park and documents the County’s general agreement-based operating model in the adopted 2020 plan. It does not identify the specific 2020 Yuma BMX lessee, reproduce the terms of any BMX agreement, or prove uninterrupted operation from an earlier period.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Adopted Yuma County Parks Master Plan provides direct county-level facility and operating-model evidence.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0189",
+    "category": "Current Tracks / Municipal Facility",
+    "public_claim": "Yuma County's 2020 Parks Master Plan inventory lists Yuma BMX on Pacific Avenue as a BMX dirt racing track and classifies it as a special-purpose park.",
+    "evidence_character": "FACT — COUNTY FACILITY INVENTORY",
+    "authority": "A2",
+    "confidence": "HIGH",
+    "source_ids": [
+      "AZ-SRC-0136"
+    ],
+    "source_urls": [
+      "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf"
+    ],
+    "evidence_boundary": "This establishes the County inventory wording, Pacific Avenue location corridor, BMX dirt-racing use and special-purpose classification in 2020. It does not replace the current USA BMX street-address record or establish the track’s opening date.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Adopted Yuma County facility table directly identifies the BMX park and use.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0190",
+    "category": "Organizations / Historical Governance",
+    "public_claim": "A 2009 Yuma County Board of Supervisors record explicitly refers to an August 20, 2001 agreement between Yuma County and Yuma BMX, Inc. when describing the county property governed by the later agreement.",
+    "evidence_character": "FACT — COUNTY BOARD RECORD / PRIOR-AGREEMENT REFERENCE",
+    "authority": "A2",
+    "confidence": "HIGH FOR EXISTENCE AND DATE OF REFERENCED AGREEMENT",
+    "source_ids": [
+      "AZ-SRC-0137"
+    ],
+    "source_urls": [
+      "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000"
+    ],
+    "evidence_boundary": "This establishes that Yuma County’s 2009 record recognized an August 20, 2001 agreement with Yuma BMX, Inc. It does not reproduce the 2001 agreement, establish all of its terms, prove the exact 2001 course footprint, or by itself prove uninterrupted organizational continuity to the current operator.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Official county record independently anchors a dated Yuma County ↔ Yuma BMX, Inc. agreement.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0191",
+    "category": "Historical Tracks / Dated Event",
+    "public_claim": "A September 27, 2020 USA BMX event record at 2600 Fairgrounds Blvd in Kingman contains event-description text naming High Desert 66 and directing riders to the High Desert 66 BMX Facebook page.",
+    "evidence_character": "FACT — FIRST-PARTY DATED EVENT DESCRIPTION",
+    "authority": "A1",
+    "confidence": "HIGH FOR 2020 HIGH DESERT 66 NAME + FAIRGROUNDS ADDRESS WITNESS",
+    "source_ids": [
+      "AZ-SRC-0138"
+    ],
+    "source_urls": [
+      "https://www.usabmx.com/events/445128"
+    ],
+    "evidence_boundary": "The dated event content establishes High Desert 66 wording at the 2600 Fairgrounds Blvd venue on September 27, 2020. The current USA BMX page shell now displays Interstate BMX; that present-day shell label is not backdated as a 2020 name. This record does not establish the exact legal or organizational transition from High Desert 66 to Interstate BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Dated USA BMX event content provides a name-and-site witness while the live-shell naming limitation is explicitly controlled.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "event_ids": [
+      "AZ-EVT-0030"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0192",
+    "category": "Events / Local Impact",
+    "public_claim": "Kingman's 2021 Economic Development and Tourism annual report says the High Desert Route 66 Classic Nationals BMX Tournament at the Mohave County Fairgrounds drew roughly 500 competitors and 2,200–3,000 spectators, and that the tourism office assisted with hotel room blocks.",
+    "evidence_character": "FACT — MUNICIPAL ECONOMIC DEVELOPMENT ANNUAL REPORT",
+    "authority": "A2",
+    "confidence": "HIGH FOR REPORTED ATTENDANCE RANGE AND TOURISM SUPPORT",
+    "source_ids": [
+      "AZ-SRC-0139"
+    ],
+    "source_urls": [
+      "https://www.choosekingman.com/media/userfiles/subsite_236/files/resource-library/KAZ104_EcoDev2021AR_FINAL_PrintSingles.pdf"
+    ],
+    "evidence_boundary": "This establishes the City-reported 2021 event scale and tourism-office support. The attendance figures are reported estimates, not independently audited ticket counts, and the record does not establish a recurring annual attendance level.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "City annual report adds independent local-impact evidence to the already governed 2021 national-event record.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "event_ids": [
+      "AZ-EVT-0009"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0193",
+    "category": "Organizations / Nonprofit Record",
+    "public_claim": "ProPublica Nonprofit Explorer, using IRS-released filing data, lists High Desert 66 BMX Inc. in Kingman, Arizona with EIN 46-3346689 and preserves a full filing for the fiscal year ending December 2017.",
+    "evidence_character": "FACT — IRS-DERIVED NONPROFIT FILING DATABASE",
+    "authority": "B2 · IRS-derived public-record database",
+    "confidence": "HIGH FOR ORGANIZATION NAME, KINGMAN LOCATION, EIN AND FILING PERIOD",
+    "source_ids": [
+      "AZ-SRC-0140"
+    ],
+    "source_urls": [
+      "https://projects.propublica.org/nonprofits/organizations/463346689/201800699349200000/full/"
+    ],
+    "evidence_boundary": "This is an organizational record derived from IRS-released data. It does not establish the track’s opening date, the corporation’s exact formation date, the physical BMX course location, or legal/organizational succession to Interstate BMX.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "IRS-derived filing data provides an independent organizational anchor for High Desert 66 BMX Inc.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0194",
+    "category": "Current Tracks / County Parks",
+    "public_claim": "Mohave County Parks’ master-plan inventory lists Colorado River BMX Track at 2230 Highland Rd in Bullhead City as a 1.4-acre county recreation site with a BMX track.",
+    "evidence_character": "FACT — COUNTY PARKS MASTER-PLAN INVENTORY",
+    "authority": "A2",
+    "confidence": "HIGH FOR COUNTY INVENTORY, ADDRESS AND REPORTED ACREAGE",
+    "source_ids": [
+      "AZ-SRC-0141"
+    ],
+    "source_urls": [
+      "https://parks.mohave.gov/media/4sng0hlt/complete-parks-master-plan.pdf"
+    ],
+    "evidence_boundary": "This establishes the County inventory’s 1.4-acre site description and Highland Road address. It does not establish the opening date, exact historical course geometry, or lineage to the 1984–1985 Bullhead BMX identities.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Official Mohave County parks inventory independently corroborates the current Colorado River BMX site and acreage.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0195",
+    "category": "Current Tracks / Public Investment",
+    "public_claim": "Mohave County’s FY2026 tentative budget reports $48,118 in FY2024 actual capital expenditures under the line item “ARPA D2 COLORADO RIVER BMX.”",
+    "evidence_character": "FACT — COUNTY BUDGET / CAPITAL EXPENDITURE RECORD",
+    "authority": "A2",
+    "confidence": "HIGH FOR REPORTED FY2024 CAPITAL EXPENDITURE",
+    "source_ids": [
+      "AZ-SRC-0142"
+    ],
+    "source_urls": [
+      "https://www.mohave.gov/media/bwyjlnlm/2026-tentative-budget-june-2-2025.pdf"
+    ],
+    "evidence_boundary": "This establishes the County budget line item and reported FY2024 actual capital amount. It does not identify the specific improvements purchased, establish the total project cost, or imply ownership or operational changes beyond the budget record.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Official county budget adds a direct municipal-investment record for Colorado River BMX.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0009"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0196",
+    "category": "Historical Tracks / Community Construction",
+    "public_claim": "A 1989 Tribune-News report says 26 racers participated in the first BMX races at the new Holbrook facility on October 7 and that the special BMX track had been recently completed by volunteers.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / ARCHIVAL REPRODUCTION",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPORTED PARTICIPATION AND VOLUNTEER CONSTRUCTION",
+    "source_ids": [
+      "AZ-SRC-0070"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251741"
+    ],
+    "evidence_boundary": "This adds reported participation and volunteer-construction detail to the already governed 1989 opening-era record. It does not identify every volunteer, establish the full construction schedule, or prove the exact course-center coordinate.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Period local reporting preserves community-construction and first-race participation details.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "event_ids": [
+      "AZ-EVT-0025"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0197",
+    "category": "Historical Tracks / Period Assessment",
+    "public_claim": "The same 1989 Holbrook newspaper coverage quotes National Bike League state director Regina Martin as saying the new track was among the best and that she was impressed by the local effort to ready the facility.",
+    "evidence_character": "ATTRIBUTED PERIOD STATEMENT — NBL STATE DIRECTOR",
+    "authority": "B1",
+    "confidence": "HIGH FOR ATTRIBUTED PERIOD STATEMENT",
+    "source_ids": [
+      "AZ-SRC-0070"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251741"
+    ],
+    "evidence_boundary": "This preserves Martin’s period assessment and the reported local effort as an attributed statement. It is not converted into an objective statewide ranking and does not establish sanction history beyond what separate records support.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Period newspaper directly attributes the assessment to the NBL state director.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "event_ids": [
+      "AZ-EVT-0025"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0198",
+    "category": "Historical Tracks / Sanctioning",
+    "public_claim": "A 1989 Tribune-News clipping preserved in the Taylor Arizona Museum scrapbook describes the Holbrook BMXPRESS facility as a sanctioned National Bike League track and as the only NBL facility in Arizona at that time.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / SANCTIONING STATEMENT",
+    "authority": "B1",
+    "confidence": "HIGH FOR PERIOD-REPORTED NBL STATUS",
+    "source_ids": [
+      "AZ-SRC-0070"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251741"
+    ],
+    "evidence_boundary": "This establishes the period newspaper’s statement about NBL sanctioning and statewide uniqueness in 1989. It does not establish the exact sanction start/end dates, later sanction continuity, or a formal name-transition date to Painted Desert BMX Track.",
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 1",
+    "admission_basis": "Period local newspaper provides direct sanctioning-status language for the Holbrook facility.",
+    "audit_date": "2026-08-23",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  }
+]

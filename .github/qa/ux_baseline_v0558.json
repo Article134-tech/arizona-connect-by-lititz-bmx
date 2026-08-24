@@ -1,0 +1,82 @@
+{
+  "baseline": "v0.55.8",
+  "purpose": "Frozen UX and interaction assets for Arizona Connect content-growth releases. Content data/HTML may grow; these assets may change only in an explicit UX hotfix release.",
+  "files": {
+    "app.js": {
+      "sha256": "00b0c84eb1546ddb04334eedbd1235b43a9667a9d37d9dffbb56369cc2569909",
+      "mode": "full"
+    },
+    "styles.css": {
+      "sha256": "57403b0fe6e0df417419c12cc1c552e216b01d44f0857e8987eacfb9530d2216",
+      "mode": "full"
+    },
+    "research/site.css": {
+      "sha256": "98cab467c42142695053cd8f0b287cb39c2df66d33ccdcb860bb3d326284e651",
+      "mode": "full"
+    },
+    "research/site.js": {
+      "sha256": "1229821a57c0a73a4d6d6b95b393d157e5fa2512d4adbddb6c139d9792f45f6e",
+      "mode": "full"
+    },
+    "atlas/home-v017.css": {
+      "sha256": "e55f3d85c3321a71873c35015f1781cbc8aedad4e19756e67483c041119f6313",
+      "mode": "full"
+    },
+    "atlas/home-v017.js": {
+      "sha256": "d73f89568f461b5876507b8048c7eead4b83a7bc59f759f40561ab59295e2fa2",
+      "mode": "full"
+    },
+    "atlas/list-pagination.js": {
+      "sha256": "0bbf4f7e89577ef7080091ea5ddee8fc18684557f68a1901139015523dc106ee",
+      "mode": "full"
+    },
+    "atlas/methodology/methodology-v024.css": {
+      "sha256": "ed8735355a7d29fa782d7eb4f758297f6aa3ada5c3091a89197ec5adeddea265",
+      "mode": "full"
+    },
+    "atlas/recovery/recovery-v023.css": {
+      "sha256": "9699e1bac33f36ebf75275f12c3804f2cd23a1f7d4317833cfe8268ab2f08dcd",
+      "mode": "full"
+    },
+    "atlas/recovery/recovery-v023.js": {
+      "sha256": "ba89e9f309208eaeb40fb278d34913a984e45ab4ab0e05933f4c1e32070ba27c",
+      "mode": "full"
+    },
+    "atlas/relationships/relationships-v022.css": {
+      "sha256": "2d01ded4ea94015938aec4ac7e6056e49da42cf3c3758d7046f37032c0d4cd65",
+      "mode": "full"
+    },
+    "atlas/relationships/relationships-v022.js": {
+      "sha256": "4b1953b1df7b4750734a47ebc75b1188e46e8342b064c4df4ce00fb85f251fea",
+      "mode": "full"
+    },
+    "atlas/relationships/relationships.js": {
+      "sha256": "548975b3fb6a8aeaa944eab25059d87605880e85e9284905b6b259181324968d",
+      "mode": "full"
+    },
+    "atlas/site.css": {
+      "sha256": "f54569852c5f94cf55a4a708af1733dcab4aa80148d49e5a5d64c25fa3829661",
+      "mode": "full"
+    },
+    "atlas/site.js": {
+      "sha256": "1c8a2a1c33a546cb8d7448387343172769ae231cab7385b736eff5d16c82cdae",
+      "mode": "full"
+    },
+    "atlas/tile-navigation.js": {
+      "sha256": "e32f188c29eb07ea64e571967acba864f9a20b73c711d061f2a44433be1e4ef3",
+      "mode": "full"
+    },
+    "atlas/timeline/timeline-v021.css": {
+      "sha256": "cc72f696bd3ae9ad03e5b3562fe7adee8772c8280838d6ca6fcbe95f7b21ab1e",
+      "mode": "full"
+    },
+    "atlas/timeline/timeline.js": {
+      "sha256": "6b4433f413543eb08e53e9e3e293385b23cc4412cbfced742de7f57e75f46d0d",
+      "mode": "timeline_logic"
+    },
+    "atlas/track-profile-v018.css": {
+      "sha256": "33271fe47e867847ac69105361a555775c9c2fa21f07b655e5521e87a78818ad",
+      "mode": "full"
+    }
+  }
+}

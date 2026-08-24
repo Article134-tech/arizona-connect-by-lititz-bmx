@@ -1,6 +1,6 @@
 {
-  "version": "0.55.8",
-  "claims": 151,
+  "version": "0.56.1",
+  "claims": 162,
   "claim_gate": "PASS",
   "app_order": [
     "Arizona Research Register",
@@ -10,7 +10,7 @@
   "hall_of_fame_url": "https://www.azbmxhof.org/",
   "connection_url": "https://article134-tech.github.io/connection-by-lititz-bmx/",
   "atlas": {
-    "checkpoint": "v0.55.8 Source Integrity / Mobile Layout Correction Audit",
+    "checkpoint": "v0.56.1 Content Expansion 1 / Frozen v0.55.8 UX Baseline",
     "records": 42,
     "current_snapshot": 11,
     "historical_verified": 31,
@@ -43,7 +43,7 @@
       "current_site_approximate_points": 1,
       "historical_track_points": 1,
       "records_intentionally_unpinned": 13,
-      "status": "PASS — location state assigned to 25/25; historical census remains open"
+      "status": "PASS \u2014 location state assigned to 25/25; historical census remains open"
     },
     "historical_recovery_pass_1": {
       "former_leads_with_stronger_evidence": 9,
@@ -56,62 +56,64 @@
       "l1_internal_control": 5,
       "display_cleared": 0,
       "third_party_images_embedded": 0,
-      "status": "PASS — media relationships registered; no access-to-permission inference"
+      "status": "PASS \u2014 media relationships registered; no access-to-permission inference"
     },
     "timeline": {
-      "published_milestones": 77,
+      "published_milestones": 80,
       "open_questions": 4,
       "span": "1977-2026",
       "interactive": true,
-      "status": "PASS — evidence-linked chronology; open questions separated",
-      "data_version": "v0.55.8-nexus-audit-1"
+      "status": "PASS \u2014 evidence-linked chronology; open questions separated",
+      "data_version": "v0.56.1-growth-1"
     },
     "phase5_events": {
-      "event_records": 28,
+      "event_records": 29,
       "normalization": "one event/series occurrence per record",
       "status": "ACTIVE / INITIAL REGISTER BUILT"
     },
     "phase7_relationships": {
       "entities": 29,
       "edges": 17,
-      "status": "PASS — public edges are claim-bound"
+      "status": "PASS \u2014 public edges are claim-bound"
     },
     "a6_candidate": {
-      "status": "PRODUCT / CONTENT / BRAND HARDENING PASS — LIVE DEPLOYMENT SMOKE TEST PENDING",
+      "status": "PRODUCT / CONTENT / BRAND HARDENING PASS \u2014 LIVE DEPLOYMENT SMOKE TEST PENDING",
       "historical_census_complete": false,
       "deployment_review_pending": true
     },
     "current_release": {
-      "name": "v0.55.8 Source Integrity / Mobile Layout Correction Audit",
-      "version": "0.55.8",
-      "public_claims": 151,
-      "governed_source_ids": 126,
+      "name": "v0.56.1 Content Expansion 1",
+      "version": "0.56.1",
+      "public_claims": 162,
+      "governed_source_ids": 133,
       "track_records": 42,
       "current_tracks": 11,
       "historical_tracks": 31,
       "corroboration_open_leads": 0,
-      "timeline_milestones": 77,
+      "timeline_milestones": 80,
       "timeline_open_questions": 4,
-      "event_records": 28,
+      "event_records": 29,
       "relationship_edges": 17,
       "media_routes": 19,
       "mapped_locations": 18,
       "intentionally_unpinned": 24,
       "geographic_absolute": "41/42 V0.47 LOCATION OBJECTS UNCHANGED; AZ-TRK-0102 SOLE AUTHORIZED LOCATION PROMOTION TO SITE_POINT_APPROXIMATE AT THE UNCHANGED AZ-TRK-0001 CHANDLER COORDINATE; CURRENT CHANDLER LOCATION OBJECT, AUTHORITATIVE ARIZONA SVG AND MASK UNCHANGED",
-      "status": "SOURCE INTEGRITY / MOBILE LAYOUT CORRECTION AUDIT — EXACT/PAGE-LEVEL ROUTES DISTINGUISHED; FRAGILE-SOURCE PRESERVATION QUEUE ADDED; GEOGRAPHIC ABSOLUTE UNCHANGED; HOSTED VISUAL SMOKE CHECK REQUIRED",
+      "status": "CONTENT EXPANSION 1 \u2014 FROZEN v0.55.8 UX BASELINE; 11 NEW PUBLIC ARIZONA CLAIMS; GEOGRAPHIC ABSOLUTE UNCHANGED; HOSTED CONTENT SMOKE CHECK REQUIRED",
       "supporting_evidence_records": 33
     }
   },
   "research_register": {
     "baseline_a": 50,
     "expansion_51_60": 10,
-    "public_claims": 151,
+    "public_claims": 162,
     "expansion_gate": "PASS",
-    "current_source_ids": 126,
+    "current_source_ids": 133,
     "supporting_evidence_records": 33,
-    "public_nexus_gate": "PASS — standalone public records require explicit/independently understandable Arizona BMX nexus",
-    "source_route_precision": "PASS — exact page/section targets are distinguished from page-level sources; no precision is invented",
-    "fragile_source_preservation": "8 fragile single-source IDs registered; preservation pending; no full third-party content publicly republished"
+    "public_nexus_gate": "PASS \u2014 standalone public records require explicit/independently understandable Arizona BMX nexus",
+    "source_route_precision": "PASS \u2014 exact page/section targets are distinguished from page-level sources; no precision is invented",
+    "fragile_source_preservation": "8 fragile single-source IDs registered; preservation pending; no full third-party content publicly republished",
+    "growth_release": "v0.56.1 Content Expansion 1",
+    "frozen_ux_baseline": "v0.55.8"
   },
   "release_hardening": {
     "official_logo_localized": true,
@@ -123,7 +125,7 @@
     "reduced_motion": true,
     "external_blank_rel_hardened": true,
     "github_pages_workflow": true,
-    "candidate_label": "Demonstration / Concept Site — No affiliation implied.",
+    "candidate_label": "Demonstration / Concept Site \u2014 No affiliation implied.",
     "pwa_status": "RESTORED FROM CURRENT PRODUCTION CONNECTION PATTERN; exact production icon assets imported",
     "shell_recovery": "v0.7 visual source + v0.15.3 additive visual lock + production Connection behavior, state-namespaced"
   },

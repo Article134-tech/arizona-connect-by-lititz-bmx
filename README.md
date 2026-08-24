@@ -1,18 +1,18 @@
-# Arizona Connect by Lititz BMX — v0.55.8
+# Arizona Connect by Lititz BMX — v0.56.1
 
 ## Current release
 
-End-User QA / Visitor Presentation Correction Audit.
+Content Expansion 2 on the frozen v0.55.8 UX baseline.
 
-- 151 public Arizona claims
+- 173 public Arizona claims
 - 33 supporting evidence records preserved separately
-- 42 track records — 11 current / 31 historical
-- 77 published Timeline milestones + 4 open questions
-- 28 event records
+- 43 track records — 11 current / 32 historical
+- 83 published Timeline milestones + 4 open questions
+- 30 event records
 - 17 evidence-bounded relationships
-- 126 governed source IDs
-- 18 mapped / 24 intentionally unpinned
-- Geographic Absolute unchanged
+- 135 governed source IDs
+- 18 mapped / 25 intentionally unpinned
+- Geographic Absolute existing coordinates unchanged; J&M BMX enters as CITY_ONLY_NO_POINT
 
 Release rule: a public claim must be independently understandable as an Arizona BMX fact. National/out-of-state chronology and recovery/spatial context remain inspectable as supporting evidence rather than inflating the public claim register.
 ## Presentation / interaction gates

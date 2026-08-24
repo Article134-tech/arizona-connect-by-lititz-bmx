@@ -1,0 +1,2171 @@
+[
+  {
+    "claim_id": "AZ-PUB-0001",
+    "source_id": "AZ-SRC-0001",
+    "canonical_url": "https://www.usabmx.com/tracks/az-chandler-bmx/about",
+    "target_url": "https://www.usabmx.com/tracks/az-chandler-bmx/about",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0002",
+    "source_id": "AZ-SRC-0006",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2011-01-12/JBL%C2%AE-Audio-Equipment-continues-as-2011-ABA-National-Series-Sponsor?id=248",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2011-01-12/JBL%C2%AE-Audio-Equipment-continues-as-2011-ABA-National-Series-Sponsor?id=248",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0003",
+    "source_id": "AZ-SRC-0007",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2014-08-01/Chipotle-Celebrates-our-37th-company-Anniversary?id=1193",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2014-08-01/Chipotle-Celebrates-our-37th-company-Anniversary?id=1193",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0004",
+    "source_id": "AZ-SRC-0008",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2019-11-15/USA-BMX-Breaks-Ground-in-Tulsa?id=1723",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2019-11-15/USA-BMX-Breaks-Ground-in-Tulsa?id=1723",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0005",
+    "source_id": "AZ-SRC-0010",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2023-01-06/USA-BMX-2022-in-Review?id=1999",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2023-01-06/USA-BMX-2022-in-Review?id=1999",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0006",
+    "source_id": "AZ-SRC-0009",
+    "canonical_url": "https://www.usabmx.com/contact-us",
+    "target_url": "https://www.usabmx.com/contact-us",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0007",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=Debbie%20and%20her%20Hall%20of%20Famer%20husband%20Pete",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0008",
+    "source_id": "AZ-SRC-0013",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2021-04-02/Top-10-Tracks-in-2020?id=1885",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2021-04-02/Top-10-Tracks-in-2020?id=1885",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0009",
+    "source_id": "AZ-SRC-0002",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610#:~:text=Woman%3A%20DEBBI%20KALSOW",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0010",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=A%20Chandler%20BMX%20local%20since%201998",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0011",
+    "source_id": "AZ-SRC-0004",
+    "canonical_url": "https://usacycling.org/athlete/corben-sharrah",
+    "target_url": "https://usacycling.org/athlete/corben-sharrah",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0012",
+    "source_id": "AZ-SRC-0005",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0013",
+    "source_id": "AZ-SRC-0014",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2020-08-28/Gold-Cup-Championship-Series-Final-Locations-and-the-Final-National-Event-Location-?id=1838",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2020-08-28/Gold-Cup-Championship-Series-Final-Locations-and-the-Final-National-Event-Location-?id=1838",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0014",
+    "source_id": "AZ-SRC-0027",
+    "canonical_url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0098",
+    "target_url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0098",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0014",
+    "source_id": "AZ-SRC-0028",
+    "canonical_url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0100",
+    "target_url": "https://sites.google.com/view/lititzbmxinventorylist/home/26-0100",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0015",
+    "source_id": "AZ-SRC-0011",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2019-02-18/2019-Winter-Nationals-race-report?id=1660",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2019-02-18/2019-Winter-Nationals-race-report?id=1660",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0016",
+    "source_id": "AZ-SRC-0029",
+    "canonical_url": "https://www.usabmx.com/events/392743/results",
+    "target_url": "https://www.usabmx.com/events/392743/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0017",
+    "source_id": "AZ-SRC-0002",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610#:~:text=Woman%3A%20DEBBI%20KALSOW",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0018",
+    "source_id": "AZ-SRC-0002",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610#:~:text=Woman%3A%20DEBBI%20KALSOW",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0019",
+    "source_id": "AZ-SRC-0002",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2018-07-11/National-BMX-Hall-of-Fame---Class-of-2018?id=1610#:~:text=Woman%3A%20DEBBI%20KALSOW",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0020",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=A%20Chandler%20BMX%20local%20since%201998",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0021",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=A%20Chandler%20BMX%20local%20since%201998",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0022",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=A%20Chandler%20BMX%20local%20since%201998",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0023",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=Debbie%20and%20her%20Hall%20of%20Famer%20husband%20Pete",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0024",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=Debbie%20and%20her%20Hall%20of%20Famer%20husband%20Pete",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0025",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=Debbie%20and%20her%20Hall%20of%20Famer%20husband%20Pete",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0026",
+    "source_id": "AZ-SRC-0003",
+    "canonical_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026",
+    "target_url": "https://www.usabmx.com/news-and-media/General/2024-06-17/BMX-Hall-of-Fame-Class-of-2024?id=2026#:~:text=Debbie%20and%20her%20Hall%20of%20Famer%20husband%20Pete",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0027",
+    "source_id": "AZ-SRC-0004",
+    "canonical_url": "https://usacycling.org/athlete/corben-sharrah",
+    "target_url": "https://usacycling.org/athlete/corben-sharrah",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0028",
+    "source_id": "AZ-SRC-0004",
+    "canonical_url": "https://usacycling.org/athlete/corben-sharrah",
+    "target_url": "https://usacycling.org/athlete/corben-sharrah",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0029",
+    "source_id": "AZ-SRC-0005",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2013-03-06/2013-USA-Cycling-National-BMX-Championship---Collegiate-Women-Final?id=948",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0030",
+    "source_id": "AZ-SRC-0026",
+    "canonical_url": "https://www.usabmx.com/tracks/az-chandler-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-chandler-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0031",
+    "source_id": "AZ-SRC-0017",
+    "canonical_url": "https://www.usabmx.com/tracks/az-black-mountain%20bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-black-mountain%20bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0032",
+    "source_id": "AZ-SRC-0018",
+    "canonical_url": "https://www.usabmx.com/tracks/az-sports-park-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-sports-park-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0033",
+    "source_id": "AZ-SRC-0024",
+    "canonical_url": "https://www.usabmx.com/tracks/az-tucson-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-tucson-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0034",
+    "source_id": "AZ-SRC-0019",
+    "canonical_url": "https://www.usabmx.com/tracks/az-goodyear-bmx-raceway",
+    "target_url": "https://www.usabmx.com/tracks/az-goodyear-bmx-raceway",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0035",
+    "source_id": "AZ-SRC-0020",
+    "canonical_url": "https://www.usabmx.com/tracks/az-yuma-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-yuma-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0036",
+    "source_id": "AZ-ATL-SRC-0001",
+    "canonical_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0037",
+    "source_id": "AZ-SRC-0022",
+    "canonical_url": "https://www.usabmx.com/tracks/az-mingus-mountain-bmx-%28wheelhouse%29/events",
+    "target_url": "https://www.usabmx.com/tracks/az-mingus-mountain-bmx-%28wheelhouse%29/events",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0038",
+    "source_id": "AZ-SRC-0023",
+    "canonical_url": "https://www.usabmx.com/tracks/az-colorado-river-bmx/contact",
+    "target_url": "https://www.usabmx.com/tracks/az-colorado-river-bmx/contact",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0039",
+    "source_id": "AZ-SRC-0025",
+    "canonical_url": "https://www.usabmx.com/tracks/az-interstate-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-interstate-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0040",
+    "source_id": "AZ-ATL-SRC-0002",
+    "canonical_url": "https://www.usabmx.com/tracks/az-show-low-bmx/events",
+    "target_url": "https://www.usabmx.com/tracks/az-show-low-bmx/events",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0040",
+    "source_id": "AZ-SRC-0032",
+    "canonical_url": "https://www.usabmx.com/events/649827/results",
+    "target_url": "https://www.usabmx.com/events/649827/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0041",
+    "source_id": "AZ-SRC-0031",
+    "canonical_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412",
+    "target_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0042",
+    "source_id": "AZ-SRC-0031",
+    "canonical_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412",
+    "target_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/pages/2412",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0043",
+    "source_id": "AZ-ATL-SRC-0005",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0044",
+    "source_id": "AZ-ATL-SRC-0005",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0045",
+    "source_id": "AZ-ATL-SRC-0005",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2021-03-30/2021-USA-BMX-National-Series-Heads-to-High-Desert-66-BMX?id=1883",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0046",
+    "source_id": "AZ-SRC-0015",
+    "canonical_url": "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068",
+    "target_url": "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0047",
+    "source_id": "AZ-SRC-0015",
+    "canonical_url": "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068",
+    "target_url": "https://dev.usabmx.com/tracks/az-chandler-bmx/events/476068",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0048",
+    "source_id": "AZ-ATL-SRC-0003",
+    "canonical_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "target_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven#:~:text=Page%2034",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0049",
+    "source_id": "AZ-ATL-SRC-0004",
+    "canonical_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "target_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven#:~:text=Page%2034",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0050",
+    "source_id": "AZ-SRC-0016",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2013-02-07/USA-BMX-Welcomes-new-Editor-for-PULL-Magazine?id=925",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2013-02-07/USA-BMX-Welcomes-new-Editor-for-PULL-Magazine?id=925",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0051",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0052",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0053",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0053",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0054",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0054",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0055",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0056",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0056",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0057",
+    "source_id": "AZ-SRC-0035",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0058",
+    "source_id": "AZ-SRC-0036",
+    "canonical_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-clerks-office/minutes/documents/mn06-16-03.pdf",
+    "target_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-clerks-office/minutes/documents/mn06-16-03.pdf#page=8",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0058",
+    "source_id": "AZ-SRC-0035",
+    "canonical_url": "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019",
+    "target_url": "https://www.usabmx.com/news-and-media/6/2013-06-20/Olympic-Day-kicks-off-this-weekend-at-over-220-Tracks?id=1019",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0059",
+    "source_id": "AZ-SRC-0037",
+    "canonical_url": "https://canadiancyclist.com/dailynews.php?id=5801&title=2003+Redline+Cup+Schedule+%28BMX%29",
+    "target_url": "https://canadiancyclist.com/dailynews.php?id=5801&title=2003+Redline+Cup+Schedule+%28BMX%29",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0059",
+    "source_id": "AZ-SRC-0038",
+    "canonical_url": "https://www.bmxcanada.org/events/132426/results",
+    "target_url": "https://www.bmxcanada.org/events/132426/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0060",
+    "source_id": "AZ-SRC-0039",
+    "canonical_url": "https://www.bmxtra.com/tracks/AZtracks.htm",
+    "target_url": "https://www.bmxtra.com/tracks/AZtracks.htm",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0061",
+    "source_id": "AZ-SRC-0040",
+    "canonical_url": "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123",
+    "target_url": "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0062",
+    "source_id": "AZ-SRC-0040",
+    "canonical_url": "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123",
+    "target_url": "https://showlowaz.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=123",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0063",
+    "source_id": "AZ-SRC-0041",
+    "canonical_url": "https://www.bmxcanada.org/events/639990/results",
+    "target_url": "https://www.bmxcanada.org/events/639990/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0064",
+    "source_id": "AZ-SRC-0042",
+    "canonical_url": "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/bmx-track",
+    "target_url": "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/bmx-track",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0065",
+    "source_id": "AZ-SRC-0043",
+    "canonical_url": "https://www.usabmx.com/events/522306/results",
+    "target_url": "https://www.usabmx.com/events/522306/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0066",
+    "source_id": "AZ-SRC-0044",
+    "canonical_url": "https://www.usabmx.com/tracks/az-yuma-bmx/events/634178",
+    "target_url": "https://www.usabmx.com/tracks/az-yuma-bmx/events/634178",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0067",
+    "source_id": "AZ-SRC-0045",
+    "canonical_url": "https://www.usabmx.com/events/634177",
+    "target_url": "https://www.usabmx.com/events/634177",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0068",
+    "source_id": "AZ-SRC-0046",
+    "canonical_url": "https://www.usabmx.com/events/577624/results",
+    "target_url": "https://www.usabmx.com/events/577624/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0068",
+    "source_id": "AZ-SRC-0047",
+    "canonical_url": "https://www.usabmx.com/events/577623",
+    "target_url": "https://www.usabmx.com/events/577623",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0069",
+    "source_id": "AZ-SRC-0048",
+    "canonical_url": "https://www.usabmx.com/events/634173",
+    "target_url": "https://www.usabmx.com/events/634173",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0070",
+    "source_id": "AZ-SRC-0049",
+    "canonical_url": "https://www.usabmx.com/tracks/az-interstate-bmx/events/539676",
+    "target_url": "https://www.usabmx.com/tracks/az-interstate-bmx/events/539676",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0071",
+    "source_id": "AZ-SRC-0050",
+    "canonical_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0",
+    "target_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0#page=2",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0072",
+    "source_id": "AZ-SRC-0050",
+    "canonical_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0",
+    "target_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/2015-03-23-m.pdf?sfvrsn=e619dc7c_0#page=2",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0073",
+    "source_id": "AZ-SRC-0051",
+    "canonical_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-6-27-16.pdf?sfvrsn=3c1d007c_1",
+    "target_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-6-27-16.pdf?sfvrsn=3c1d007c_1#page=1",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0074",
+    "source_id": "AZ-SRC-0052",
+    "canonical_url": "https://www.usabmx.com/events/583444/results",
+    "target_url": "https://www.usabmx.com/events/583444/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0075",
+    "source_id": "AZ-SRC-0053",
+    "canonical_url": "https://www.usabmx.com/events/634174/results",
+    "target_url": "https://www.usabmx.com/events/634174/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0075",
+    "source_id": "AZ-SRC-0054",
+    "canonical_url": "https://www.usabmx.com/events/634175",
+    "target_url": "https://www.usabmx.com/events/634175",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0076",
+    "source_id": "AZ-SRC-0024",
+    "canonical_url": "https://www.usabmx.com/tracks/az-tucson-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-tucson-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0077",
+    "source_id": "AZ-SRC-0055",
+    "canonical_url": "https://www.usabmx.com/events/644956/results",
+    "target_url": "https://www.usabmx.com/events/644956/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0078",
+    "source_id": "AZ-SRC-0018",
+    "canonical_url": "https://www.usabmx.com/tracks/az-sports-park-bmx",
+    "target_url": "https://www.usabmx.com/tracks/az-sports-park-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0079",
+    "source_id": "AZ-SRC-0056",
+    "canonical_url": "https://www.usabmx.com/events/577625/results",
+    "target_url": "https://www.usabmx.com/events/577625/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0080",
+    "source_id": "AZ-SRC-0057",
+    "canonical_url": "https://www.usabmx.com/events/634176/results",
+    "target_url": "https://www.usabmx.com/events/634176/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0081",
+    "source_id": "AZ-SRC-0058",
+    "canonical_url": "https://www.govinfo.gov/content/pkg/FR-1998-03-10/pdf/FR-1998-03-10.pdf",
+    "target_url": "https://www.govinfo.gov/content/pkg/FR-1998-03-10/pdf/FR-1998-03-10.pdf#page=141",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0082",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0083",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0083",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0084",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0084",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0085",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0085",
+    "source_id": "AZ-SRC-0034",
+    "canonical_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "target_url": "https://www.cyclingwest.com/html/bmxdir.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0086",
+    "source_id": "AZ-SRC-0059",
+    "canonical_url": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
+    "target_url": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0087",
+    "source_id": "AZ-SRC-0060",
+    "canonical_url": "https://riverscenemagazine.com/meet-the-new-track-operators-at-sara-park-bmx/",
+    "target_url": "https://riverscenemagazine.com/meet-the-new-track-operators-at-sara-park-bmx/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0088",
+    "source_id": "AZ-SRC-0061",
+    "canonical_url": "https://www.legacy.com/us/obituaries/tucson/name/christopher-moon-obituary?id=22350326",
+    "target_url": "https://www.legacy.com/us/obituaries/tucson/name/christopher-moon-obituary?id=22350326",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0089",
+    "source_id": "AZ-SRC-0062",
+    "canonical_url": "https://www.pima.gov/1422/Winston-Reynolds---Manzanita-Park",
+    "target_url": "https://www.pima.gov/1422/Winston-Reynolds---Manzanita-Park",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0090",
+    "source_id": "AZ-SRC-0033",
+    "canonical_url": "https://www.oocities.org/geobmx540/track.html",
+    "target_url": "https://www.oocities.org/geobmx540/track.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0090",
+    "source_id": "AZ-SRC-0063",
+    "canonical_url": "https://www.imca.com/wp-content/uploads/2013/10/npf_tracks.pdf",
+    "target_url": "https://www.imca.com/wp-content/uploads/2013/10/npf_tracks.pdf#page=15",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0091",
+    "source_id": "AZ-SRC-0059",
+    "canonical_url": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
+    "target_url": "https://riverscenemagazine.com/exploring-havasu-sara-park-bmx-raceway/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0092",
+    "source_id": "AZ-SRC-0064",
+    "canonical_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/contact",
+    "target_url": "https://www.usabmx.com/tracks/az-lake-havasu-city-bmx/contact",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0093",
+    "source_id": "AZ-SRC-0065",
+    "canonical_url": "https://content.civicplus.com/api/assets/ed65a967-f65d-434d-9ef1-8de905aaa983",
+    "target_url": "https://content.civicplus.com/api/assets/ed65a967-f65d-434d-9ef1-8de905aaa983",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0094",
+    "source_id": "AZ-SRC-0066",
+    "canonical_url": "https://arizonafamilies.blogspot.com/2011_05_29_archive.html",
+    "target_url": "https://arizonafamilies.blogspot.com/2011_05_29_archive.html",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0095",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0096",
+    "source_id": "AZ-SRC-0068",
+    "canonical_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-9-24-18.pdf?sfvrsn=e33ee67c_6",
+    "target_url": "https://www.lhcaz.gov/docs/default-source/meeting-documents/parks-and-recreation-advisory-board-minutes-9-24-18.pdf?sfvrsn=e33ee67c_6#page=2",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0097",
+    "source_id": "AZ-SRC-0069",
+    "canonical_url": "https://www.bmxcanada.org/events/132426/results",
+    "target_url": "https://www.bmxcanada.org/events/132426/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0098",
+    "source_id": "AZ-SRC-0070",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0099",
+    "source_id": "AZ-SRC-0071",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0100",
+    "source_id": "AZ-SRC-0071",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0101",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0102",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0103",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0104",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0105",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0106",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0107",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0108",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0109",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0110",
+    "source_id": "AZ-SRC-0073",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf#page=34",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0111",
+    "source_id": "AZ-SRC-0073",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8209.pdf#page=34",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0112",
+    "source_id": "AZ-SRC-0074",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8310.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8310.pdf#page=9",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0113",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0114",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0115",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0116",
+    "source_id": "AZ-SRC-0076",
+    "canonical_url": "https://motorbicycling.com/threads/hello-from-tucson.12132/post-116511",
+    "target_url": "https://motorbicycling.com/threads/hello-from-tucson.12132/post-116511",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0117",
+    "source_id": "AZ-SRC-0077",
+    "canonical_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park",
+    "target_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0118",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0119",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0120",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0121",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0122",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0123",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0124",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0125",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0126",
+    "source_id": "AZ-SRC-0078",
+    "canonical_url": "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840",
+    "target_url": "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0127",
+    "source_id": "AZ-SRC-0078",
+    "canonical_url": "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840",
+    "target_url": "https://www.legacy.com/us/obituaries/azcentral/name/ted-jorgensen-obituary?id=17934840",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0128",
+    "source_id": "AZ-SRC-0079",
+    "canonical_url": "https://www.library.pima.gov/content/randolph-golf-course-park-origin-of-name/",
+    "target_url": "https://www.library.pima.gov/content/randolph-golf-course-park-origin-of-name/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0129",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0130",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0131",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0131",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0132",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0133",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0133",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0134",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0135",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0135",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0136",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0136",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0137",
+    "source_id": "AZ-SRC-0081",
+    "canonical_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf",
+    "target_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf#page=16",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "source_id": "AZ-SRC-0080",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8506.pdf#page=26",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "source_id": "AZ-SRC-0081",
+    "canonical_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf",
+    "target_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf#page=16",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "source_id": "AZ-SRC-0082",
+    "canonical_url": "https://prescott-az.gov/rec-services/recreation-areas-prescott/parks/heritage-park/",
+    "target_url": "https://prescott-az.gov/rec-services/recreation-areas-prescott/parks/heritage-park/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0138",
+    "source_id": "AZ-SRC-0083",
+    "canonical_url": "https://www.anyplaceamerica.com/directory/az/yavapai-county-04025/parks/heritage-park-2040099/",
+    "target_url": "https://www.anyplaceamerica.com/directory/az/yavapai-county-04025/parks/heritage-park-2040099/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0139",
+    "source_id": "AZ-SRC-0084",
+    "canonical_url": "https://www.facebook.com/groups/3631701850188754/posts/7279655855393317/",
+    "target_url": "https://www.facebook.com/groups/3631701850188754/posts/7279655855393317/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0140",
+    "source_id": "AZ-SRC-0085",
+    "canonical_url": "https://www.facebook.com/bmxhof/videos/ever-wonder-how-and-why-the-aba-got-started-way-back-in-1977-bmx-hall-of-famer-a/1230240625126141/",
+    "target_url": "https://www.facebook.com/bmxhof/videos/ever-wonder-how-and-why-the-aba-got-started-way-back-in-1977-bmx-hall-of-famer-a/1230240625126141/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0141",
+    "source_id": "AZ-SRC-0086",
+    "canonical_url": "https://groups.io/g/vanishingtucson/topic/50871575",
+    "target_url": "https://groups.io/g/vanishingtucson/topic/50871575",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0142",
+    "source_id": "AZ-SRC-0087",
+    "canonical_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Special-Places/Performance-Areas-and-Amphitheaters",
+    "target_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Special-Places/Performance-Areas-and-Amphitheaters",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0143",
+    "source_id": "AZ-SRC-0074",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXPlus_8310.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXPlus_8310.pdf#page=9",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0144",
+    "source_id": "AZ-SRC-0088",
+    "canonical_url": "https://www.usabmx.com/events/235476/results",
+    "target_url": "https://www.usabmx.com/events/235476/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0145",
+    "source_id": "AZ-SRC-0089",
+    "canonical_url": "https://www.usabmx.com/events/218707",
+    "target_url": "https://www.usabmx.com/events/218707",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0146",
+    "source_id": "AZ-SRC-0088",
+    "canonical_url": "https://www.usabmx.com/events/235476/results",
+    "target_url": "https://www.usabmx.com/events/235476/results",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0146",
+    "source_id": "AZ-SRC-0089",
+    "canonical_url": "https://www.usabmx.com/events/218707",
+    "target_url": "https://www.usabmx.com/events/218707",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0146",
+    "source_id": "AZ-SRC-0090",
+    "canonical_url": "https://www.chinovalleyaz.gov/facilities/facility/details/Memory-Park-1",
+    "target_url": "https://www.chinovalleyaz.gov/facilities/facility/details/Memory-Park-1",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0147",
+    "source_id": "AZ-SRC-0091",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/7853",
+    "target_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/7853",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0148",
+    "source_id": "AZ-SRC-0092",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/13565",
+    "target_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/13565",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0149",
+    "source_id": "AZ-SRC-0093",
+    "canonical_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park",
+    "target_url": "https://www.tucsonaz.gov/Departments/Parks-and-Recreation/Parks/Gene-C.-Reid-Park",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0150",
+    "source_id": "AZ-SRC-0094",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/5323",
+    "target_url": "https://maps-and-records.tucsonaz.gov/construction-plans/details/5323",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0151",
+    "source_id": "AZ-SRC-0095",
+    "canonical_url": "https://www.cympo.org/docs/pv-study-final-report-nov-2021.pdf",
+    "target_url": "https://www.cympo.org/docs/pv-study-final-report-nov-2021.pdf",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0152",
+    "source_id": "AZ-SRC-0096",
+    "canonical_url": "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf",
+    "target_url": "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf#page=116",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0153",
+    "source_id": "AZ-SRC-0097",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/construction-plans?direction=asc&page=33&sort=sort",
+    "target_url": "https://maps-and-records.tucsonaz.gov/construction-plans?direction=asc&page=33&sort=sort",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0154",
+    "source_id": "AZ-SRC-0098",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/field-books?direction=asc&page=115&sort=book",
+    "target_url": "https://maps-and-records.tucsonaz.gov/field-books?direction=asc&page=115&sort=book",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0155",
+    "source_id": "AZ-SRC-0099",
+    "canonical_url": "https://lib.arizona.edu/find/maps/aerial",
+    "target_url": "https://lib.arizona.edu/find/maps/aerial",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0156",
+    "source_id": "AZ-SRC-0100",
+    "canonical_url": "https://gis.pima.gov/maps/RFCD/aerialsgrid/",
+    "target_url": "https://gis.pima.gov/maps/RFCD/aerialsgrid/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0157",
+    "source_id": "AZ-SRC-0101",
+    "canonical_url": "https://www.chinovalleyaz.gov/ArchiveCenter/ViewFile/Item/65",
+    "target_url": "https://www.chinovalleyaz.gov/ArchiveCenter/ViewFile/Item/65",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0158",
+    "source_id": "AZ-SRC-0102",
+    "canonical_url": "https://www.chinovalleyaz.gov/DocumentCenter/View/9310/Integrated-Water-Master-Plan-OHM",
+    "target_url": "https://www.chinovalleyaz.gov/DocumentCenter/View/9310/Integrated-Water-Master-Plan-OHM",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0159",
+    "source_id": "AZ-SRC-0103",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/field-books/details/17526",
+    "target_url": "https://maps-and-records.tucsonaz.gov/field-books/details/17526",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0160",
+    "source_id": "AZ-SRC-0104",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/field-books/details/2314",
+    "target_url": "https://maps-and-records.tucsonaz.gov/field-books/details/2314",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0161",
+    "source_id": "AZ-SRC-0105",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/field-books/details/508",
+    "target_url": "https://maps-and-records.tucsonaz.gov/field-books/details/508",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0162",
+    "source_id": "AZ-SRC-0106",
+    "canonical_url": "https://pro.tucsonaz.gov/address_search/900/S/RANDOLPH/WY",
+    "target_url": "https://pro.tucsonaz.gov/address_search/900/S/RANDOLPH/WY",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0163",
+    "source_id": "AZ-SRC-0107",
+    "canonical_url": "https://maps-and-records.tucsonaz.gov/construction-plans?direction=desc&page=6&plan=&sort=ConstructionPlans.sort",
+    "target_url": "https://maps-and-records.tucsonaz.gov/construction-plans?direction=desc&page=6&plan=&sort=ConstructionPlans.sort",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0164",
+    "source_id": "AZ-SRC-0108",
+    "canonical_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf",
+    "target_url": "https://d2umhuunwbec1r.cloudfront.net/gallery/asp-archive/publications/downloads/2013_SCORP_Appendices.pdf#page=14",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0165",
+    "source_id": "AZ-SRC-0109",
+    "canonical_url": "https://azmemory.azlibrary.gov/assets/displaypdf/323447",
+    "target_url": "https://azmemory.azlibrary.gov/assets/displaypdf/323447",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0166",
+    "source_id": "AZ-SRC-0110",
+    "canonical_url": "https://fergusotters66.blogspot.com/2007/01/",
+    "target_url": "https://fergusotters66.blogspot.com/2007/01/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0167",
+    "source_id": "AZ-SRC-0096",
+    "canonical_url": "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf",
+    "target_url": "https://cms1files.revize.com/prescottvalleyaz/Documents/Explore/Historical%20Society/Bob%20Ott%20Historical%20Summary%2C%20PV%20Newspaper%20Clippings%20Aug%2078%20to%20Oct%2002.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0168",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0169",
+    "source_id": "AZ-SRC-0111",
+    "canonical_url": "https://501c3lookup.org/colorado-river-bmx-inc_860890218",
+    "target_url": "https://501c3lookup.org/colorado-river-bmx-inc_860890218",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0170",
+    "source_id": "AZ-SRC-0112",
+    "canonical_url": "https://www.thebee.news/bmx-a-family-affair/",
+    "target_url": "https://www.thebee.news/bmx-a-family-affair/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0171",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0172",
+    "source_id": "AZ-SRC-0113",
+    "canonical_url": "https://www.bmxnews.com/pdf/history_of_bmx_timeline_012019.pdf",
+    "target_url": "https://www.bmxnews.com/pdf/history_of_bmx_timeline_012019.pdf#page=3",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0173",
+    "source_id": "AZ-SRC-0114",
+    "canonical_url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86405.asp",
+    "target_url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86405.asp",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0174",
+    "source_id": "AZ-SRC-0115",
+    "canonical_url": "https://www.lhcaz.gov/DocumentCenter/View/1499/Budget-Book-Fy-2011-PDF",
+    "target_url": "https://www.lhcaz.gov/DocumentCenter/View/1499/Budget-Book-Fy-2011-PDF",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0175",
+    "source_id": "AZ-SRC-0116",
+    "canonical_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "target_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0176",
+    "source_id": "AZ-SRC-0116",
+    "canonical_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "target_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0177",
+    "source_id": "AZ-SRC-0116",
+    "canonical_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "target_url": "https://lakehavasucity.granicus.com/MetaViewer.php?clip_id=464&meta_id=40655&view_id=5",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0178",
+    "source_id": "AZ-SRC-0117",
+    "canonical_url": "https://riverscenemagazine.com/local-bmx-racers-get-new-track/",
+    "target_url": "https://riverscenemagazine.com/local-bmx-racers-get-new-track/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0179",
+    "source_id": "AZ-SRC-0118",
+    "canonical_url": "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+    "target_url": "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0180",
+    "source_id": "AZ-SRC-0118",
+    "canonical_url": "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+    "target_url": "https://www.uscorpdirectory.com/az/lake-havasu-city/lake-havasu-city-bmx",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0181",
+    "source_id": "AZ-SRC-0120",
+    "canonical_url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86406.asp",
+    "target_url": "https://www.taxexemptworld.com/organizations/lake_havasu_city_az_86406.asp",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0185",
+    "source_id": "AZ-ATL-SRC-0004",
+    "canonical_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "target_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven#:~:text=Page%2037",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0186",
+    "source_id": "AZ-SRC-0133",
+    "canonical_url": "https://azmemory.azlibrary.gov/assets/displaypdf/97028",
+    "target_url": "https://azmemory.azlibrary.gov/assets/displaypdf/97028",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0187",
+    "source_id": "AZ-SRC-0135",
+    "canonical_url": "https://copperarea.com/wp-content/uploads/3_12_25-Copper-Basin-News.pdf",
+    "target_url": "https://copperarea.com/wp-content/uploads/3_12_25-Copper-Basin-News.pdf#page=4",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0188",
+    "source_id": "AZ-SRC-0136",
+    "canonical_url": "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf",
+    "target_url": "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf#page=3",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0189",
+    "source_id": "AZ-SRC-0136",
+    "canonical_url": "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf",
+    "target_url": "https://public.destinyhosted.com/yumacdocs/2020/BOSREG/20201221_1313/10263_Res_%232020-54_Parks_Mater_Plan_Draft_2.pdf#page=20",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0190",
+    "source_id": "AZ-SRC-0137",
+    "canonical_url": "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000",
+    "target_url": "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at document level; exact physical PDF page is not independently verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0191",
+    "source_id": "AZ-SRC-0138",
+    "canonical_url": "https://www.usabmx.com/events/445128",
+    "target_url": "https://www.usabmx.com/events/445128#:~:text=High%20Desert%2066%20will%20be%20implementing%20Block%20Racing",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified event-description text target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0192",
+    "source_id": "AZ-SRC-0139",
+    "canonical_url": "https://www.choosekingman.com/media/userfiles/subsite_236/files/resource-library/KAZ104_EcoDev2021AR_FINAL_PrintSingles.pdf",
+    "target_url": "https://www.choosekingman.com/media/userfiles/subsite_236/files/resource-library/KAZ104_EcoDev2021AR_FINAL_PrintSingles.pdf#page=14",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0193",
+    "source_id": "AZ-SRC-0140",
+    "canonical_url": "https://projects.propublica.org/nonprofits/organizations/463346689/201800699349200000/full/",
+    "target_url": "https://projects.propublica.org/nonprofits/organizations/463346689/201800699349200000/full/#:~:text=High%20Desert%2066%20Bmx%20Inc",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified organization heading target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0194",
+    "source_id": "AZ-SRC-0141",
+    "canonical_url": "https://parks.mohave.gov/media/4sng0hlt/complete-parks-master-plan.pdf",
+    "target_url": "https://parks.mohave.gov/media/4sng0hlt/complete-parks-master-plan.pdf",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "County PDF contains the facility inventory; exact PDF page target not independently verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0195",
+    "source_id": "AZ-SRC-0142",
+    "canonical_url": "https://www.mohave.gov/media/bwyjlnlm/2026-tentative-budget-june-2-2025.pdf",
+    "target_url": "https://www.mohave.gov/media/bwyjlnlm/2026-tentative-budget-june-2-2025.pdf#page=502",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified budget page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0196",
+    "source_id": "AZ-SRC-0070",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0197",
+    "source_id": "AZ-SRC-0070",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0198",
+    "source_id": "AZ-SRC-0070",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0199",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 24 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0200",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 24 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0200",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 25 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0201",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 24 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0201",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 25 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0202",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 24 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0202",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 25 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0203",
+    "source_id": "AZ-SRC-0072",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf#page=24",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 24 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0203",
+    "source_id": "AZ-SRC-0067",
+    "canonical_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf",
+    "target_url": "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf#page=25",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 25 target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0204",
+    "source_id": "AZ-SRC-0143",
+    "canonical_url": "https://oldschoolmags.com/mags/GO_9112.pdf",
+    "target_url": "https://oldschoolmags.com/mags/GO_9112.pdf#page=30",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page 30 contains the Arizona/Navajo County BMXPRESS and NEW TRACKS listings",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0205",
+    "source_id": "AZ-SRC-0070",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251741",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0206",
+    "source_id": "AZ-SRC-0071",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0207",
+    "source_id": "AZ-ATL-SRC-0004",
+    "canonical_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "target_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven#:~:text=Page%2034",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified period-venue section target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0207",
+    "source_id": "AZ-SRC-0144",
+    "canonical_url": "https://scottsdale.polarislibrary.com/polaris/search/title.aspx?cn=466451&ctx=1.1033.0.0.3&lp=1&pos=2",
+    "target_url": "https://scottsdale.polarislibrary.com/polaris/search/title.aspx?cn=466451&ctx=1.1033.0.0.3&lp=1&pos=2",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens directly to the Scottsdale Public Library historical record for the old Jaycees Rodeo Arena",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0208",
+    "source_id": "AZ-SRC-0137",
+    "canonical_url": "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000",
+    "target_url": "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "County agreement source opens at document level; exact physical PDF page target is not independently verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0209",
+    "source_id": "AZ-SRC-0071",
+    "canonical_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "target_url": "https://azmemory.azlibrary.gov/nodes/view/251743",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Arizona Memory scrapbook source opens at collection/page level; exact clipping target is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0171",
+    "source_id": "AZ-SRC-0075",
+    "canonical_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf",
+    "target_url": "https://oldschoolmags.com/mags/BMXA_8505.pdf#page=11",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0172",
+    "source_id": "AZ-ATL-SRC-0003",
+    "canonical_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+    "target_url": "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven#:~:text=Page%2034",
+    "precision": "EXACT SECTION TARGET",
+    "precision_note": "Verified text-fragment target",
+    "verified_target": true
+  },
+  {
+    "claim_id": "AZ-PUB-0172",
+    "source_id": "AZ-SRC-0001",
+    "canonical_url": "https://www.usabmx.com/tracks/az-chandler-bmx/about",
+    "target_url": "https://www.usabmx.com/tracks/az-chandler-bmx/about",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0179",
+    "source_id": "AZ-SRC-0119",
+    "canonical_url": "https://www.uscorpdirectory.com/2018-09-12",
+    "target_url": "https://www.uscorpdirectory.com/2018-09-12",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0180",
+    "source_id": "AZ-SRC-0119",
+    "canonical_url": "https://www.uscorpdirectory.com/2018-09-12",
+    "target_url": "https://www.uscorpdirectory.com/2018-09-12",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0181",
+    "source_id": "AZ-SRC-0121",
+    "canonical_url": "https://www.causeiq.com/directory/organizations-supporting-multiple-recreation-sports-and-social-clubs-list/lake-havasu-city-kingman-az-metro/",
+    "target_url": "https://www.causeiq.com/directory/organizations-supporting-multiple-recreation-sports-and-social-clubs-list/lake-havasu-city-kingman-az-metro/",
+    "precision": "PAGE-LEVEL SOURCE",
+    "precision_note": "Source opens at page/document level; exact section is not verified",
+    "verified_target": false
+  },
+  {
+    "claim_id": "AZ-PUB-0186",
+    "source_id": "AZ-SRC-0134",
+    "canonical_url": "https://www.bicycletucson.com/wp-content/uploads/2011/08/ECON_LIST_TucsonVelo.pdf",
+    "target_url": "https://www.bicycletucson.com/wp-content/uploads/2011/08/ECON_LIST_TucsonVelo.pdf#page=1",
+    "precision": "EXACT PAGE TARGET",
+    "precision_note": "Verified PDF page target",
+    "verified_target": true
+  }
+]

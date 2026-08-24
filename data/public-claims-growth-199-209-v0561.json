@@ -1,0 +1,265 @@
+[
+  {
+    "claim_id": "AZ-PUB-0199",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The March 1984 Bikes & Dirt Arizona track directory lists “Tempe, J&M BMX” with Mel Allen as the published contact and telephone numbers 602-968-4683 and 602-268-8103.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR MARCH 1984 PUBLISHED IDENTITY + CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf"
+    ],
+    "evidence_boundary": "This establishes one March 1984 directory occurrence for J&M BMX under Tempe and preserves the published contact and telephone numbers. It does not establish the exact track site, ownership, operating span, sanction history, or a relationship to any other Tempe or Phoenix-area BMX identity.",
+    "track_ids": [
+      "AZ-TRK-0132"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0200",
+    "category": "Historical Tracks / Period Directory Continuity",
+    "public_claim": "The March 1984 Bikes & Dirt directory lists Yuma BMX with Tom Pulido and telephone number 602-782-1469; the direct-verified April 1984 directory again lists Yuma BMX with Tom Pulido and publishes 602-782-1460.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / ADJACENT-DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MARCH–APRIL 1984 IDENTITY + CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072",
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes repeated adjacent-issue Yuma BMX identity and Tom Pulido contact wording while preserving the published telephone-number change rather than normalizing it. It does not prove the exact 1984 track site, ownership, uninterrupted operation, or continuity to the current Pacific Avenue facility.",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0201",
+    "category": "Historical Tracks / Period Directory Continuity",
+    "public_claim": "The March and April 1984 Bikes & Dirt Arizona directories both list Bullhead City Kiwanis with Kirk Jongsma and the same published telephone numbers, 602-758-7575 and 602-758-3002.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / ADJACENT-DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MARCH–APRIL 1984 IDENTITY + CONTACT + NUMBERS",
+    "source_ids": [
+      "AZ-SRC-0072",
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes repeated adjacent-issue Bullhead City Kiwanis directory identity, contact and telephone numbers. It does not establish ownership, the exact historical track site, or formal continuity to the 1985 Bullhead identities or current Colorado River BMX.",
+    "track_ids": [
+      "AZ-TRK-0120"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0202",
+    "category": "Historical Tracks / Period Directory Continuity",
+    "public_claim": "The March and April 1984 Bikes & Dirt Arizona directories both list White Mountain BMX Raceway in Lakeside with Rick Padilla and Mike J. Nasser and published telephone number 602-537-5858.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / ADJACENT-DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MARCH–APRIL 1984 IDENTITY + CONTACT + NUMBER",
+    "source_ids": [
+      "AZ-SRC-0072",
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes repeated adjacent-issue White Mountain BMX Raceway identity, contacts and telephone number. It does not establish ownership, operating span, exact historical site, or lineage to later White Mountains-area BMX records.",
+    "track_ids": [
+      "AZ-TRK-0122"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0203",
+    "category": "Historical Tracks / Period Directory Continuity",
+    "public_claim": "The March and April 1984 Bikes & Dirt Arizona directories both list Chandler Jaycees BMX with Dennis Kalsow; March publishes 602-831-2511 and 602-963-0492, while April repeats 602-831-2511.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / ADJACENT-DIRECTORY COMPARISON",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPEATED MARCH–APRIL 1984 IDENTITY + CONTACT",
+    "source_ids": [
+      "AZ-SRC-0072",
+      "AZ-SRC-0067"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8403.pdf",
+      "https://oldschoolmags.com/mags/Bikes_Dirt_8404.pdf"
+    ],
+    "evidence_boundary": "This establishes repeated adjacent-issue Chandler Jaycees BMX identity and Dennis Kalsow contact wording and preserves the published telephone-number detail. It does not by itself establish Kalsow’s ownership or operator role, exact historical course geometry, or every organizational transition to the current Chandler BMX identity.",
+    "track_ids": [
+      "AZ-TRK-0102"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0204",
+    "category": "Historical Tracks / Period Directory",
+    "public_claim": "The November 1991 GO: The Rider’s Manual directory lists “Navajo County BMXPRESS” in Holbrook with Paul DoBell and telephone number 602-524-6407; a separate “NEW TRACKS” box in the same issue lists Holbrook, Arizona / BMX Press / Paul Dobell with the same number.",
+    "evidence_character": "FACT — PERIOD BMX PUBLICATION / DIRECTORY",
+    "authority": "B1",
+    "confidence": "HIGH FOR NOVEMBER 1991 PUBLISHED BMXPRESS IDENTITY + CONTACT",
+    "source_ids": [
+      "AZ-SRC-0143"
+    ],
+    "source_urls": [
+      "https://oldschoolmags.com/mags/GO_9112.pdf"
+    ],
+    "evidence_boundary": "This independently preserves the BMXPRESS identity, Holbrook locality, Paul DoBell/Dobell contact and telephone number in a national BMX publication. The “NEW TRACKS” directory label is not treated as proof that the physical Holbrook facility first opened in 1991; period local newspaper evidence documents the fairgrounds BMX facility in 1989.",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0205",
+    "category": "Historical Tracks / Community Construction",
+    "public_claim": "A 1989 Tribune-News report says another 1,500 to 1,600 yards of fill dirt were needed to complete the Holbrook BMX track’s berms, curves and jumps, that more than 110 truck trips carried fill, and that National Bike League representative Bob Tedesco was in Holbrook to engineer the construction.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / CONSTRUCTION REPORT",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPORTED CONSTRUCTION SCALE + NBL ENGINEERING ROLE",
+    "source_ids": [
+      "AZ-SRC-0070"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251741"
+    ],
+    "evidence_boundary": "This preserves the period newspaper’s reported construction quantities, truck activity and Bob Tedesco/NBL engineering role. It does not reconstruct the final course geometry, establish a licensed engineer-of-record relationship beyond the wording of the report, or prove which individual features survived later changes.",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0206",
+    "category": "Events / Qualifier Weekend",
+    "public_claim": "A 1992 Tribune-News report says Painted Desert BMX Track in Holbrook had been designated for a qualifier meet on August 15–16 and that more than 150 riders were expected.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / ANNOUNCED EVENT",
+    "authority": "B1",
+    "confidence": "HIGH FOR ANNOUNCED AUGUST 15–16 QUALIFIER + EXPECTED ATTENDANCE",
+    "source_ids": [
+      "AZ-SRC-0071"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251743"
+    ],
+    "evidence_boundary": "This establishes the period announcement, planned two-day qualifier dates and reported expectation of more than 150 riders. It does not by itself prove that the event occurred as planned or that actual attendance exceeded 150.",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0207",
+    "category": "Historical Tracks / Geographic Registration",
+    "public_claim": "BMX Plus! identifies Scottsdale Jaycees Rodeo BMX Park as the 1986 Winter Nationals venue, while a Scottsdale Historical Society digital record places the Jaycees Rodeo Arena on the east side of 78th Street north of Osborn Road and says it was later removed for Scottsdale Stadium expansion. Together, those records narrow the BMX venue to the Jaycees rodeo / Scottsdale Stadium complex.",
+    "evidence_character": "CROSS-SOURCE SYNTHESIS — PERIOD BMX VENUE + LOCAL HISTORICAL SITE RECORD",
+    "authority": "B1 + A2/C1 LOCAL ARCHIVE",
+    "confidence": "MEDIUM-HIGH FOR RODEO/STADIUM COMPLEX; EXACT BMX COURSE POINT OPEN",
+    "source_ids": [
+      "AZ-ATL-SRC-0004",
+      "AZ-SRC-0144"
+    ],
+    "source_urls": [
+      "https://previouspage.co.uk/magazines/BMX%20Plus/issues/242-june-nineteen-eighty-seven",
+      "https://scottsdale.polarislibrary.com/polaris/search/title.aspx?cn=466451&ctx=1.1033.0.0.3&lp=1&pos=2"
+    ],
+    "evidence_boundary": "This narrows the historical BMX venue to the documented Jaycees rodeo / Scottsdale Stadium complex. It does not establish the exact BMX course center, parcel boundary, separating roadway from the period jail, or a Geographic Absolute coordinate.",
+    "track_ids": [
+      "AZ-TRK-0103"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0208",
+    "category": "Historical Tracks / Municipal Site Record",
+    "public_claim": "Yuma County’s 2009 agreement describes its governed property in Section 2, Township 9 South, Range 23 West and expressly excludes a portion of the northwest quarter of the southwest quarter of the southwest quarter that was more particularly described in the August 20, 2001 agreement between Yuma County and Yuma BMX, Inc.",
+    "evidence_character": "FACT — COUNTY BOARD RECORD / LEGAL-DESCRIPTION REFERENCE",
+    "authority": "A2",
+    "confidence": "HIGH FOR LEGAL-AREA REFERENCE; EXACT 2001 METES-AND-BOUNDS OPEN",
+    "source_ids": [
+      "AZ-SRC-0137"
+    ],
+    "source_urls": [
+      "https://www.yumacountyaz.gov/home/showpublisheddocument/4141/635327767120170000"
+    ],
+    "evidence_boundary": "This materially narrows the property context governed by the referenced 2001 Yuma BMX agreement to a described subdivision of Section 2. It does not recover the 2001 agreement’s complete legal description, establish an exact BMX course center, or justify moving the current governed coordinate.",
+    "track_ids": [
+      "AZ-TRK-0006"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  },
+  {
+    "claim_id": "AZ-PUB-0209",
+    "category": "Historical Tracks / Operations",
+    "public_claim": "A 1992 Tribune-News report says memberships were continuing to increase at Painted Desert BMX Track at the Navajo County Fairgrounds in Holbrook and that racing was held each Saturday through the end of October.",
+    "evidence_character": "FACT — PERIOD LOCAL NEWSPAPER / OPERATING-SCHEDULE REPORT",
+    "authority": "B1",
+    "confidence": "HIGH FOR REPORTED 1992 MEMBERSHIP GROWTH + SATURDAY SCHEDULE",
+    "source_ids": [
+      "AZ-SRC-0071"
+    ],
+    "source_urls": [
+      "https://azmemory.azlibrary.gov/nodes/view/251743"
+    ],
+    "evidence_boundary": "This establishes a period-reported operating cadence and membership-growth statement for Painted Desert BMX Track in 1992. It does not establish exact membership totals, uninterrupted operation beyond the reported season, or a formal relationship date between BMXpress and Painted Desert BMX Track.",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "status": "PUBLIC_ADMISSION_READY",
+    "growth_release": "v0.56.1 content expansion 2",
+    "admission_basis": "Admitted under frozen v0.55.8 UX baseline after Arizona-nexus, source-precision and evidence-boundary review.",
+    "audit_date": "2026-08-23",
+    "record_class": "PUBLIC_ARIZONA_CLAIM"
+  }
+]

@@ -47,10 +47,12 @@
       "AZ-TRK-0124"
     ],
     "claim_ids": [
-      "AZ-PUB-0098"
+      "AZ-PUB-0098",
+      "AZ-PUB-0196",
+      "AZ-PUB-0197"
     ],
     "status": "PERIOD_VERIFIED",
-    "summary": "Period Tribune-News reporting says the first BMX races were held at the newly completed facility at the Navajo County Fairgrounds in Holbrook.",
+    "summary": "Period Tribune-News reporting says 26 racers took part in the first BMX races at the newly completed volunteer-built facility at the Navajo County Fairgrounds in Holbrook; NBL state director Regina Martin praised the track and local effort.",
     "boundary": "The newspaper supports the new-facility/opening-era race and fairgrounds property; it does not establish the exact track-center coordinate or later formal name-transition date."
   },
   {
@@ -214,10 +216,11 @@
     "claim_ids": [
       "AZ-PUB-0043",
       "AZ-PUB-0044",
-      "AZ-PUB-0045"
+      "AZ-PUB-0045",
+      "AZ-PUB-0192"
     ],
     "status": "A1_EVENT_VERIFIED",
-    "summary": "USA BMX announced the May 7–9, 2021 Route 66 Classic Nationals at High Desert 66 BMX and identified Harry Leary as Track Operator.",
+    "summary": "USA BMX announced the May 7–9, 2021 Route 66 Classic Nationals at High Desert 66 BMX and identified Harry Leary as Track Operator; Kingman later reported roughly 500 competitors and 2,200–3,000 spectators.",
     "boundary": "The event does not by itself prove exact organizational succession to current Interstate BMX."
   },
   {
@@ -510,5 +513,41 @@
     "status": "A1_EVENT_VERIFIED",
     "summary": "USA BMX documents a State Qualifier at Mile High BMX in Chino Valley on August 10, 2003.",
     "boundary": "The second event independently repeats the identity and address; it does not prove uninterrupted operation, exact course geometry or lineage with earlier Arizona Mile-Hi/Chino Valley records."
+  },
+  {
+    "event_id": "AZ-EVT-0030",
+    "title": "High Desert 66 state qualifier block-racing day",
+    "start": "2020-09-27",
+    "end": "2020-09-27",
+    "date_precision": "EXACT DAY",
+    "event_type": "State qualifier / block racing",
+    "city": "Kingman",
+    "track_ids": [
+      "AZ-TRK-0104"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0191"
+    ],
+    "status": "A1_EVENT_DESCRIPTION_VERIFIED",
+    "summary": "A USA BMX event record at 2600 Fairgrounds Blvd contains event-description text naming High Desert 66 and describing block racing for a state qualifier.",
+    "boundary": "The current page shell displays Interstate BMX; that live-shell label is not backdated. The dated event description is the historical-name witness, and exact organizational succession remains open."
+  },
+  {
+    "event_id": "AZ-EVT-0031",
+    "title": "Painted Desert BMX announced qualifier weekend",
+    "start": "1992-08-15",
+    "end": "1992-08-16",
+    "date_precision": "ANNOUNCED EXACT RANGE",
+    "event_type": "Announced qualifier weekend",
+    "city": "Holbrook",
+    "track_ids": [
+      "AZ-TRK-0124"
+    ],
+    "claim_ids": [
+      "AZ-PUB-0206"
+    ],
+    "status": "B1_PERIOD_NEWSPAPER_ANNOUNCED_EVENT",
+    "summary": "A 1992 Tribune-News report says Painted Desert BMX Track at the Navajo County Fairgrounds had been designated for a two-day qualifier on August 15–16 and that more than 150 riders were expected.",
+    "boundary": "This event object governs the period announcement only. It does not assert that the qualifier occurred as planned or that actual attendance exceeded 150."
   }
 ]

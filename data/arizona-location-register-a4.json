@@ -544,5 +544,18 @@
     "address_source": null,
     "time_boundary": "March 1984 through May 1985 repeated exact-name period-directory identity under Phoenix",
     "boundary": "CITY ONLY NO POINT. Repeated period directories place Roadrunner Raceway under Phoenix, but no exact street address, park, parcel or defensible course coordinate has been recovered. Similar Road Runner naming and nearby Phoenix BMX identities are not geographic bridges."
+  },
+  {
+    "track_id": "AZ-TRK-0132",
+    "name": "J&M BMX",
+    "location_state": "CITY_ONLY_NO_POINT",
+    "lat": null,
+    "lon": null,
+    "coordinate_confidence": "OPEN",
+    "coordinate_authority": "B1 March 1984 period-directory identity under Tempe",
+    "coordinate_source": null,
+    "address_source": null,
+    "time_boundary": "March 1984 period-directory identity under Tempe",
+    "boundary": "CITY ONLY NO POINT. The March 1984 directory places J&M BMX under Tempe and names Mel Allen as the published contact. No exact street address, park, parcel or defensible course coordinate has been recovered."
   }
 ]
